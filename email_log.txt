@@ -1,0 +1,2620 @@
+2025-09-10 10:39:52,778 - 📷 First frame captured as baseline.
+2025-09-10 10:39:54,158 - 📸 Motion detected! Saved image: images/1.png
+2025-09-10 10:40:20,864 - 📷 First frame captured as baseline.
+2025-09-10 10:40:22,016 - 📸 Motion detected! Saved image: images/1.png
+2025-09-10 10:40:22,048 - 📸 Motion detected! Saved image: images/2.png
+2025-09-10 10:40:22,090 - 📸 Motion detected! Saved image: images/3.png
+2025-09-10 10:40:22,118 - 📸 Motion detected! Saved image: images/4.png
+2025-09-10 10:40:22,146 - 📸 Motion detected! Saved image: images/5.png
+2025-09-10 10:40:22,187 - 📸 Motion detected! Saved image: images/6.png
+2025-09-10 10:40:22,214 - 📸 Motion detected! Saved image: images/7.png
+2025-09-10 10:40:22,256 - 📸 Motion detected! Saved image: images/8.png
+2025-09-10 10:40:22,282 - 📸 Motion detected! Saved image: images/9.png
+2025-09-10 10:40:22,324 - 📸 Motion detected! Saved image: images/10.png
+2025-09-10 10:40:22,422 - 📸 Motion detected! Saved image: images/11.png
+2025-09-10 10:40:22,454 - 📸 Motion detected! Saved image: images/12.png
+2025-09-10 10:40:22,489 - 📸 Motion detected! Saved image: images/13.png
+2025-09-10 10:40:22,517 - 📸 Motion detected! Saved image: images/14.png
+2025-09-10 10:40:22,552 - 📸 Motion detected! Saved image: images/15.png
+2025-09-10 10:40:22,579 - 📸 Motion detected! Saved image: images/16.png
+2025-09-10 10:40:22,609 - 📸 Motion detected! Saved image: images/17.png
+2025-09-10 10:40:22,636 - 📸 Motion detected! Saved image: images/18.png
+2025-09-10 10:40:22,689 - 📸 Motion detected! Saved image: images/19.png
+2025-09-10 10:40:22,716 - 📸 Motion detected! Saved image: images/20.png
+2025-09-10 10:40:22,743 - 📸 Motion detected! Saved image: images/21.png
+2025-09-10 10:40:22,770 - 📸 Motion detected! Saved image: images/22.png
+2025-09-10 10:40:22,819 - 📸 Motion detected! Saved image: images/23.png
+2025-09-10 10:40:22,846 - 📸 Motion detected! Saved image: images/24.png
+2025-09-10 10:40:23,634 - 📸 Motion detected! Saved image: images/25.png
+2025-09-10 10:40:23,697 - 📸 Motion detected! Saved image: images/26.png
+2025-09-10 10:40:23,756 - 📸 Motion detected! Saved image: images/27.png
+2025-09-10 10:40:23,783 - 📸 Motion detected! Saved image: images/28.png
+2025-09-10 10:40:23,817 - 📸 Motion detected! Saved image: images/29.png
+2025-09-10 10:40:23,843 - 📸 Motion detected! Saved image: images/30.png
+2025-09-10 10:40:23,869 - 📸 Motion detected! Saved image: images/31.png
+2025-09-10 10:40:23,919 - 📸 Motion detected! Saved image: images/32.png
+2025-09-10 10:40:23,947 - 📸 Motion detected! Saved image: images/33.png
+2025-09-10 10:40:23,973 - 📸 Motion detected! Saved image: images/34.png
+2025-09-10 10:40:24,020 - 📸 Motion detected! Saved image: images/35.png
+2025-09-10 10:40:24,046 - 📸 Motion detected! Saved image: images/36.png
+2025-09-10 10:40:24,074 - 📸 Motion detected! Saved image: images/37.png
+2025-09-10 10:40:24,122 - 📸 Motion detected! Saved image: images/38.png
+2025-09-10 10:40:24,190 - 📸 Motion detected! Saved image: images/39.png
+2025-09-10 10:40:24,217 - 📸 Motion detected! Saved image: images/40.png
+2025-09-10 10:40:24,251 - 📸 Motion detected! Saved image: images/41.png
+2025-09-10 10:40:24,283 - 📸 Motion detected! Saved image: images/42.png
+2025-09-10 10:40:24,318 - 📸 Motion detected! Saved image: images/43.png
+2025-09-10 10:40:24,350 - 📸 Motion detected! Saved image: images/44.png
+2025-09-10 10:40:24,385 - 📸 Motion detected! Saved image: images/45.png
+2025-09-10 10:40:24,417 - 📸 Motion detected! Saved image: images/46.png
+2025-09-10 10:40:24,450 - 📸 Motion detected! Saved image: images/47.png
+2025-09-10 10:40:24,483 - 📸 Motion detected! Saved image: images/48.png
+2025-09-10 10:40:24,522 - 📸 Motion detected! Saved image: images/49.png
+2025-09-10 10:40:24,551 - 📸 Motion detected! Saved image: images/50.png
+2025-09-10 10:40:24,583 - 📸 Motion detected! Saved image: images/51.png
+2025-09-10 10:40:24,617 - 📸 Motion detected! Saved image: images/52.png
+2025-09-10 10:40:24,650 - 📸 Motion detected! Saved image: images/53.png
+2025-09-10 10:40:24,685 - 📸 Motion detected! Saved image: images/54.png
+2025-09-10 10:40:24,717 - 📸 Motion detected! Saved image: images/55.png
+2025-09-10 10:40:24,749 - 📸 Motion detected! Saved image: images/56.png
+2025-09-10 10:40:24,786 - 📸 Motion detected! Saved image: images/57.png
+2025-09-10 10:40:24,816 - 📸 Motion detected! Saved image: images/58.png
+2025-09-10 10:40:24,850 - 📸 Motion detected! Saved image: images/59.png
+2025-09-10 10:40:24,883 - 📸 Motion detected! Saved image: images/60.png
+2025-09-10 10:40:24,917 - 📸 Motion detected! Saved image: images/61.png
+2025-09-10 10:40:24,950 - 📸 Motion detected! Saved image: images/62.png
+2025-09-10 10:40:24,983 - 📸 Motion detected! Saved image: images/63.png
+2025-09-10 10:40:25,019 - 📸 Motion detected! Saved image: images/64.png
+2025-09-10 10:40:25,045 - 📸 Motion detected! Saved image: images/65.png
+2025-09-10 10:40:25,084 - 📸 Motion detected! Saved image: images/66.png
+2025-09-10 10:40:25,111 - 📸 Motion detected! Saved image: images/67.png
+2025-09-10 10:40:25,150 - 📸 Motion detected! Saved image: images/68.png
+2025-09-10 10:40:25,176 - 📸 Motion detected! Saved image: images/69.png
+2025-09-10 10:40:25,222 - 📸 Motion detected! Saved image: images/70.png
+2025-09-10 10:40:25,248 - 📸 Motion detected! Saved image: images/71.png
+2025-09-10 10:40:25,284 - 📸 Motion detected! Saved image: images/72.png
+2025-09-10 10:40:25,310 - 📸 Motion detected! Saved image: images/73.png
+2025-09-10 10:40:25,352 - 📸 Motion detected! Saved image: images/74.png
+2025-09-10 10:40:25,379 - 📸 Motion detected! Saved image: images/75.png
+2025-09-10 10:40:25,419 - 📸 Motion detected! Saved image: images/76.png
+2025-09-10 10:40:25,444 - 📸 Motion detected! Saved image: images/77.png
+2025-09-10 10:40:25,470 - 📸 Motion detected! Saved image: images/78.png
+2025-09-10 10:40:25,520 - 📸 Motion detected! Saved image: images/79.png
+2025-09-10 10:40:25,545 - 📸 Motion detected! Saved image: images/80.png
+2025-09-10 10:40:25,571 - 📸 Motion detected! Saved image: images/81.png
+2025-09-10 10:40:25,620 - 📸 Motion detected! Saved image: images/82.png
+2025-09-10 10:40:25,645 - 📸 Motion detected! Saved image: images/83.png
+2025-09-10 10:40:25,671 - 📸 Motion detected! Saved image: images/84.png
+2025-09-10 10:40:25,720 - 📸 Motion detected! Saved image: images/85.png
+2025-09-10 10:40:25,745 - 📸 Motion detected! Saved image: images/86.png
+2025-09-10 10:40:25,772 - 📸 Motion detected! Saved image: images/87.png
+2025-09-10 10:40:25,798 - 📸 Motion detected! Saved image: images/88.png
+2025-09-10 10:40:25,854 - 📸 Motion detected! Saved image: images/89.png
+2025-09-10 10:40:25,880 - 📸 Motion detected! Saved image: images/90.png
+2025-09-10 10:40:25,907 - 📸 Motion detected! Saved image: images/91.png
+2025-09-10 10:40:25,933 - 📸 Motion detected! Saved image: images/92.png
+2025-09-10 10:40:25,960 - 📸 Motion detected! Saved image: images/93.png
+2025-09-10 10:40:26,016 - 📸 Motion detected! Saved image: images/94.png
+2025-09-10 10:40:26,042 - 📸 Motion detected! Saved image: images/95.png
+2025-09-10 10:40:26,069 - 📸 Motion detected! Saved image: images/96.png
+2025-09-10 10:40:26,095 - 📸 Motion detected! Saved image: images/97.png
+2025-09-10 10:40:26,155 - 📸 Motion detected! Saved image: images/98.png
+2025-09-10 10:40:26,181 - 📸 Motion detected! Saved image: images/99.png
+2025-09-10 10:40:26,218 - 📸 Motion detected! Saved image: images/100.png
+2025-09-10 10:40:26,249 - 📸 Motion detected! Saved image: images/101.png
+2025-09-10 10:40:26,275 - 📸 Motion detected! Saved image: images/102.png
+2025-09-10 10:40:26,302 - 📸 Motion detected! Saved image: images/103.png
+2025-09-10 10:40:26,353 - 📸 Motion detected! Saved image: images/104.png
+2025-09-10 10:40:26,378 - 📸 Motion detected! Saved image: images/105.png
+2025-09-10 10:40:26,404 - 📸 Motion detected! Saved image: images/106.png
+2025-09-10 10:40:26,453 - 📸 Motion detected! Saved image: images/107.png
+2025-09-10 10:40:26,480 - 📸 Motion detected! Saved image: images/108.png
+2025-09-10 10:40:26,506 - 📸 Motion detected! Saved image: images/109.png
+2025-09-10 10:40:26,555 - 📸 Motion detected! Saved image: images/110.png
+2025-09-10 10:40:26,622 - 📸 Motion detected! Saved image: images/111.png
+2025-09-10 10:40:26,651 - 📸 Motion detected! Saved image: images/112.png
+2025-09-10 10:40:26,683 - 📸 Motion detected! Saved image: images/113.png
+2025-09-10 10:40:26,717 - 📸 Motion detected! Saved image: images/114.png
+2025-09-10 10:40:26,750 - 📸 Motion detected! Saved image: images/115.png
+2025-09-10 10:40:26,785 - 📸 Motion detected! Saved image: images/116.png
+2025-09-10 10:40:26,817 - 📸 Motion detected! Saved image: images/117.png
+2025-09-10 10:40:26,851 - 📸 Motion detected! Saved image: images/118.png
+2025-09-10 10:40:26,886 - 📸 Motion detected! Saved image: images/119.png
+2025-09-10 10:40:26,954 - 📸 Motion detected! Saved image: images/120.png
+2025-09-10 10:40:27,021 - 📸 Motion detected! Saved image: images/121.png
+2025-09-10 10:40:27,088 - 📸 Motion detected! Saved image: images/122.png
+2025-09-10 10:40:27,160 - 📸 Motion detected! Saved image: images/123.png
+2025-09-10 10:40:27,222 - 📸 Motion detected! Saved image: images/124.png
+2025-09-10 10:40:27,289 - 📸 Motion detected! Saved image: images/125.png
+2025-09-10 10:40:27,357 - 📸 Motion detected! Saved image: images/126.png
+2025-09-10 10:40:27,422 - 📸 Motion detected! Saved image: images/127.png
+2025-09-10 10:40:27,524 - 📸 Motion detected! Saved image: images/128.png
+2025-09-10 10:40:27,590 - 📸 Motion detected! Saved image: images/129.png
+2025-09-10 10:40:27,617 - 📸 Motion detected! Saved image: images/130.png
+2025-09-10 10:40:27,649 - 📸 Motion detected! Saved image: images/131.png
+2025-09-10 10:40:27,675 - 📸 Motion detected! Saved image: images/132.png
+2025-09-10 10:40:27,721 - 📸 Motion detected! Saved image: images/133.png
+2025-09-10 10:40:27,747 - 📸 Motion detected! Saved image: images/134.png
+2025-09-10 10:40:27,783 - 📸 Motion detected! Saved image: images/135.png
+2025-09-10 10:40:27,809 - 📸 Motion detected! Saved image: images/136.png
+2025-09-10 10:40:27,850 - 📸 Motion detected! Saved image: images/137.png
+2025-09-10 10:40:27,876 - 📸 Motion detected! Saved image: images/138.png
+2025-09-10 10:40:27,903 - 📸 Motion detected! Saved image: images/139.png
+2025-09-10 10:40:27,952 - 📸 Motion detected! Saved image: images/140.png
+2025-09-10 10:40:27,979 - 📸 Motion detected! Saved image: images/141.png
+2025-09-10 10:40:28,005 - 📸 Motion detected! Saved image: images/142.png
+2025-09-10 10:40:28,054 - 📸 Motion detected! Saved image: images/143.png
+2025-09-10 10:40:28,081 - 📸 Motion detected! Saved image: images/144.png
+2025-09-10 10:40:28,108 - 📸 Motion detected! Saved image: images/145.png
+2025-09-10 10:40:28,134 - 📸 Motion detected! Saved image: images/146.png
+2025-09-10 10:40:28,186 - 📸 Motion detected! Saved image: images/147.png
+2025-09-10 10:40:28,212 - 📸 Motion detected! Saved image: images/148.png
+2025-09-10 10:40:28,238 - 📸 Motion detected! Saved image: images/149.png
+2025-09-10 10:40:28,266 - 📸 Motion detected! Saved image: images/150.png
+2025-09-10 10:40:28,318 - 📸 Motion detected! Saved image: images/151.png
+2025-09-10 10:40:28,346 - 📸 Motion detected! Saved image: images/152.png
+2025-09-10 10:40:28,372 - 📸 Motion detected! Saved image: images/153.png
+2025-09-10 10:40:28,399 - 📸 Motion detected! Saved image: images/154.png
+2025-09-10 10:40:28,451 - 📸 Motion detected! Saved image: images/155.png
+2025-09-10 10:40:28,478 - 📸 Motion detected! Saved image: images/156.png
+2025-09-10 10:40:28,505 - 📸 Motion detected! Saved image: images/157.png
+2025-09-10 10:40:28,551 - 📸 Motion detected! Saved image: images/158.png
+2025-09-10 10:40:28,578 - 📸 Motion detected! Saved image: images/159.png
+2025-09-10 10:40:28,604 - 📸 Motion detected! Saved image: images/160.png
+2025-09-10 10:40:28,631 - 📸 Motion detected! Saved image: images/161.png
+2025-09-10 10:40:28,700 - 📸 Motion detected! Saved image: images/162.png
+2025-09-10 10:40:28,728 - 📸 Motion detected! Saved image: images/163.png
+2025-09-10 10:40:28,755 - 📸 Motion detected! Saved image: images/164.png
+2025-09-10 10:40:28,781 - 📸 Motion detected! Saved image: images/165.png
+2025-09-10 10:40:28,815 - 📸 Motion detected! Saved image: images/166.png
+2025-09-10 10:40:28,841 - 📸 Motion detected! Saved image: images/167.png
+2025-09-10 10:40:28,867 - 📸 Motion detected! Saved image: images/168.png
+2025-09-10 10:40:28,894 - 📸 Motion detected! Saved image: images/169.png
+2025-09-10 10:40:28,953 - 📸 Motion detected! Saved image: images/170.png
+2025-09-10 10:40:28,980 - 📸 Motion detected! Saved image: images/171.png
+2025-09-10 10:40:29,010 - 📸 Motion detected! Saved image: images/172.png
+2025-09-10 10:40:29,043 - 📸 Motion detected! Saved image: images/173.png
+2025-09-10 10:40:29,084 - 📸 Motion detected! Saved image: images/174.png
+2025-09-10 10:40:29,110 - 📸 Motion detected! Saved image: images/175.png
+2025-09-10 10:40:29,137 - 📸 Motion detected! Saved image: images/176.png
+2025-09-10 10:40:29,186 - 📸 Motion detected! Saved image: images/177.png
+2025-09-10 10:40:29,213 - 📸 Motion detected! Saved image: images/178.png
+2025-09-10 10:40:29,239 - 📸 Motion detected! Saved image: images/179.png
+2025-09-10 10:40:29,286 - 📸 Motion detected! Saved image: images/180.png
+2025-09-10 10:40:29,313 - 📸 Motion detected! Saved image: images/181.png
+2025-09-10 10:40:29,341 - 📸 Motion detected! Saved image: images/182.png
+2025-09-10 10:40:29,384 - 📸 Motion detected! Saved image: images/183.png
+2025-09-10 10:40:29,414 - 📸 Motion detected! Saved image: images/184.png
+2025-09-10 10:40:29,441 - 📸 Motion detected! Saved image: images/185.png
+2025-09-10 10:40:29,467 - 📸 Motion detected! Saved image: images/186.png
+2025-09-10 10:40:29,518 - 📸 Motion detected! Saved image: images/187.png
+2025-09-10 10:40:29,545 - 📸 Motion detected! Saved image: images/188.png
+2025-09-10 10:40:29,572 - 📸 Motion detected! Saved image: images/189.png
+2025-09-10 10:40:29,620 - 📸 Motion detected! Saved image: images/190.png
+2025-09-10 10:40:29,646 - 📸 Motion detected! Saved image: images/191.png
+2025-09-10 10:40:29,673 - 📸 Motion detected! Saved image: images/192.png
+2025-09-10 10:40:29,722 - 📸 Motion detected! Saved image: images/193.png
+2025-09-10 10:40:29,751 - 📸 Motion detected! Saved image: images/194.png
+2025-09-10 10:40:29,780 - 📸 Motion detected! Saved image: images/195.png
+2025-09-10 10:40:29,819 - 📸 Motion detected! Saved image: images/196.png
+2025-09-10 10:40:29,851 - 📸 Motion detected! Saved image: images/197.png
+2025-09-10 10:40:29,878 - 📸 Motion detected! Saved image: images/198.png
+2025-09-10 10:40:29,905 - 📸 Motion detected! Saved image: images/199.png
+2025-09-10 10:40:29,953 - 📸 Motion detected! Saved image: images/200.png
+2025-09-10 10:40:29,979 - 📸 Motion detected! Saved image: images/201.png
+2025-09-10 10:40:30,006 - 📸 Motion detected! Saved image: images/202.png
+2025-09-10 10:40:30,033 - 📸 Motion detected! Saved image: images/203.png
+2025-09-10 10:40:30,086 - 📸 Motion detected! Saved image: images/204.png
+2025-09-10 10:40:30,112 - 📸 Motion detected! Saved image: images/205.png
+2025-09-10 10:40:30,139 - 📸 Motion detected! Saved image: images/206.png
+2025-09-10 10:40:30,186 - 📸 Motion detected! Saved image: images/207.png
+2025-09-10 10:40:30,213 - 📸 Motion detected! Saved image: images/208.png
+2025-09-10 10:40:30,239 - 📸 Motion detected! Saved image: images/209.png
+2025-09-10 10:40:30,287 - 📸 Motion detected! Saved image: images/210.png
+2025-09-10 10:40:30,313 - 📸 Motion detected! Saved image: images/211.png
+2025-09-10 10:40:30,340 - 📸 Motion detected! Saved image: images/212.png
+2025-09-10 10:40:30,385 - 📸 Motion detected! Saved image: images/213.png
+2025-09-10 10:40:30,412 - 📸 Motion detected! Saved image: images/214.png
+2025-09-10 10:40:30,440 - 📸 Motion detected! Saved image: images/215.png
+2025-09-10 10:40:30,485 - 📸 Motion detected! Saved image: images/216.png
+2025-09-10 10:40:30,512 - 📸 Motion detected! Saved image: images/217.png
+2025-09-10 10:40:30,539 - 📸 Motion detected! Saved image: images/218.png
+2025-09-10 10:40:30,582 - 📸 Motion detected! Saved image: images/219.png
+2025-09-10 10:40:30,610 - 📸 Motion detected! Saved image: images/220.png
+2025-09-10 10:40:30,636 - 📸 Motion detected! Saved image: images/221.png
+2025-09-10 10:40:30,683 - 📸 Motion detected! Saved image: images/222.png
+2025-09-10 10:40:30,711 - 📸 Motion detected! Saved image: images/223.png
+2025-09-10 10:40:30,738 - 📸 Motion detected! Saved image: images/224.png
+2025-09-10 10:40:30,786 - 📸 Motion detected! Saved image: images/225.png
+2025-09-10 10:40:30,813 - 📸 Motion detected! Saved image: images/226.png
+2025-09-10 10:40:30,840 - 📸 Motion detected! Saved image: images/227.png
+2025-09-10 10:40:30,886 - 📸 Motion detected! Saved image: images/228.png
+2025-09-10 10:40:30,913 - 📸 Motion detected! Saved image: images/229.png
+2025-09-10 10:40:30,939 - 📸 Motion detected! Saved image: images/230.png
+2025-09-10 10:40:30,987 - 📸 Motion detected! Saved image: images/231.png
+2025-09-10 10:40:31,013 - 📸 Motion detected! Saved image: images/232.png
+2025-09-10 10:40:31,049 - 📸 Motion detected! Saved image: images/233.png
+2025-09-10 10:40:31,076 - 📸 Motion detected! Saved image: images/234.png
+2025-09-10 10:40:31,102 - 📸 Motion detected! Saved image: images/235.png
+2025-09-10 10:40:31,153 - 📸 Motion detected! Saved image: images/236.png
+2025-09-10 10:40:31,180 - 📸 Motion detected! Saved image: images/237.png
+2025-09-10 10:40:31,207 - 📸 Motion detected! Saved image: images/238.png
+2025-09-10 10:40:31,234 - 📸 Motion detected! Saved image: images/239.png
+2025-09-10 10:40:31,285 - 📸 Motion detected! Saved image: images/240.png
+2025-09-10 10:40:31,354 - 📸 Motion detected! Saved image: images/241.png
+2025-09-10 10:40:31,420 - 📸 Motion detected! Saved image: images/242.png
+2025-09-10 10:40:31,488 - 📸 Motion detected! Saved image: images/243.png
+2025-09-10 10:40:31,554 - 📸 Motion detected! Saved image: images/244.png
+2025-09-10 10:40:31,621 - 📸 Motion detected! Saved image: images/245.png
+2025-09-10 10:40:31,688 - 📸 Motion detected! Saved image: images/246.png
+2025-09-10 10:40:31,758 - 📸 Motion detected! Saved image: images/247.png
+2025-09-10 10:40:31,821 - 📸 Motion detected! Saved image: images/248.png
+2025-09-10 10:40:31,887 - 📸 Motion detected! Saved image: images/249.png
+2025-09-10 10:40:31,956 - 📸 Motion detected! Saved image: images/250.png
+2025-09-10 10:40:34,559 - 📸 Motion detected! Saved image: images/251.png
+2025-09-10 10:40:34,590 - 📸 Motion detected! Saved image: images/252.png
+2025-09-10 10:40:34,619 - 📸 Motion detected! Saved image: images/253.png
+2025-09-10 10:40:34,651 - 📸 Motion detected! Saved image: images/254.png
+2025-09-10 10:40:34,720 - 📸 Motion detected! Saved image: images/255.png
+2025-09-10 10:40:34,769 - 📸 Motion detected! Saved image: images/256.png
+2025-09-10 10:40:34,843 - 📸 Motion detected! Saved image: images/257.png
+2025-09-10 10:40:34,898 - 📸 Motion detected! Saved image: images/258.png
+2025-09-10 10:40:34,930 - 📸 Motion detected! Saved image: images/259.png
+2025-09-10 10:40:34,984 - 📸 Motion detected! Saved image: images/260.png
+2025-09-10 10:40:35,014 - 📸 Motion detected! Saved image: images/261.png
+2025-09-10 10:40:35,091 - 📸 Motion detected! Saved image: images/262.png
+2025-09-10 10:40:35,121 - 📸 Motion detected! Saved image: images/263.png
+2025-09-10 10:40:35,185 - 📸 Motion detected! Saved image: images/264.png
+2025-09-10 10:40:35,213 - 📸 Motion detected! Saved image: images/265.png
+2025-09-10 10:40:35,241 - 📸 Motion detected! Saved image: images/266.png
+2025-09-10 10:40:35,285 - 📸 Motion detected! Saved image: images/267.png
+2025-09-10 10:40:35,318 - 📸 Motion detected! Saved image: images/268.png
+2025-09-10 10:40:35,349 - 📸 Motion detected! Saved image: images/269.png
+2025-09-10 10:40:35,384 - 📸 Motion detected! Saved image: images/270.png
+2025-09-10 10:40:35,421 - 📸 Motion detected! Saved image: images/271.png
+2025-09-10 10:40:35,452 - 📸 Motion detected! Saved image: images/272.png
+2025-09-10 10:40:35,519 - 📸 Motion detected! Saved image: images/273.png
+2025-09-10 10:40:35,549 - 📸 Motion detected! Saved image: images/274.png
+2025-09-10 10:40:35,578 - 📸 Motion detected! Saved image: images/275.png
+2025-09-10 10:40:35,614 - 📸 Motion detected! Saved image: images/276.png
+2025-09-10 10:40:35,642 - 📸 Motion detected! Saved image: images/277.png
+2025-09-10 10:40:35,670 - 📸 Motion detected! Saved image: images/278.png
+2025-09-10 10:40:35,715 - 📸 Motion detected! Saved image: images/279.png
+2025-09-10 10:40:35,743 - 📸 Motion detected! Saved image: images/280.png
+2025-09-10 10:40:35,772 - 📸 Motion detected! Saved image: images/281.png
+2025-09-10 10:40:35,813 - 📸 Motion detected! Saved image: images/282.png
+2025-09-10 10:40:35,840 - 📸 Motion detected! Saved image: images/283.png
+2025-09-10 10:40:35,868 - 📸 Motion detected! Saved image: images/284.png
+2025-09-10 10:40:35,915 - 📸 Motion detected! Saved image: images/285.png
+2025-09-10 10:40:35,946 - 📸 Motion detected! Saved image: images/286.png
+2025-09-10 10:40:35,976 - 📸 Motion detected! Saved image: images/287.png
+2025-09-10 10:40:36,028 - 📸 Motion detected! Saved image: images/288.png
+2025-09-10 10:40:36,147 - 📸 Motion detected! Saved image: images/289.png
+2025-09-10 10:40:36,202 - 📸 Motion detected! Saved image: images/290.png
+2025-09-10 10:40:36,262 - 📸 Motion detected! Saved image: images/291.png
+2025-09-10 10:40:36,304 - 📸 Motion detected! Saved image: images/292.png
+2025-09-10 10:40:36,335 - 📸 Motion detected! Saved image: images/293.png
+2025-09-10 10:40:36,383 - 📸 Motion detected! Saved image: images/294.png
+2025-09-10 10:40:36,412 - 📸 Motion detected! Saved image: images/295.png
+2025-09-10 10:40:36,452 - 📸 Motion detected! Saved image: images/296.png
+2025-09-10 10:40:36,480 - 📸 Motion detected! Saved image: images/297.png
+2025-09-10 10:40:36,517 - 📸 Motion detected! Saved image: images/298.png
+2025-09-10 10:40:36,547 - 📸 Motion detected! Saved image: images/299.png
+2025-09-10 10:40:36,575 - 📸 Motion detected! Saved image: images/300.png
+2025-09-10 10:40:36,616 - 📸 Motion detected! Saved image: images/301.png
+2025-09-10 10:40:36,643 - 📸 Motion detected! Saved image: images/302.png
+2025-09-10 10:40:36,670 - 📸 Motion detected! Saved image: images/303.png
+2025-09-10 10:40:36,716 - 📸 Motion detected! Saved image: images/304.png
+2025-09-10 10:40:36,745 - 📸 Motion detected! Saved image: images/305.png
+2025-09-10 10:40:36,773 - 📸 Motion detected! Saved image: images/306.png
+2025-09-10 10:40:36,812 - 📸 Motion detected! Saved image: images/307.png
+2025-09-10 10:40:36,852 - 📸 Motion detected! Saved image: images/308.png
+2025-09-10 10:40:36,881 - 📸 Motion detected! Saved image: images/309.png
+2025-09-10 10:40:36,913 - 📸 Motion detected! Saved image: images/310.png
+2025-09-10 10:40:36,946 - 📸 Motion detected! Saved image: images/311.png
+2025-09-10 10:40:36,987 - 📸 Motion detected! Saved image: images/312.png
+2025-09-10 10:40:37,024 - 📸 Motion detected! Saved image: images/313.png
+2025-09-10 10:40:37,060 - 📸 Motion detected! Saved image: images/314.png
+2025-09-10 10:40:37,094 - 📸 Motion detected! Saved image: images/315.png
+2025-09-10 10:40:37,169 - 📸 Motion detected! Saved image: images/316.png
+2025-09-10 10:40:37,228 - 📸 Motion detected! Saved image: images/317.png
+2025-09-10 10:40:37,288 - 📸 Motion detected! Saved image: images/318.png
+2025-09-10 10:40:37,327 - 📸 Motion detected! Saved image: images/319.png
+2025-09-10 10:40:37,389 - 📸 Motion detected! Saved image: images/320.png
+2025-09-10 10:40:37,418 - 📸 Motion detected! Saved image: images/321.png
+2025-09-10 10:40:37,447 - 📸 Motion detected! Saved image: images/322.png
+2025-09-10 10:40:37,485 - 📸 Motion detected! Saved image: images/323.png
+2025-09-10 10:40:37,515 - 📸 Motion detected! Saved image: images/324.png
+2025-09-10 10:40:37,543 - 📸 Motion detected! Saved image: images/325.png
+2025-09-10 10:40:37,580 - 📸 Motion detected! Saved image: images/326.png
+2025-09-10 10:40:37,611 - 📸 Motion detected! Saved image: images/327.png
+2025-09-10 10:40:37,641 - 📸 Motion detected! Saved image: images/328.png
+2025-09-10 10:40:37,688 - 📸 Motion detected! Saved image: images/329.png
+2025-09-10 10:40:37,719 - 📸 Motion detected! Saved image: images/330.png
+2025-09-10 10:40:37,748 - 📸 Motion detected! Saved image: images/331.png
+2025-09-10 10:40:37,781 - 📸 Motion detected! Saved image: images/332.png
+2025-09-10 10:40:37,812 - 📸 Motion detected! Saved image: images/333.png
+2025-09-10 10:40:37,842 - 📸 Motion detected! Saved image: images/334.png
+2025-09-10 10:40:37,887 - 📸 Motion detected! Saved image: images/335.png
+2025-09-10 10:40:37,916 - 📸 Motion detected! Saved image: images/336.png
+2025-09-10 10:40:37,948 - 📸 Motion detected! Saved image: images/337.png
+2025-09-10 10:40:37,992 - 📸 Motion detected! Saved image: images/338.png
+2025-09-10 10:40:38,031 - 📸 Motion detected! Saved image: images/339.png
+2025-09-10 10:40:38,065 - 📸 Motion detected! Saved image: images/340.png
+2025-09-10 10:40:38,120 - 📸 Motion detected! Saved image: images/341.png
+2025-09-10 10:40:38,152 - 📸 Motion detected! Saved image: images/342.png
+2025-09-10 10:40:38,179 - 📸 Motion detected! Saved image: images/343.png
+2025-09-10 10:40:38,214 - 📸 Motion detected! Saved image: images/344.png
+2025-09-10 10:40:38,242 - 📸 Motion detected! Saved image: images/345.png
+2025-09-10 10:40:38,270 - 📸 Motion detected! Saved image: images/346.png
+2025-09-10 10:40:38,316 - 📸 Motion detected! Saved image: images/347.png
+2025-09-10 10:40:38,345 - 📸 Motion detected! Saved image: images/348.png
+2025-09-10 10:40:38,374 - 📸 Motion detected! Saved image: images/349.png
+2025-09-10 10:40:38,413 - 📸 Motion detected! Saved image: images/350.png
+2025-09-10 10:40:38,441 - 📸 Motion detected! Saved image: images/351.png
+2025-09-10 10:40:38,469 - 📸 Motion detected! Saved image: images/352.png
+2025-09-10 10:40:38,514 - 📸 Motion detected! Saved image: images/353.png
+2025-09-10 10:40:38,542 - 📸 Motion detected! Saved image: images/354.png
+2025-09-10 10:40:38,570 - 📸 Motion detected! Saved image: images/355.png
+2025-09-10 10:40:38,614 - 📸 Motion detected! Saved image: images/356.png
+2025-09-10 10:40:38,644 - 📸 Motion detected! Saved image: images/357.png
+2025-09-10 10:40:38,673 - 📸 Motion detected! Saved image: images/358.png
+2025-09-10 10:40:38,712 - 📸 Motion detected! Saved image: images/359.png
+2025-09-10 10:40:38,740 - 📸 Motion detected! Saved image: images/360.png
+2025-09-10 10:40:38,769 - 📸 Motion detected! Saved image: images/361.png
+2025-09-10 10:40:38,799 - 📸 Motion detected! Saved image: images/362.png
+2025-09-10 10:40:38,854 - 📸 Motion detected! Saved image: images/363.png
+2025-09-10 10:40:38,882 - 📸 Motion detected! Saved image: images/364.png
+2025-09-10 10:40:38,911 - 📸 Motion detected! Saved image: images/365.png
+2025-09-10 10:40:38,950 - 📸 Motion detected! Saved image: images/366.png
+2025-09-10 10:40:38,979 - 📸 Motion detected! Saved image: images/367.png
+2025-09-10 10:40:39,007 - 📸 Motion detected! Saved image: images/368.png
+2025-09-10 10:40:39,051 - 📸 Motion detected! Saved image: images/369.png
+2025-09-10 10:40:39,079 - 📸 Motion detected! Saved image: images/370.png
+2025-09-10 10:40:39,107 - 📸 Motion detected! Saved image: images/371.png
+2025-09-10 10:40:39,147 - 📸 Motion detected! Saved image: images/372.png
+2025-09-10 10:40:39,178 - 📸 Motion detected! Saved image: images/373.png
+2025-09-10 10:40:39,205 - 📸 Motion detected! Saved image: images/374.png
+2025-09-10 10:40:39,247 - 📸 Motion detected! Saved image: images/375.png
+2025-09-10 10:40:39,279 - 📸 Motion detected! Saved image: images/376.png
+2025-09-10 10:40:39,308 - 📸 Motion detected! Saved image: images/377.png
+2025-09-10 10:40:39,346 - 📸 Motion detected! Saved image: images/378.png
+2025-09-10 10:40:39,378 - 📸 Motion detected! Saved image: images/379.png
+2025-09-10 10:40:39,406 - 📸 Motion detected! Saved image: images/380.png
+2025-09-10 10:40:39,447 - 📸 Motion detected! Saved image: images/381.png
+2025-09-10 10:40:39,475 - 📸 Motion detected! Saved image: images/382.png
+2025-09-10 10:40:39,503 - 📸 Motion detected! Saved image: images/383.png
+2025-09-10 10:40:39,552 - 📸 Motion detected! Saved image: images/384.png
+2025-09-10 10:40:39,589 - 📸 Motion detected! Saved image: images/385.png
+2025-09-10 10:40:39,632 - 📸 Motion detected! Saved image: images/386.png
+2025-09-10 10:40:39,682 - 📸 Motion detected! Saved image: images/387.png
+2025-09-10 10:40:39,715 - 📸 Motion detected! Saved image: images/388.png
+2025-09-10 10:40:39,744 - 📸 Motion detected! Saved image: images/389.png
+2025-09-10 10:40:39,778 - 📸 Motion detected! Saved image: images/390.png
+2025-09-10 10:40:39,806 - 📸 Motion detected! Saved image: images/391.png
+2025-09-10 10:40:39,841 - 📸 Motion detected! Saved image: images/392.png
+2025-09-10 10:40:39,879 - 📸 Motion detected! Saved image: images/393.png
+2025-09-10 10:40:39,906 - 📸 Motion detected! Saved image: images/394.png
+2025-09-10 10:40:39,935 - 📸 Motion detected! Saved image: images/395.png
+2025-09-10 10:40:39,982 - 📸 Motion detected! Saved image: images/396.png
+2025-09-10 10:40:40,009 - 📸 Motion detected! Saved image: images/397.png
+2025-09-10 10:40:40,036 - 📸 Motion detected! Saved image: images/398.png
+2025-09-10 10:40:40,082 - 📸 Motion detected! Saved image: images/399.png
+2025-09-10 10:40:40,109 - 📸 Motion detected! Saved image: images/400.png
+2025-09-10 10:40:40,137 - 📸 Motion detected! Saved image: images/401.png
+2025-09-10 10:40:40,181 - 📸 Motion detected! Saved image: images/402.png
+2025-09-10 10:40:40,209 - 📸 Motion detected! Saved image: images/403.png
+2025-09-10 10:40:40,245 - 📸 Motion detected! Saved image: images/404.png
+2025-09-10 10:40:40,273 - 📸 Motion detected! Saved image: images/405.png
+2025-09-10 10:40:40,325 - 📸 Motion detected! Saved image: images/406.png
+2025-09-10 10:40:40,358 - 📸 Motion detected! Saved image: images/407.png
+2025-09-10 10:40:40,387 - 📸 Motion detected! Saved image: images/408.png
+2025-09-10 10:40:40,448 - 📸 Motion detected! Saved image: images/409.png
+2025-09-10 10:40:40,476 - 📸 Motion detected! Saved image: images/410.png
+2025-09-10 10:40:40,503 - 📸 Motion detected! Saved image: images/411.png
+2025-09-10 10:40:40,548 - 📸 Motion detected! Saved image: images/412.png
+2025-09-10 10:40:40,575 - 📸 Motion detected! Saved image: images/413.png
+2025-09-10 10:40:40,602 - 📸 Motion detected! Saved image: images/414.png
+2025-09-10 10:40:40,649 - 📸 Motion detected! Saved image: images/415.png
+2025-09-10 10:40:40,676 - 📸 Motion detected! Saved image: images/416.png
+2025-09-10 10:40:40,703 - 📸 Motion detected! Saved image: images/417.png
+2025-09-10 10:40:40,745 - 📸 Motion detected! Saved image: images/418.png
+2025-09-10 10:40:40,775 - 📸 Motion detected! Saved image: images/419.png
+2025-09-10 10:40:40,803 - 📸 Motion detected! Saved image: images/420.png
+2025-09-10 10:40:40,847 - 📸 Motion detected! Saved image: images/421.png
+2025-09-10 10:40:40,875 - 📸 Motion detected! Saved image: images/422.png
+2025-09-10 10:40:40,912 - 📸 Motion detected! Saved image: images/423.png
+2025-09-10 10:40:40,943 - 📸 Motion detected! Saved image: images/424.png
+2025-09-10 10:40:40,972 - 📸 Motion detected! Saved image: images/425.png
+2025-09-10 10:40:41,012 - 📸 Motion detected! Saved image: images/426.png
+2025-09-10 10:40:41,040 - 📸 Motion detected! Saved image: images/427.png
+2025-09-10 10:40:41,068 - 📸 Motion detected! Saved image: images/428.png
+2025-09-10 10:40:41,115 - 📸 Motion detected! Saved image: images/429.png
+2025-09-10 10:40:41,143 - 📸 Motion detected! Saved image: images/430.png
+2025-09-10 10:40:41,177 - 📸 Motion detected! Saved image: images/431.png
+2025-09-10 10:40:41,205 - 📸 Motion detected! Saved image: images/432.png
+2025-09-10 10:40:41,246 - 📸 Motion detected! Saved image: images/433.png
+2025-09-10 10:40:41,276 - 📸 Motion detected! Saved image: images/434.png
+2025-09-10 10:40:41,312 - 📸 Motion detected! Saved image: images/435.png
+2025-09-10 10:40:41,340 - 📸 Motion detected! Saved image: images/436.png
+2025-09-10 10:40:41,367 - 📸 Motion detected! Saved image: images/437.png
+2025-09-10 10:40:41,418 - 📸 Motion detected! Saved image: images/438.png
+2025-09-10 10:40:41,445 - 📸 Motion detected! Saved image: images/439.png
+2025-09-10 10:40:41,478 - 📸 Motion detected! Saved image: images/440.png
+2025-09-10 10:40:41,506 - 📸 Motion detected! Saved image: images/441.png
+2025-09-10 10:40:41,544 - 📸 Motion detected! Saved image: images/442.png
+2025-09-10 10:40:41,572 - 📸 Motion detected! Saved image: images/443.png
+2025-09-10 10:40:41,613 - 📸 Motion detected! Saved image: images/444.png
+2025-09-10 10:40:41,658 - 📸 Motion detected! Saved image: images/445.png
+2025-09-10 10:40:41,708 - 📸 Motion detected! Saved image: images/446.png
+2025-09-10 10:40:41,749 - 📸 Motion detected! Saved image: images/447.png
+2025-09-10 10:40:41,777 - 📸 Motion detected! Saved image: images/448.png
+2025-09-10 10:40:41,805 - 📸 Motion detected! Saved image: images/449.png
+2025-09-10 10:40:41,845 - 📸 Motion detected! Saved image: images/450.png
+2025-09-10 10:40:41,873 - 📸 Motion detected! Saved image: images/451.png
+2025-09-10 10:40:41,901 - 📸 Motion detected! Saved image: images/452.png
+2025-09-10 10:40:41,949 - 📸 Motion detected! Saved image: images/453.png
+2025-09-10 10:40:41,976 - 📸 Motion detected! Saved image: images/454.png
+2025-09-10 10:40:42,004 - 📸 Motion detected! Saved image: images/455.png
+2025-09-10 10:40:42,083 - 📸 Motion detected! Saved image: images/456.png
+2025-09-10 10:40:42,170 - 📸 Motion detected! Saved image: images/457.png
+2025-09-10 10:40:42,206 - 📸 Motion detected! Saved image: images/458.png
+2025-09-10 10:40:42,244 - 📸 Motion detected! Saved image: images/459.png
+2025-09-10 10:40:42,273 - 📸 Motion detected! Saved image: images/460.png
+2025-09-10 10:40:42,318 - 📸 Motion detected! Saved image: images/461.png
+2025-09-10 10:40:42,359 - 📸 Motion detected! Saved image: images/462.png
+2025-09-10 10:40:42,415 - 📸 Motion detected! Saved image: images/463.png
+2025-09-10 10:40:42,444 - 📸 Motion detected! Saved image: images/464.png
+2025-09-10 10:40:42,479 - 📸 Motion detected! Saved image: images/465.png
+2025-09-10 10:40:42,510 - 📸 Motion detected! Saved image: images/466.png
+2025-09-10 10:40:42,545 - 📸 Motion detected! Saved image: images/467.png
+2025-09-10 10:40:42,573 - 📸 Motion detected! Saved image: images/468.png
+2025-09-10 10:40:42,612 - 📸 Motion detected! Saved image: images/469.png
+2025-09-10 10:40:42,641 - 📸 Motion detected! Saved image: images/470.png
+2025-09-10 10:40:42,669 - 📸 Motion detected! Saved image: images/471.png
+2025-09-10 10:40:42,711 - 📸 Motion detected! Saved image: images/472.png
+2025-09-10 10:40:42,740 - 📸 Motion detected! Saved image: images/473.png
+2025-09-10 10:40:42,769 - 📸 Motion detected! Saved image: images/474.png
+2025-09-10 10:40:42,810 - 📸 Motion detected! Saved image: images/475.png
+2025-09-10 10:40:42,839 - 📸 Motion detected! Saved image: images/476.png
+2025-09-10 10:40:42,868 - 📸 Motion detected! Saved image: images/477.png
+2025-09-10 10:40:42,915 - 📸 Motion detected! Saved image: images/478.png
+2025-09-10 10:40:42,947 - 📸 Motion detected! Saved image: images/479.png
+2025-09-10 10:40:42,987 - 📸 Motion detected! Saved image: images/480.png
+2025-09-10 10:40:43,046 - 📸 Motion detected! Saved image: images/481.png
+2025-09-10 10:40:43,075 - 📸 Motion detected! Saved image: images/482.png
+2025-09-10 10:40:43,104 - 📸 Motion detected! Saved image: images/483.png
+2025-09-10 10:40:43,144 - 📸 Motion detected! Saved image: images/484.png
+2025-09-10 10:40:43,173 - 📸 Motion detected! Saved image: images/485.png
+2025-09-10 10:40:43,212 - 📸 Motion detected! Saved image: images/486.png
+2025-09-10 10:40:43,240 - 📸 Motion detected! Saved image: images/487.png
+2025-09-10 10:40:43,269 - 📸 Motion detected! Saved image: images/488.png
+2025-09-10 10:40:43,311 - 📸 Motion detected! Saved image: images/489.png
+2025-09-10 10:40:43,343 - 📸 Motion detected! Saved image: images/490.png
+2025-09-10 10:40:43,372 - 📸 Motion detected! Saved image: images/491.png
+2025-09-10 10:40:43,411 - 📸 Motion detected! Saved image: images/492.png
+2025-09-10 10:40:43,439 - 📸 Motion detected! Saved image: images/493.png
+2025-09-10 10:40:43,471 - 📸 Motion detected! Saved image: images/494.png
+2025-09-10 10:40:43,510 - 📸 Motion detected! Saved image: images/495.png
+2025-09-10 10:40:43,539 - 📸 Motion detected! Saved image: images/496.png
+2025-09-10 10:40:43,567 - 📸 Motion detected! Saved image: images/497.png
+2025-09-10 10:40:43,611 - 📸 Motion detected! Saved image: images/498.png
+2025-09-10 10:40:43,639 - 📸 Motion detected! Saved image: images/499.png
+2025-09-10 10:40:43,669 - 📸 Motion detected! Saved image: images/500.png
+2025-09-10 10:40:43,713 - 📸 Motion detected! Saved image: images/501.png
+2025-09-10 10:40:43,741 - 📸 Motion detected! Saved image: images/502.png
+2025-09-10 10:40:43,777 - 📸 Motion detected! Saved image: images/503.png
+2025-09-10 10:40:43,805 - 📸 Motion detected! Saved image: images/504.png
+2025-09-10 10:40:43,844 - 📸 Motion detected! Saved image: images/505.png
+2025-09-10 10:40:43,873 - 📸 Motion detected! Saved image: images/506.png
+2025-09-10 10:40:43,913 - 📸 Motion detected! Saved image: images/507.png
+2025-09-10 10:40:43,940 - 📸 Motion detected! Saved image: images/508.png
+2025-09-10 10:40:43,968 - 📸 Motion detected! Saved image: images/509.png
+2025-09-10 10:40:44,012 - 📸 Motion detected! Saved image: images/510.png
+2025-09-10 10:40:44,040 - 📸 Motion detected! Saved image: images/511.png
+2025-09-10 10:40:44,068 - 📸 Motion detected! Saved image: images/512.png
+2025-09-10 10:40:44,111 - 📸 Motion detected! Saved image: images/513.png
+2025-09-10 10:40:44,140 - 📸 Motion detected! Saved image: images/514.png
+2025-09-10 10:40:44,167 - 📸 Motion detected! Saved image: images/515.png
+2025-09-10 10:40:44,211 - 📸 Motion detected! Saved image: images/516.png
+2025-09-10 10:40:44,286 - 📸 Motion detected! Saved image: images/517.png
+2025-09-10 10:40:44,363 - 📸 Motion detected! Saved image: images/518.png
+2025-09-10 10:40:44,393 - 📸 Motion detected! Saved image: images/519.png
+2025-09-10 10:42:44,440 [INFO] 📸 Motion detected, saved images/1.png
+2025-09-10 10:42:44,517 [INFO] 📸 Motion detected, saved images/2.png
+2025-09-10 10:42:44,583 [INFO] 📸 Motion detected, saved images/3.png
+2025-09-10 10:42:44,649 [INFO] 📸 Motion detected, saved images/4.png
+2025-09-10 10:42:44,717 [INFO] 📸 Motion detected, saved images/5.png
+2025-09-10 10:42:44,785 [INFO] 📸 Motion detected, saved images/6.png
+2025-09-10 10:42:44,849 [INFO] 📸 Motion detected, saved images/7.png
+2025-09-10 10:42:44,876 [INFO] 📸 Motion detected, saved images/8.png
+2025-09-10 10:42:44,951 [INFO] 📸 Motion detected, saved images/9.png
+2025-09-10 10:42:44,976 [INFO] 📸 Motion detected, saved images/10.png
+2025-09-10 10:42:45,050 [INFO] 📸 Motion detected, saved images/11.png
+2025-09-10 10:42:45,076 [INFO] 📸 Motion detected, saved images/12.png
+2025-09-10 10:42:45,150 [INFO] 📸 Motion detected, saved images/13.png
+2025-09-10 10:42:45,176 [INFO] 📸 Motion detected, saved images/14.png
+2025-09-10 10:42:45,249 [INFO] 📸 Motion detected, saved images/15.png
+2025-09-10 10:42:45,274 [INFO] 📸 Motion detected, saved images/16.png
+2025-09-10 10:42:45,351 [INFO] 📸 Motion detected, saved images/17.png
+2025-09-10 10:42:45,376 [INFO] 📸 Motion detected, saved images/18.png
+2025-09-10 10:42:45,446 [INFO] 📸 Motion detected, saved images/19.png
+2025-09-10 10:42:45,471 [INFO] 📸 Motion detected, saved images/20.png
+2025-09-10 10:42:45,514 [INFO] 📸 Motion detected, saved images/21.png
+2025-09-10 10:42:45,538 [INFO] 📸 Motion detected, saved images/22.png
+2025-09-10 10:42:45,617 [INFO] 📸 Motion detected, saved images/23.png
+2025-09-10 10:42:45,642 [INFO] 📸 Motion detected, saved images/24.png
+2025-09-10 10:42:45,716 [INFO] 📸 Motion detected, saved images/25.png
+2025-09-10 10:42:45,742 [INFO] 📸 Motion detected, saved images/26.png
+2025-09-10 10:42:45,814 [INFO] 📸 Motion detected, saved images/27.png
+2025-09-10 10:42:45,839 [INFO] 📸 Motion detected, saved images/28.png
+2025-09-10 10:42:45,916 [INFO] 📸 Motion detected, saved images/29.png
+2025-09-10 10:42:45,980 [INFO] 📸 Motion detected, saved images/30.png
+2025-09-10 10:42:46,047 [INFO] 📸 Motion detected, saved images/31.png
+2025-09-10 10:42:46,116 [INFO] 📸 Motion detected, saved images/32.png
+2025-09-10 10:42:46,141 [INFO] 📸 Motion detected, saved images/33.png
+2025-09-10 10:42:46,214 [INFO] 📸 Motion detected, saved images/34.png
+2025-09-10 10:42:46,281 [INFO] 📸 Motion detected, saved images/35.png
+2025-09-10 10:42:46,350 [INFO] 📸 Motion detected, saved images/36.png
+2025-09-10 10:42:46,416 [INFO] 📸 Motion detected, saved images/37.png
+2025-09-10 10:42:46,484 [INFO] 📸 Motion detected, saved images/38.png
+2025-09-10 10:42:46,550 [INFO] 📸 Motion detected, saved images/39.png
+2025-09-10 10:42:46,618 [INFO] 📸 Motion detected, saved images/40.png
+2025-09-10 10:42:46,644 [INFO] 📸 Motion detected, saved images/41.png
+2025-09-10 10:42:46,715 [INFO] 📸 Motion detected, saved images/42.png
+2025-09-10 10:42:46,784 [INFO] 📸 Motion detected, saved images/43.png
+2025-09-10 10:42:46,850 [INFO] 📸 Motion detected, saved images/44.png
+2025-09-10 10:42:46,918 [INFO] 📸 Motion detected, saved images/45.png
+2025-09-10 10:42:46,984 [INFO] 📸 Motion detected, saved images/46.png
+2025-09-10 10:42:47,049 [INFO] 📸 Motion detected, saved images/47.png
+2025-09-10 10:42:47,119 [INFO] 📸 Motion detected, saved images/48.png
+2025-09-10 10:42:47,181 [INFO] 📸 Motion detected, saved images/49.png
+2025-09-10 10:42:47,266 [INFO] 📸 Motion detected, saved images/50.png
+2025-09-10 10:42:47,316 [INFO] 📸 Motion detected, saved images/51.png
+2025-09-10 10:42:47,383 [INFO] 📸 Motion detected, saved images/52.png
+2025-09-10 10:42:47,450 [INFO] 📸 Motion detected, saved images/53.png
+2025-09-10 10:42:47,517 [INFO] 📸 Motion detected, saved images/54.png
+2025-09-10 10:42:47,543 [INFO] 📸 Motion detected, saved images/55.png
+2025-09-10 10:42:47,616 [INFO] 📸 Motion detected, saved images/56.png
+2025-09-10 10:42:47,683 [INFO] 📸 Motion detected, saved images/57.png
+2025-09-10 10:42:47,714 [INFO] 📸 Motion detected, saved images/58.png
+2025-09-10 10:42:47,800 [INFO] 📸 Motion detected, saved images/59.png
+2025-09-10 10:42:47,836 [INFO] 📸 Motion detected, saved images/60.png
+2025-09-10 10:42:47,918 [INFO] 📸 Motion detected, saved images/61.png
+2025-09-10 10:42:47,945 [INFO] 📸 Motion detected, saved images/62.png
+2025-09-10 10:42:48,016 [INFO] 📸 Motion detected, saved images/63.png
+2025-09-10 10:42:48,044 [INFO] 📸 Motion detected, saved images/64.png
+2025-09-10 10:42:48,111 [INFO] 📸 Motion detected, saved images/65.png
+2025-09-10 10:42:48,141 [INFO] 📸 Motion detected, saved images/66.png
+2025-09-10 10:42:48,219 [INFO] 📸 Motion detected, saved images/67.png
+2025-09-10 10:42:48,246 [INFO] 📸 Motion detected, saved images/68.png
+2025-09-10 10:42:48,318 [INFO] 📸 Motion detected, saved images/69.png
+2025-09-10 10:42:48,347 [INFO] 📸 Motion detected, saved images/70.png
+2025-09-10 10:42:48,415 [INFO] 📸 Motion detected, saved images/71.png
+2025-09-10 10:42:48,443 [INFO] 📸 Motion detected, saved images/72.png
+2025-09-10 10:42:48,514 [INFO] 📸 Motion detected, saved images/73.png
+2025-09-10 10:42:48,541 [INFO] 📸 Motion detected, saved images/74.png
+2025-09-10 10:42:48,618 [INFO] 📸 Motion detected, saved images/75.png
+2025-09-10 10:42:48,644 [INFO] 📸 Motion detected, saved images/76.png
+2025-09-10 10:42:48,718 [INFO] 📸 Motion detected, saved images/77.png
+2025-09-10 10:42:48,744 [INFO] 📸 Motion detected, saved images/78.png
+2025-09-10 10:42:48,817 [INFO] 📸 Motion detected, saved images/79.png
+2025-09-10 10:42:48,843 [INFO] 📸 Motion detected, saved images/80.png
+2025-09-10 10:42:48,918 [INFO] 📸 Motion detected, saved images/81.png
+2025-09-10 10:42:48,944 [INFO] 📸 Motion detected, saved images/82.png
+2025-09-10 10:42:49,015 [INFO] 📸 Motion detected, saved images/83.png
+2025-09-10 10:42:49,042 [INFO] 📸 Motion detected, saved images/84.png
+2025-09-10 10:42:49,115 [INFO] 📸 Motion detected, saved images/85.png
+2025-09-10 10:42:49,141 [INFO] 📸 Motion detected, saved images/86.png
+2025-09-10 10:42:49,218 [INFO] 📸 Motion detected, saved images/87.png
+2025-09-10 10:42:49,245 [INFO] 📸 Motion detected, saved images/88.png
+2025-09-10 10:42:49,315 [INFO] 📸 Motion detected, saved images/89.png
+2025-09-10 10:42:49,341 [INFO] 📸 Motion detected, saved images/90.png
+2025-09-10 10:42:49,413 [INFO] 📸 Motion detected, saved images/91.png
+2025-09-10 10:42:49,440 [INFO] 📸 Motion detected, saved images/92.png
+2025-09-10 10:42:49,518 [INFO] 📸 Motion detected, saved images/93.png
+2025-09-10 10:42:49,544 [INFO] 📸 Motion detected, saved images/94.png
+2025-09-10 10:42:49,618 [INFO] 📸 Motion detected, saved images/95.png
+2025-09-10 10:42:49,644 [INFO] 📸 Motion detected, saved images/96.png
+2025-09-10 10:42:49,717 [INFO] 📸 Motion detected, saved images/97.png
+2025-09-10 10:42:49,744 [INFO] 📸 Motion detected, saved images/98.png
+2025-09-10 10:42:49,817 [INFO] 📸 Motion detected, saved images/99.png
+2025-09-10 10:42:49,843 [INFO] 📸 Motion detected, saved images/100.png
+2025-09-10 10:42:49,918 [INFO] 📸 Motion detected, saved images/101.png
+2025-09-10 10:42:49,944 [INFO] 📸 Motion detected, saved images/102.png
+2025-09-10 10:42:50,014 [INFO] 📸 Motion detected, saved images/103.png
+2025-09-10 10:42:50,041 [INFO] 📸 Motion detected, saved images/104.png
+2025-09-10 10:42:50,116 [INFO] 📸 Motion detected, saved images/105.png
+2025-09-10 10:42:50,143 [INFO] 📸 Motion detected, saved images/106.png
+2025-09-10 10:42:50,216 [INFO] 📸 Motion detected, saved images/107.png
+2025-09-10 10:42:50,242 [INFO] 📸 Motion detected, saved images/108.png
+2025-09-10 10:42:50,318 [INFO] 📸 Motion detected, saved images/109.png
+2025-09-10 10:42:50,344 [INFO] 📸 Motion detected, saved images/110.png
+2025-09-10 10:42:50,420 [INFO] 📸 Motion detected, saved images/111.png
+2025-09-10 10:42:50,447 [INFO] 📸 Motion detected, saved images/112.png
+2025-09-10 10:42:50,519 [INFO] 📸 Motion detected, saved images/113.png
+2025-09-10 10:42:50,545 [INFO] 📸 Motion detected, saved images/114.png
+2025-09-10 10:42:50,618 [INFO] 📸 Motion detected, saved images/115.png
+2025-09-10 10:42:50,644 [INFO] 📸 Motion detected, saved images/116.png
+2025-09-10 10:42:50,716 [INFO] 📸 Motion detected, saved images/117.png
+2025-09-10 10:42:50,742 [INFO] 📸 Motion detected, saved images/118.png
+2025-09-10 10:42:50,813 [INFO] 📸 Motion detected, saved images/119.png
+2025-09-10 10:42:50,840 [INFO] 📸 Motion detected, saved images/120.png
+2025-09-10 10:42:50,914 [INFO] 📸 Motion detected, saved images/121.png
+2025-09-10 10:42:50,942 [INFO] 📸 Motion detected, saved images/122.png
+2025-09-10 10:42:51,013 [INFO] 📸 Motion detected, saved images/123.png
+2025-09-10 10:42:51,040 [INFO] 📸 Motion detected, saved images/124.png
+2025-09-10 10:42:51,110 [INFO] 📸 Motion detected, saved images/125.png
+2025-09-10 10:42:51,137 [INFO] 📸 Motion detected, saved images/126.png
+2025-09-10 10:42:51,214 [INFO] 📸 Motion detected, saved images/127.png
+2025-09-10 10:42:51,240 [INFO] 📸 Motion detected, saved images/128.png
+2025-09-10 10:42:51,318 [INFO] 📸 Motion detected, saved images/129.png
+2025-09-10 10:42:51,345 [INFO] 📸 Motion detected, saved images/130.png
+2025-09-10 10:42:51,416 [INFO] 📸 Motion detected, saved images/131.png
+2025-09-10 10:42:51,443 [INFO] 📸 Motion detected, saved images/132.png
+2025-09-10 10:42:51,513 [INFO] 📸 Motion detected, saved images/133.png
+2025-09-10 10:42:51,539 [INFO] 📸 Motion detected, saved images/134.png
+2025-09-10 10:42:51,614 [INFO] 📸 Motion detected, saved images/135.png
+2025-09-10 10:42:51,641 [INFO] 📸 Motion detected, saved images/136.png
+2025-09-10 10:42:51,714 [INFO] 📸 Motion detected, saved images/137.png
+2025-09-10 10:42:51,741 [INFO] 📸 Motion detected, saved images/138.png
+2025-09-10 10:42:51,813 [INFO] 📸 Motion detected, saved images/139.png
+2025-09-10 10:42:51,839 [INFO] 📸 Motion detected, saved images/140.png
+2025-09-10 10:42:51,917 [INFO] 📸 Motion detected, saved images/141.png
+2025-09-10 10:42:51,944 [INFO] 📸 Motion detected, saved images/142.png
+2025-09-10 10:42:52,015 [INFO] 📸 Motion detected, saved images/143.png
+2025-09-10 10:42:52,041 [INFO] 📸 Motion detected, saved images/144.png
+2025-09-10 10:42:52,113 [INFO] 📸 Motion detected, saved images/145.png
+2025-09-10 10:42:52,140 [INFO] 📸 Motion detected, saved images/146.png
+2025-09-10 10:42:52,216 [INFO] 📸 Motion detected, saved images/147.png
+2025-09-10 10:42:52,242 [INFO] 📸 Motion detected, saved images/148.png
+2025-09-10 10:42:52,314 [INFO] 📸 Motion detected, saved images/149.png
+2025-09-10 10:42:52,341 [INFO] 📸 Motion detected, saved images/150.png
+2025-09-10 10:42:52,413 [INFO] 📸 Motion detected, saved images/151.png
+2025-09-10 10:42:52,440 [INFO] 📸 Motion detected, saved images/152.png
+2025-09-10 10:42:52,523 [INFO] 📸 Motion detected, saved images/153.png
+2025-09-10 10:42:52,553 [INFO] 📸 Motion detected, saved images/154.png
+2025-09-10 10:42:52,612 [INFO] 📸 Motion detected, saved images/155.png
+2025-09-10 10:42:52,638 [INFO] 📸 Motion detected, saved images/156.png
+2025-09-10 10:42:52,717 [INFO] 📸 Motion detected, saved images/157.png
+2025-09-10 10:42:52,744 [INFO] 📸 Motion detected, saved images/158.png
+2025-09-10 10:42:52,815 [INFO] 📸 Motion detected, saved images/159.png
+2025-09-10 10:42:52,842 [INFO] 📸 Motion detected, saved images/160.png
+2025-09-10 10:42:52,913 [INFO] 📸 Motion detected, saved images/161.png
+2025-09-10 10:42:52,940 [INFO] 📸 Motion detected, saved images/162.png
+2025-09-10 10:42:53,016 [INFO] 📸 Motion detected, saved images/163.png
+2025-09-10 10:42:53,042 [INFO] 📸 Motion detected, saved images/164.png
+2025-09-10 10:42:53,117 [INFO] 📸 Motion detected, saved images/165.png
+2025-09-10 10:42:53,143 [INFO] 📸 Motion detected, saved images/166.png
+2025-09-10 10:42:53,215 [INFO] 📸 Motion detected, saved images/167.png
+2025-09-10 10:42:53,241 [INFO] 📸 Motion detected, saved images/168.png
+2025-09-10 10:42:53,313 [INFO] 📸 Motion detected, saved images/169.png
+2025-09-10 10:42:53,340 [INFO] 📸 Motion detected, saved images/170.png
+2025-09-10 10:42:53,417 [INFO] 📸 Motion detected, saved images/171.png
+2025-09-10 10:42:53,443 [INFO] 📸 Motion detected, saved images/172.png
+2025-09-10 10:42:53,513 [INFO] 📸 Motion detected, saved images/173.png
+2025-09-10 10:42:53,539 [INFO] 📸 Motion detected, saved images/174.png
+2025-09-10 10:42:53,615 [INFO] 📸 Motion detected, saved images/175.png
+2025-09-10 10:42:53,641 [INFO] 📸 Motion detected, saved images/176.png
+2025-09-10 10:42:53,715 [INFO] 📸 Motion detected, saved images/177.png
+2025-09-10 10:42:53,741 [INFO] 📸 Motion detected, saved images/178.png
+2025-09-10 10:42:53,813 [INFO] 📸 Motion detected, saved images/179.png
+2025-09-10 10:42:53,839 [INFO] 📸 Motion detected, saved images/180.png
+2025-09-10 10:42:53,915 [INFO] 📸 Motion detected, saved images/181.png
+2025-09-10 10:42:53,941 [INFO] 📸 Motion detected, saved images/182.png
+2025-09-10 10:42:54,012 [INFO] 📸 Motion detected, saved images/183.png
+2025-09-10 10:42:54,039 [INFO] 📸 Motion detected, saved images/184.png
+2025-09-10 10:42:54,117 [INFO] 📸 Motion detected, saved images/185.png
+2025-09-10 10:42:54,143 [INFO] 📸 Motion detected, saved images/186.png
+2025-09-10 10:42:54,215 [INFO] 📸 Motion detected, saved images/187.png
+2025-09-10 10:42:54,241 [INFO] 📸 Motion detected, saved images/188.png
+2025-09-10 10:42:54,315 [INFO] 📸 Motion detected, saved images/189.png
+2025-09-10 10:42:54,342 [INFO] 📸 Motion detected, saved images/190.png
+2025-09-10 10:42:54,415 [INFO] 📸 Motion detected, saved images/191.png
+2025-09-10 10:42:54,441 [INFO] 📸 Motion detected, saved images/192.png
+2025-09-10 10:42:54,516 [INFO] 📸 Motion detected, saved images/193.png
+2025-09-10 10:42:54,542 [INFO] 📸 Motion detected, saved images/194.png
+2025-09-10 10:42:54,614 [INFO] 📸 Motion detected, saved images/195.png
+2025-09-10 10:42:54,640 [INFO] 📸 Motion detected, saved images/196.png
+2025-09-10 10:42:54,715 [INFO] 📸 Motion detected, saved images/197.png
+2025-09-10 10:42:54,742 [INFO] 📸 Motion detected, saved images/198.png
+2025-09-10 10:42:54,813 [INFO] 📸 Motion detected, saved images/199.png
+2025-09-10 10:42:54,839 [INFO] 📸 Motion detected, saved images/200.png
+2025-09-10 10:42:54,915 [INFO] 📸 Motion detected, saved images/201.png
+2025-09-10 10:42:54,941 [INFO] 📸 Motion detected, saved images/202.png
+2025-09-10 10:42:55,014 [INFO] 📸 Motion detected, saved images/203.png
+2025-09-10 10:42:55,041 [INFO] 📸 Motion detected, saved images/204.png
+2025-09-10 10:42:55,111 [INFO] 📸 Motion detected, saved images/205.png
+2025-09-10 10:42:55,140 [INFO] 📸 Motion detected, saved images/206.png
+2025-09-10 10:42:55,214 [INFO] 📸 Motion detected, saved images/207.png
+2025-09-10 10:42:55,240 [INFO] 📸 Motion detected, saved images/208.png
+2025-09-10 10:42:55,313 [INFO] 📸 Motion detected, saved images/209.png
+2025-09-10 10:42:55,340 [INFO] 📸 Motion detected, saved images/210.png
+2025-09-10 10:42:55,415 [INFO] 📸 Motion detected, saved images/211.png
+2025-09-10 10:42:55,445 [INFO] 📸 Motion detected, saved images/212.png
+2025-09-10 10:42:55,526 [INFO] 📸 Motion detected, saved images/213.png
+2025-09-10 10:42:55,564 [INFO] 📸 Motion detected, saved images/214.png
+2025-09-10 10:42:55,622 [INFO] 📸 Motion detected, saved images/215.png
+2025-09-10 10:42:55,666 [INFO] 📸 Motion detected, saved images/216.png
+2025-09-10 10:42:55,772 [INFO] 📸 Motion detected, saved images/217.png
+2025-09-10 10:42:55,818 [INFO] 📸 Motion detected, saved images/218.png
+2025-09-10 10:42:55,902 [INFO] 📸 Motion detected, saved images/219.png
+2025-09-10 10:42:55,945 [INFO] 📸 Motion detected, saved images/220.png
+2025-09-10 10:42:56,024 [INFO] 📸 Motion detected, saved images/221.png
+2025-09-10 10:42:56,056 [INFO] 📸 Motion detected, saved images/222.png
+2025-09-10 10:42:56,140 [INFO] 📸 Motion detected, saved images/223.png
+2025-09-10 10:42:56,179 [INFO] 📸 Motion detected, saved images/224.png
+2025-09-10 10:42:56,263 [INFO] 📸 Motion detected, saved images/225.png
+2025-09-10 10:42:56,295 [INFO] 📸 Motion detected, saved images/226.png
+2025-09-10 10:42:56,346 [INFO] 📸 Motion detected, saved images/227.png
+2025-09-10 10:42:56,377 [INFO] 📸 Motion detected, saved images/228.png
+2025-09-10 10:42:56,446 [INFO] 📸 Motion detected, saved images/229.png
+2025-09-10 10:42:56,476 [INFO] 📸 Motion detected, saved images/230.png
+2025-09-10 10:42:56,543 [INFO] 📸 Motion detected, saved images/231.png
+2025-09-10 10:42:56,572 [INFO] 📸 Motion detected, saved images/232.png
+2025-09-10 10:42:56,664 [INFO] 📸 Motion detected, saved images/233.png
+2025-09-10 10:42:56,695 [INFO] 📸 Motion detected, saved images/234.png
+2025-09-10 10:42:56,750 [INFO] 📸 Motion detected, saved images/235.png
+2025-09-10 10:42:56,779 [INFO] 📸 Motion detected, saved images/236.png
+2025-09-10 10:42:56,847 [INFO] 📸 Motion detected, saved images/237.png
+2025-09-10 10:42:56,876 [INFO] 📸 Motion detected, saved images/238.png
+2025-09-10 10:42:56,945 [INFO] 📸 Motion detected, saved images/239.png
+2025-09-10 10:42:56,975 [INFO] 📸 Motion detected, saved images/240.png
+2025-09-10 10:42:57,047 [INFO] 📸 Motion detected, saved images/241.png
+2025-09-10 10:42:57,076 [INFO] 📸 Motion detected, saved images/242.png
+2025-09-10 10:42:57,145 [INFO] 📸 Motion detected, saved images/243.png
+2025-09-10 10:42:57,173 [INFO] 📸 Motion detected, saved images/244.png
+2025-09-10 10:42:57,244 [INFO] 📸 Motion detected, saved images/245.png
+2025-09-10 10:42:57,273 [INFO] 📸 Motion detected, saved images/246.png
+2025-09-10 10:42:57,347 [INFO] 📸 Motion detected, saved images/247.png
+2025-09-10 10:42:57,380 [INFO] 📸 Motion detected, saved images/248.png
+2025-09-10 10:42:57,445 [INFO] 📸 Motion detected, saved images/249.png
+2025-09-10 10:42:57,473 [INFO] 📸 Motion detected, saved images/250.png
+2025-09-10 10:42:57,560 [INFO] 📸 Motion detected, saved images/251.png
+2025-09-10 10:42:57,593 [INFO] 📸 Motion detected, saved images/252.png
+2025-09-10 10:42:57,654 [INFO] 📸 Motion detected, saved images/253.png
+2025-09-10 10:42:57,689 [INFO] 📸 Motion detected, saved images/254.png
+2025-09-10 10:42:57,745 [INFO] 📸 Motion detected, saved images/255.png
+2025-09-10 10:42:57,780 [INFO] 📸 Motion detected, saved images/256.png
+2025-09-10 10:42:57,859 [INFO] 📸 Motion detected, saved images/257.png
+2025-09-10 10:42:57,890 [INFO] 📸 Motion detected, saved images/258.png
+2025-09-10 10:42:57,948 [INFO] 📸 Motion detected, saved images/259.png
+2025-09-10 10:42:57,978 [INFO] 📸 Motion detected, saved images/260.png
+2025-09-10 10:42:58,049 [INFO] 📸 Motion detected, saved images/261.png
+2025-09-10 10:42:58,087 [INFO] 📸 Motion detected, saved images/262.png
+2025-09-10 10:42:58,187 [INFO] 📸 Motion detected, saved images/263.png
+2025-09-10 10:42:58,215 [INFO] 📸 Motion detected, saved images/264.png
+2025-09-10 10:42:58,288 [INFO] 📸 Motion detected, saved images/265.png
+2025-09-10 10:42:58,341 [INFO] 📸 Motion detected, saved images/266.png
+2025-09-10 10:42:58,426 [INFO] 📸 Motion detected, saved images/267.png
+2025-09-10 10:42:58,454 [INFO] 📸 Motion detected, saved images/268.png
+2025-09-10 10:42:58,540 [INFO] 📸 Motion detected, saved images/269.png
+2025-09-10 10:42:58,568 [INFO] 📸 Motion detected, saved images/270.png
+2025-09-10 10:42:58,623 [INFO] 📸 Motion detected, saved images/271.png
+2025-09-10 10:42:58,658 [INFO] 📸 Motion detected, saved images/272.png
+2025-09-10 10:42:58,722 [INFO] 📸 Motion detected, saved images/273.png
+2025-09-10 10:42:58,755 [INFO] 📸 Motion detected, saved images/274.png
+2025-09-10 10:42:58,823 [INFO] 📸 Motion detected, saved images/275.png
+2025-09-10 10:42:58,853 [INFO] 📸 Motion detected, saved images/276.png
+2025-09-10 10:42:58,911 [INFO] 📸 Motion detected, saved images/277.png
+2025-09-10 10:42:58,940 [INFO] 📸 Motion detected, saved images/278.png
+2025-09-10 10:42:59,015 [INFO] 📸 Motion detected, saved images/279.png
+2025-09-10 10:42:59,047 [INFO] 📸 Motion detected, saved images/280.png
+2025-09-10 10:42:59,112 [INFO] 📸 Motion detected, saved images/281.png
+2025-09-10 10:42:59,138 [INFO] 📸 Motion detected, saved images/282.png
+2025-09-10 10:42:59,212 [INFO] 📸 Motion detected, saved images/283.png
+2025-09-10 10:42:59,239 [INFO] 📸 Motion detected, saved images/284.png
+2025-09-10 10:42:59,314 [INFO] 📸 Motion detected, saved images/285.png
+2025-09-10 10:42:59,357 [INFO] 📸 Motion detected, saved images/286.png
+2025-09-10 10:42:59,440 [INFO] 📸 Motion detected, saved images/287.png
+2025-09-10 10:42:59,468 [INFO] 📸 Motion detected, saved images/288.png
+2025-09-10 10:42:59,541 [INFO] 📸 Motion detected, saved images/289.png
+2025-09-10 10:42:59,569 [INFO] 📸 Motion detected, saved images/290.png
+2025-09-10 10:42:59,643 [INFO] 📸 Motion detected, saved images/291.png
+2025-09-10 10:42:59,671 [INFO] 📸 Motion detected, saved images/292.png
+2025-09-10 10:42:59,742 [INFO] 📸 Motion detected, saved images/293.png
+2025-09-10 10:42:59,768 [INFO] 📸 Motion detected, saved images/294.png
+2025-09-10 10:42:59,845 [INFO] 📸 Motion detected, saved images/295.png
+2025-09-10 10:42:59,871 [INFO] 📸 Motion detected, saved images/296.png
+2025-09-10 10:42:59,947 [INFO] 📸 Motion detected, saved images/297.png
+2025-09-10 10:42:59,973 [INFO] 📸 Motion detected, saved images/298.png
+2025-09-10 10:43:00,048 [INFO] 📸 Motion detected, saved images/299.png
+2025-09-10 10:43:00,092 [INFO] 📸 Motion detected, saved images/300.png
+2025-09-10 10:43:00,143 [INFO] 📸 Motion detected, saved images/301.png
+2025-09-10 10:43:00,169 [INFO] 📸 Motion detected, saved images/302.png
+2025-09-10 10:43:00,246 [INFO] 📸 Motion detected, saved images/303.png
+2025-09-10 10:43:00,272 [INFO] 📸 Motion detected, saved images/304.png
+2025-09-10 10:43:00,345 [INFO] 📸 Motion detected, saved images/305.png
+2025-09-10 10:43:00,372 [INFO] 📸 Motion detected, saved images/306.png
+2025-09-10 10:43:00,449 [INFO] 📸 Motion detected, saved images/307.png
+2025-09-10 10:43:00,475 [INFO] 📸 Motion detected, saved images/308.png
+2025-09-10 10:43:00,546 [INFO] 📸 Motion detected, saved images/309.png
+2025-09-10 10:43:00,572 [INFO] 📸 Motion detected, saved images/310.png
+2025-09-10 10:43:00,647 [INFO] 📸 Motion detected, saved images/311.png
+2025-09-10 10:43:00,674 [INFO] 📸 Motion detected, saved images/312.png
+2025-09-10 10:43:00,745 [INFO] 📸 Motion detected, saved images/313.png
+2025-09-10 10:43:00,771 [INFO] 📸 Motion detected, saved images/314.png
+2025-09-10 10:43:00,844 [INFO] 📸 Motion detected, saved images/315.png
+2025-09-10 10:43:00,871 [INFO] 📸 Motion detected, saved images/316.png
+2025-09-10 10:43:00,944 [INFO] 📸 Motion detected, saved images/317.png
+2025-09-10 10:43:00,970 [INFO] 📸 Motion detected, saved images/318.png
+2025-09-10 10:43:01,044 [INFO] 📸 Motion detected, saved images/319.png
+2025-09-10 10:43:01,070 [INFO] 📸 Motion detected, saved images/320.png
+2025-09-10 10:43:01,145 [INFO] 📸 Motion detected, saved images/321.png
+2025-09-10 10:43:01,171 [INFO] 📸 Motion detected, saved images/322.png
+2025-09-10 10:43:01,245 [INFO] 📸 Motion detected, saved images/323.png
+2025-09-10 10:43:01,273 [INFO] 📸 Motion detected, saved images/324.png
+2025-09-10 10:43:01,347 [INFO] 📸 Motion detected, saved images/325.png
+2025-09-10 10:43:01,374 [INFO] 📸 Motion detected, saved images/326.png
+2025-09-10 10:43:01,446 [INFO] 📸 Motion detected, saved images/327.png
+2025-09-10 10:43:01,472 [INFO] 📸 Motion detected, saved images/328.png
+2025-09-10 10:43:01,544 [INFO] 📸 Motion detected, saved images/329.png
+2025-09-10 10:43:01,570 [INFO] 📸 Motion detected, saved images/330.png
+2025-09-10 10:43:01,645 [INFO] 📸 Motion detected, saved images/331.png
+2025-09-10 10:43:01,671 [INFO] 📸 Motion detected, saved images/332.png
+2025-09-10 10:43:01,745 [INFO] 📸 Motion detected, saved images/333.png
+2025-09-10 10:43:01,771 [INFO] 📸 Motion detected, saved images/334.png
+2025-09-10 10:43:01,847 [INFO] 📸 Motion detected, saved images/335.png
+2025-09-10 10:43:01,872 [INFO] 📸 Motion detected, saved images/336.png
+2025-09-10 10:43:01,948 [INFO] 📸 Motion detected, saved images/337.png
+2025-09-10 10:43:01,975 [INFO] 📸 Motion detected, saved images/338.png
+2025-09-10 10:43:02,046 [INFO] 📸 Motion detected, saved images/339.png
+2025-09-10 10:43:02,072 [INFO] 📸 Motion detected, saved images/340.png
+2025-09-10 10:43:02,146 [INFO] 📸 Motion detected, saved images/341.png
+2025-09-10 10:43:02,172 [INFO] 📸 Motion detected, saved images/342.png
+2025-09-10 10:43:02,245 [INFO] 📸 Motion detected, saved images/343.png
+2025-09-10 10:43:02,271 [INFO] 📸 Motion detected, saved images/344.png
+2025-09-10 10:43:02,344 [INFO] 📸 Motion detected, saved images/345.png
+2025-09-10 10:43:02,371 [INFO] 📸 Motion detected, saved images/346.png
+2025-09-10 10:43:02,445 [INFO] 📸 Motion detected, saved images/347.png
+2025-09-10 10:43:02,471 [INFO] 📸 Motion detected, saved images/348.png
+2025-09-10 10:43:02,541 [INFO] 📸 Motion detected, saved images/349.png
+2025-09-10 10:43:02,569 [INFO] 📸 Motion detected, saved images/350.png
+2025-09-10 10:43:02,645 [INFO] 📸 Motion detected, saved images/351.png
+2025-09-10 10:43:02,674 [INFO] 📸 Motion detected, saved images/352.png
+2025-09-10 10:43:02,743 [INFO] 📸 Motion detected, saved images/353.png
+2025-09-10 10:43:02,769 [INFO] 📸 Motion detected, saved images/354.png
+2025-09-10 10:43:02,842 [INFO] 📸 Motion detected, saved images/355.png
+2025-09-10 10:43:02,869 [INFO] 📸 Motion detected, saved images/356.png
+2025-09-10 10:43:02,943 [INFO] 📸 Motion detected, saved images/357.png
+2025-09-10 10:43:02,969 [INFO] 📸 Motion detected, saved images/358.png
+2025-09-10 10:43:03,043 [INFO] 📸 Motion detected, saved images/359.png
+2025-09-10 10:43:03,070 [INFO] 📸 Motion detected, saved images/360.png
+2025-09-10 10:43:03,143 [INFO] 📸 Motion detected, saved images/361.png
+2025-09-10 10:43:03,169 [INFO] 📸 Motion detected, saved images/362.png
+2025-09-10 10:43:03,243 [INFO] 📸 Motion detected, saved images/363.png
+2025-09-10 10:43:03,269 [INFO] 📸 Motion detected, saved images/364.png
+2025-09-10 10:43:03,342 [INFO] 📸 Motion detected, saved images/365.png
+2025-09-10 10:43:03,370 [INFO] 📸 Motion detected, saved images/366.png
+2025-09-10 10:43:03,443 [INFO] 📸 Motion detected, saved images/367.png
+2025-09-10 10:43:03,470 [INFO] 📸 Motion detected, saved images/368.png
+2025-09-10 10:43:03,540 [INFO] 📸 Motion detected, saved images/369.png
+2025-09-10 10:43:03,568 [INFO] 📸 Motion detected, saved images/370.png
+2025-09-10 10:43:03,639 [INFO] 📸 Motion detected, saved images/371.png
+2025-09-10 10:43:03,671 [INFO] 📸 Motion detected, saved images/372.png
+2025-09-10 10:43:03,748 [INFO] 📸 Motion detected, saved images/373.png
+2025-09-10 10:43:03,780 [INFO] 📸 Motion detected, saved images/374.png
+2025-09-10 10:43:03,847 [INFO] 📸 Motion detected, saved images/375.png
+2025-09-10 10:43:03,875 [INFO] 📸 Motion detected, saved images/376.png
+2025-09-10 10:43:29,199 [INFO] ✅ Email sent successfully with images/1.png
+2025-09-10 10:44:24,787 [INFO] 📸 Motion detected, saved images/1.png
+2025-09-10 10:44:24,870 [INFO] 📸 Motion detected, saved images/2.png
+2025-09-10 10:44:24,938 [INFO] 📸 Motion detected, saved images/3.png
+2025-09-10 10:44:25,003 [INFO] 📸 Motion detected, saved images/4.png
+2025-09-10 10:44:25,071 [INFO] 📸 Motion detected, saved images/5.png
+2025-09-10 10:44:25,136 [INFO] 📸 Motion detected, saved images/6.png
+2025-09-10 10:44:25,253 [INFO] 📸 Motion detected, saved images/7.png
+2025-09-10 10:44:25,357 [INFO] 📸 Motion detected, saved images/8.png
+2025-09-10 10:44:25,436 [INFO] 📸 Motion detected, saved images/9.png
+2025-09-10 10:44:25,505 [INFO] 📸 Motion detected, saved images/10.png
+2025-09-10 10:44:25,566 [INFO] 📸 Motion detected, saved images/11.png
+2025-09-10 10:44:25,633 [INFO] 📸 Motion detected, saved images/12.png
+2025-09-10 10:44:25,702 [INFO] 📸 Motion detected, saved images/13.png
+2025-09-10 10:44:25,770 [INFO] 📸 Motion detected, saved images/14.png
+2025-09-10 10:44:25,836 [INFO] 📸 Motion detected, saved images/15.png
+2025-09-10 10:44:25,902 [INFO] 📸 Motion detected, saved images/16.png
+2025-09-10 10:44:25,967 [INFO] 📸 Motion detected, saved images/17.png
+2025-09-10 10:44:26,035 [INFO] 📸 Motion detected, saved images/18.png
+2025-09-10 10:44:26,102 [INFO] 📸 Motion detected, saved images/19.png
+2025-09-10 10:44:26,167 [INFO] 📸 Motion detected, saved images/20.png
+2025-09-10 10:44:26,237 [INFO] 📸 Motion detected, saved images/21.png
+2025-09-10 10:44:26,304 [INFO] 📸 Motion detected, saved images/22.png
+2025-09-10 10:44:26,369 [INFO] 📸 Motion detected, saved images/23.png
+2025-09-10 10:44:26,434 [INFO] 📸 Motion detected, saved images/24.png
+2025-09-10 10:44:26,501 [INFO] 📸 Motion detected, saved images/25.png
+2025-09-10 10:44:26,570 [INFO] 📸 Motion detected, saved images/26.png
+2025-09-10 10:44:26,636 [INFO] 📸 Motion detected, saved images/27.png
+2025-09-10 10:44:26,702 [INFO] 📸 Motion detected, saved images/28.png
+2025-09-10 10:44:26,769 [INFO] 📸 Motion detected, saved images/29.png
+2025-09-10 10:44:26,837 [INFO] 📸 Motion detected, saved images/30.png
+2025-09-10 10:44:26,899 [INFO] 📸 Motion detected, saved images/31.png
+2025-09-10 10:44:26,969 [INFO] 📸 Motion detected, saved images/32.png
+2025-09-10 10:44:27,036 [INFO] 📸 Motion detected, saved images/33.png
+2025-09-10 10:44:27,101 [INFO] 📸 Motion detected, saved images/34.png
+2025-09-10 10:44:27,170 [INFO] 📸 Motion detected, saved images/35.png
+2025-09-10 10:44:27,235 [INFO] 📸 Motion detected, saved images/36.png
+2025-09-10 10:44:27,300 [INFO] 📸 Motion detected, saved images/37.png
+2025-09-10 10:44:27,367 [INFO] 📸 Motion detected, saved images/38.png
+2025-09-10 10:44:27,435 [INFO] 📸 Motion detected, saved images/39.png
+2025-09-10 10:44:27,501 [INFO] 📸 Motion detected, saved images/40.png
+2025-09-10 10:44:27,569 [INFO] 📸 Motion detected, saved images/41.png
+2025-09-10 10:44:27,638 [INFO] 📸 Motion detected, saved images/42.png
+2025-09-10 10:44:27,700 [INFO] 📸 Motion detected, saved images/43.png
+2025-09-10 10:44:27,727 [INFO] 📸 Motion detected, saved images/44.png
+2025-09-10 10:44:27,801 [INFO] 📸 Motion detected, saved images/45.png
+2025-09-10 10:44:27,827 [INFO] 📸 Motion detected, saved images/46.png
+2025-09-10 10:44:27,900 [INFO] 📸 Motion detected, saved images/47.png
+2025-09-10 10:44:27,928 [INFO] 📸 Motion detected, saved images/48.png
+2025-09-10 10:44:28,000 [INFO] 📸 Motion detected, saved images/49.png
+2025-09-10 10:44:28,037 [INFO] 📧 Triggering email with images/323.png
+2025-09-10 10:44:28,106 [INFO] 🗑️ Cleaned up images folder
+2025-09-10 10:44:29,315 [INFO] 📸 Motion detected, saved images/50.png
+2025-09-10 10:44:29,366 [INFO] 📸 Motion detected, saved images/51.png
+2025-09-10 10:44:29,392 [INFO] 📸 Motion detected, saved images/52.png
+2025-09-10 10:44:29,468 [INFO] 📸 Motion detected, saved images/53.png
+2025-09-10 10:44:29,494 [INFO] 📸 Motion detected, saved images/54.png
+2025-09-10 10:44:29,567 [INFO] 📸 Motion detected, saved images/55.png
+2025-09-10 10:44:29,593 [INFO] 📸 Motion detected, saved images/56.png
+2025-09-10 10:44:29,667 [INFO] 📸 Motion detected, saved images/57.png
+2025-09-10 10:44:29,694 [INFO] 📸 Motion detected, saved images/58.png
+2025-09-10 10:44:29,767 [INFO] 📸 Motion detected, saved images/59.png
+2025-09-10 10:44:29,833 [INFO] 📸 Motion detected, saved images/60.png
+2025-09-10 10:44:29,900 [INFO] 📸 Motion detected, saved images/61.png
+2025-09-10 10:44:29,977 [INFO] 📸 Motion detected, saved images/62.png
+2025-09-10 10:44:30,034 [INFO] 📸 Motion detected, saved images/63.png
+2025-09-10 10:44:30,101 [INFO] 📸 Motion detected, saved images/64.png
+2025-09-10 10:44:30,172 [INFO] 📸 Motion detected, saved images/65.png
+2025-09-10 10:44:30,233 [INFO] 📸 Motion detected, saved images/66.png
+2025-09-10 10:44:30,304 [INFO] 📸 Motion detected, saved images/67.png
+2025-09-10 10:44:30,366 [INFO] 📸 Motion detected, saved images/68.png
+2025-09-10 10:44:30,438 [INFO] 📸 Motion detected, saved images/69.png
+2025-09-10 10:44:30,465 [INFO] 📸 Motion detected, saved images/70.png
+2025-09-10 10:44:30,536 [INFO] 📸 Motion detected, saved images/71.png
+2025-09-10 10:44:30,602 [INFO] 📸 Motion detected, saved images/72.png
+2025-09-10 10:44:30,670 [INFO] 📸 Motion detected, saved images/73.png
+2025-09-10 10:44:30,754 [INFO] 📸 Motion detected, saved images/74.png
+2025-09-10 10:44:30,834 [INFO] 📸 Motion detected, saved images/75.png
+2025-09-10 10:44:30,902 [INFO] 📸 Motion detected, saved images/76.png
+2025-09-10 10:44:30,969 [INFO] 📸 Motion detected, saved images/77.png
+2025-09-10 10:44:31,034 [INFO] 📸 Motion detected, saved images/78.png
+2025-09-10 10:44:31,102 [INFO] 📸 Motion detected, saved images/79.png
+2025-09-10 10:44:31,129 [INFO] 📸 Motion detected, saved images/80.png
+2025-09-10 10:44:31,201 [INFO] 📸 Motion detected, saved images/81.png
+2025-09-10 10:44:31,265 [INFO] 📸 Motion detected, saved images/82.png
+2025-09-10 10:44:31,291 [INFO] 📸 Motion detected, saved images/83.png
+2025-09-10 10:44:31,371 [INFO] 📸 Motion detected, saved images/84.png
+2025-09-10 10:44:31,401 [INFO] 📸 Motion detected, saved images/85.png
+2025-09-10 10:44:31,468 [INFO] 📸 Motion detected, saved images/86.png
+2025-09-10 10:44:31,493 [INFO] 📸 Motion detected, saved images/87.png
+2025-09-10 10:44:31,537 [INFO] 📧 Triggering email with images/56.png
+2025-09-10 10:44:31,550 [INFO] 🗑️ Cleaned up images folder
+2025-09-10 10:44:32,315 [INFO] 📸 Motion detected, saved images/88.png
+2025-09-10 10:44:32,363 [INFO] 📸 Motion detected, saved images/89.png
+2025-09-10 10:44:32,389 [INFO] 📸 Motion detected, saved images/90.png
+2025-09-10 10:44:32,468 [INFO] 📸 Motion detected, saved images/91.png
+2025-09-10 10:44:32,494 [INFO] 📸 Motion detected, saved images/92.png
+2025-09-10 10:44:32,567 [INFO] 📸 Motion detected, saved images/93.png
+2025-09-10 10:44:32,593 [INFO] 📸 Motion detected, saved images/94.png
+2025-09-10 10:44:32,668 [INFO] 📸 Motion detected, saved images/95.png
+2025-09-10 10:44:32,735 [INFO] 📸 Motion detected, saved images/96.png
+2025-09-10 10:44:32,798 [INFO] 📸 Motion detected, saved images/97.png
+2025-09-10 10:44:32,866 [INFO] 📸 Motion detected, saved images/98.png
+2025-09-10 10:44:32,933 [INFO] 📸 Motion detected, saved images/99.png
+2025-09-10 10:44:33,003 [INFO] 📸 Motion detected, saved images/100.png
+2025-09-10 10:44:33,068 [INFO] 📸 Motion detected, saved images/101.png
+2025-09-10 10:44:33,133 [INFO] 📸 Motion detected, saved images/102.png
+2025-09-10 10:44:33,198 [INFO] 📸 Motion detected, saved images/103.png
+2025-09-10 10:44:33,265 [INFO] 📸 Motion detected, saved images/104.png
+2025-09-10 10:44:33,337 [INFO] 📸 Motion detected, saved images/105.png
+2025-09-10 10:44:33,401 [INFO] 📸 Motion detected, saved images/106.png
+2025-09-10 10:44:33,470 [INFO] 📸 Motion detected, saved images/107.png
+2025-09-10 10:44:33,533 [INFO] 📸 Motion detected, saved images/108.png
+2025-09-10 10:44:33,601 [INFO] 📸 Motion detected, saved images/109.png
+2025-09-10 10:44:33,667 [INFO] 📸 Motion detected, saved images/110.png
+2025-09-10 10:44:33,731 [INFO] 📸 Motion detected, saved images/111.png
+2025-09-10 10:44:33,801 [INFO] 📸 Motion detected, saved images/112.png
+2025-09-10 10:44:33,869 [INFO] 📸 Motion detected, saved images/113.png
+2025-09-10 10:44:33,936 [INFO] 📸 Motion detected, saved images/114.png
+2025-09-10 10:44:33,998 [INFO] 📸 Motion detected, saved images/115.png
+2025-09-10 10:44:34,065 [INFO] 📸 Motion detected, saved images/116.png
+2025-09-10 10:44:34,149 [INFO] 📸 Motion detected, saved images/117.png
+2025-09-10 10:44:34,213 [INFO] 📸 Motion detected, saved images/118.png
+2025-09-10 10:44:34,263 [INFO] 📸 Motion detected, saved images/119.png
+2025-09-10 10:44:34,332 [INFO] 📸 Motion detected, saved images/120.png
+2025-09-10 10:44:34,401 [INFO] 📸 Motion detected, saved images/121.png
+2025-09-10 10:44:34,463 [INFO] 📸 Motion detected, saved images/122.png
+2025-09-10 10:44:34,533 [INFO] 📸 Motion detected, saved images/123.png
+2025-09-10 10:44:34,599 [INFO] 📸 Motion detected, saved images/124.png
+2025-09-10 10:44:34,671 [INFO] 📸 Motion detected, saved images/125.png
+2025-09-10 10:44:34,734 [INFO] 📸 Motion detected, saved images/126.png
+2025-09-10 10:44:34,796 [INFO] 📸 Motion detected, saved images/127.png
+2025-09-10 10:44:34,867 [INFO] 📸 Motion detected, saved images/128.png
+2025-09-10 10:44:34,933 [INFO] 📸 Motion detected, saved images/129.png
+2025-09-10 10:44:34,999 [INFO] 📸 Motion detected, saved images/130.png
+2025-09-10 10:44:35,062 [INFO] 📸 Motion detected, saved images/131.png
+2025-09-10 10:44:35,128 [INFO] 📸 Motion detected, saved images/132.png
+2025-09-10 10:44:35,197 [INFO] 📸 Motion detected, saved images/133.png
+2025-09-10 10:44:35,264 [INFO] 📸 Motion detected, saved images/134.png
+2025-09-10 10:44:35,339 [INFO] 📸 Motion detected, saved images/135.png
+2025-09-10 10:44:35,399 [INFO] 📸 Motion detected, saved images/136.png
+2025-09-10 10:44:35,465 [INFO] 📸 Motion detected, saved images/137.png
+2025-09-10 10:44:35,534 [INFO] 📸 Motion detected, saved images/138.png
+2025-09-10 10:44:35,600 [INFO] 📸 Motion detected, saved images/139.png
+2025-09-10 10:44:35,663 [INFO] 📸 Motion detected, saved images/140.png
+2025-09-10 10:44:35,733 [INFO] 📸 Motion detected, saved images/141.png
+2025-09-10 10:44:35,803 [INFO] 📸 Motion detected, saved images/142.png
+2025-09-10 10:44:35,866 [INFO] 📸 Motion detected, saved images/143.png
+2025-09-10 10:44:35,934 [INFO] 📸 Motion detected, saved images/144.png
+2025-09-10 10:44:36,000 [INFO] 📸 Motion detected, saved images/145.png
+2025-09-10 10:44:36,066 [INFO] 📸 Motion detected, saved images/146.png
+2025-09-10 10:44:36,133 [INFO] 📸 Motion detected, saved images/147.png
+2025-09-10 10:44:36,199 [INFO] 📸 Motion detected, saved images/148.png
+2025-09-10 10:44:36,265 [INFO] 📸 Motion detected, saved images/149.png
+2025-09-10 10:44:36,332 [INFO] 📸 Motion detected, saved images/150.png
+2025-09-10 10:44:36,399 [INFO] 📸 Motion detected, saved images/151.png
+2025-09-10 10:44:36,465 [INFO] 📸 Motion detected, saved images/152.png
+2025-09-10 10:44:36,532 [INFO] 📸 Motion detected, saved images/153.png
+2025-09-10 10:44:36,601 [INFO] 📸 Motion detected, saved images/154.png
+2025-09-10 10:44:36,664 [INFO] 📸 Motion detected, saved images/155.png
+2025-09-10 10:44:36,735 [INFO] 📸 Motion detected, saved images/156.png
+2025-09-10 10:44:36,798 [INFO] 📸 Motion detected, saved images/157.png
+2025-09-10 10:44:36,865 [INFO] 📸 Motion detected, saved images/158.png
+2025-09-10 10:44:36,933 [INFO] 📸 Motion detected, saved images/159.png
+2025-09-10 10:44:36,999 [INFO] 📸 Motion detected, saved images/160.png
+2025-09-10 10:44:37,066 [INFO] 📸 Motion detected, saved images/161.png
+2025-09-10 10:44:37,133 [INFO] 📸 Motion detected, saved images/162.png
+2025-09-10 10:44:37,201 [INFO] 📸 Motion detected, saved images/163.png
+2025-09-10 10:44:37,262 [INFO] 📸 Motion detected, saved images/164.png
+2025-09-10 10:44:37,330 [INFO] 📸 Motion detected, saved images/165.png
+2025-09-10 10:44:37,398 [INFO] 📸 Motion detected, saved images/166.png
+2025-09-10 10:44:37,463 [INFO] 📸 Motion detected, saved images/167.png
+2025-09-10 10:44:37,531 [INFO] 📸 Motion detected, saved images/168.png
+2025-09-10 10:44:37,599 [INFO] 📸 Motion detected, saved images/169.png
+2025-09-10 10:44:37,667 [INFO] 📸 Motion detected, saved images/170.png
+2025-09-10 10:44:37,732 [INFO] 📸 Motion detected, saved images/171.png
+2025-09-10 10:44:37,796 [INFO] 📸 Motion detected, saved images/172.png
+2025-09-10 10:44:37,864 [INFO] 📸 Motion detected, saved images/173.png
+2025-09-10 10:44:37,929 [INFO] 📸 Motion detected, saved images/174.png
+2025-09-10 10:44:37,999 [INFO] 📸 Motion detected, saved images/175.png
+2025-09-10 10:44:38,065 [INFO] 📸 Motion detected, saved images/176.png
+2025-09-10 10:44:38,134 [INFO] 📸 Motion detected, saved images/177.png
+2025-09-10 10:44:38,199 [INFO] 📸 Motion detected, saved images/178.png
+2025-09-10 10:44:38,265 [INFO] 📸 Motion detected, saved images/179.png
+2025-09-10 10:44:38,330 [INFO] 📸 Motion detected, saved images/180.png
+2025-09-10 10:44:38,399 [INFO] 📸 Motion detected, saved images/181.png
+2025-09-10 10:44:38,464 [INFO] 📸 Motion detected, saved images/182.png
+2025-09-10 10:44:38,529 [INFO] 📸 Motion detected, saved images/183.png
+2025-09-10 10:44:38,599 [INFO] 📸 Motion detected, saved images/184.png
+2025-09-10 10:44:38,662 [INFO] 📸 Motion detected, saved images/185.png
+2025-09-10 10:44:38,732 [INFO] 📸 Motion detected, saved images/186.png
+2025-09-10 10:44:38,795 [INFO] 📸 Motion detected, saved images/187.png
+2025-09-10 10:44:38,862 [INFO] 📸 Motion detected, saved images/188.png
+2025-09-10 10:44:38,931 [INFO] 📸 Motion detected, saved images/189.png
+2025-09-10 10:44:38,993 [INFO] 📸 Motion detected, saved images/190.png
+2025-09-10 10:44:39,067 [INFO] 📸 Motion detected, saved images/191.png
+2025-09-10 10:44:39,129 [INFO] 📸 Motion detected, saved images/192.png
+2025-09-10 10:44:39,197 [INFO] 📸 Motion detected, saved images/193.png
+2025-09-10 10:44:39,265 [INFO] 📸 Motion detected, saved images/194.png
+2025-09-10 10:44:39,328 [INFO] 📸 Motion detected, saved images/195.png
+2025-09-10 10:44:39,398 [INFO] 📸 Motion detected, saved images/196.png
+2025-09-10 10:44:39,465 [INFO] 📸 Motion detected, saved images/197.png
+2025-09-10 10:44:39,533 [INFO] 📸 Motion detected, saved images/198.png
+2025-09-10 10:44:39,598 [INFO] 📸 Motion detected, saved images/199.png
+2025-09-10 10:44:39,665 [INFO] 📸 Motion detected, saved images/200.png
+2025-09-10 10:44:39,731 [INFO] 📸 Motion detected, saved images/201.png
+2025-09-10 10:44:39,797 [INFO] 📸 Motion detected, saved images/202.png
+2025-09-10 10:44:39,862 [INFO] 📸 Motion detected, saved images/203.png
+2025-09-10 10:44:39,931 [INFO] 📸 Motion detected, saved images/204.png
+2025-09-10 10:44:40,000 [INFO] 📸 Motion detected, saved images/205.png
+2025-09-10 10:44:40,069 [INFO] 📸 Motion detected, saved images/206.png
+2025-09-10 10:44:40,141 [INFO] 📸 Motion detected, saved images/207.png
+2025-09-10 10:44:40,204 [INFO] 📸 Motion detected, saved images/208.png
+2025-09-10 10:44:40,261 [INFO] 📸 Motion detected, saved images/209.png
+2025-09-10 10:44:40,336 [INFO] 📸 Motion detected, saved images/210.png
+2025-09-10 10:44:40,395 [INFO] 📸 Motion detected, saved images/211.png
+2025-09-10 10:44:40,466 [INFO] 📸 Motion detected, saved images/212.png
+2025-09-10 10:44:40,531 [INFO] 📸 Motion detected, saved images/213.png
+2025-09-10 10:44:40,597 [INFO] 📸 Motion detected, saved images/214.png
+2025-09-10 10:44:40,663 [INFO] 📸 Motion detected, saved images/215.png
+2025-09-10 10:44:40,728 [INFO] 📸 Motion detected, saved images/216.png
+2025-09-10 10:44:40,796 [INFO] 📸 Motion detected, saved images/217.png
+2025-09-10 10:44:40,862 [INFO] 📸 Motion detected, saved images/218.png
+2025-09-10 10:44:40,923 [INFO] 📸 Motion detected, saved images/219.png
+2025-09-10 10:44:40,999 [INFO] 📸 Motion detected, saved images/220.png
+2025-09-10 10:44:41,064 [INFO] 📸 Motion detected, saved images/221.png
+2025-09-10 10:44:41,148 [INFO] 📸 Motion detected, saved images/222.png
+2025-09-10 10:44:41,231 [INFO] 📸 Motion detected, saved images/223.png
+2025-09-10 10:44:41,296 [INFO] 📸 Motion detected, saved images/224.png
+2025-09-10 10:44:41,364 [INFO] 📸 Motion detected, saved images/225.png
+2025-09-10 10:44:41,428 [INFO] 📸 Motion detected, saved images/226.png
+2025-09-10 10:44:41,497 [INFO] 📸 Motion detected, saved images/227.png
+2025-09-10 10:44:41,565 [INFO] 📸 Motion detected, saved images/228.png
+2025-09-10 10:44:41,633 [INFO] 📸 Motion detected, saved images/229.png
+2025-09-10 10:44:41,696 [INFO] 📸 Motion detected, saved images/230.png
+2025-09-10 10:44:41,761 [INFO] 📸 Motion detected, saved images/231.png
+2025-09-10 10:44:41,830 [INFO] 📸 Motion detected, saved images/232.png
+2025-09-10 10:44:41,896 [INFO] 📸 Motion detected, saved images/233.png
+2025-09-10 10:44:41,964 [INFO] 📸 Motion detected, saved images/234.png
+2025-09-10 10:44:42,028 [INFO] 📸 Motion detected, saved images/235.png
+2025-09-10 10:44:42,100 [INFO] 📸 Motion detected, saved images/236.png
+2025-09-10 10:44:42,163 [INFO] 📸 Motion detected, saved images/237.png
+2025-09-10 10:44:42,241 [INFO] 📸 Motion detected, saved images/238.png
+2025-09-10 10:44:42,300 [INFO] 📸 Motion detected, saved images/239.png
+2025-09-10 10:44:42,361 [INFO] 📸 Motion detected, saved images/240.png
+2025-09-10 10:44:42,431 [INFO] 📸 Motion detected, saved images/241.png
+2025-09-10 10:44:42,497 [INFO] 📸 Motion detected, saved images/242.png
+2025-09-10 10:44:42,566 [INFO] 📸 Motion detected, saved images/243.png
+2025-09-10 10:44:42,627 [INFO] 📸 Motion detected, saved images/244.png
+2025-09-10 10:44:42,696 [INFO] 📸 Motion detected, saved images/245.png
+2025-09-10 10:44:42,762 [INFO] 📸 Motion detected, saved images/246.png
+2025-09-10 10:44:42,790 [INFO] 📸 Motion detected, saved images/247.png
+2025-09-10 10:44:42,863 [INFO] 📸 Motion detected, saved images/248.png
+2025-09-10 10:44:42,889 [INFO] 📸 Motion detected, saved images/249.png
+2025-09-10 10:44:42,964 [INFO] 📸 Motion detected, saved images/250.png
+2025-09-10 10:44:42,990 [INFO] 📸 Motion detected, saved images/251.png
+2025-09-10 10:44:43,064 [INFO] 📸 Motion detected, saved images/252.png
+2025-09-10 10:44:43,090 [INFO] 📸 Motion detected, saved images/253.png
+2025-09-10 10:44:43,163 [INFO] 📸 Motion detected, saved images/254.png
+2025-09-10 10:44:43,189 [INFO] 📸 Motion detected, saved images/255.png
+2025-09-10 10:44:43,266 [INFO] 📸 Motion detected, saved images/256.png
+2025-09-10 10:44:43,293 [INFO] 📸 Motion detected, saved images/257.png
+2025-09-10 10:44:43,362 [INFO] 📸 Motion detected, saved images/258.png
+2025-09-10 10:44:43,391 [INFO] 📸 Motion detected, saved images/259.png
+2025-09-10 10:44:43,460 [INFO] 📸 Motion detected, saved images/260.png
+2025-09-10 10:44:43,489 [INFO] 📸 Motion detected, saved images/261.png
+2025-09-10 10:44:43,519 [INFO] 📸 Motion detected, saved images/262.png
+2025-09-10 10:44:43,592 [INFO] 📸 Motion detected, saved images/263.png
+2025-09-10 10:44:43,619 [INFO] 📸 Motion detected, saved images/264.png
+2025-09-10 10:44:43,647 [INFO] 📸 Motion detected, saved images/265.png
+2025-09-10 10:44:43,694 [INFO] 📸 Motion detected, saved images/266.png
+2025-09-10 10:44:43,721 [INFO] 📸 Motion detected, saved images/267.png
+2025-09-10 10:44:43,748 [INFO] 📸 Motion detected, saved images/268.png
+2025-09-10 10:44:43,795 [INFO] 📸 Motion detected, saved images/269.png
+2025-09-10 10:44:43,821 [INFO] 📸 Motion detected, saved images/270.png
+2025-09-10 10:44:43,853 [INFO] 📸 Motion detected, saved images/271.png
+2025-09-10 10:44:43,931 [INFO] 📸 Motion detected, saved images/272.png
+2025-09-10 10:44:43,958 [INFO] 📸 Motion detected, saved images/273.png
+2025-09-10 10:44:43,984 [INFO] 📸 Motion detected, saved images/274.png
+2025-09-10 10:44:44,063 [INFO] 📸 Motion detected, saved images/275.png
+2025-09-10 10:44:44,091 [INFO] 📸 Motion detected, saved images/276.png
+2025-09-10 10:44:44,116 [INFO] 📸 Motion detected, saved images/277.png
+2025-09-10 10:44:44,199 [INFO] 📸 Motion detected, saved images/278.png
+2025-09-10 10:44:44,226 [INFO] 📸 Motion detected, saved images/279.png
+2025-09-10 10:44:44,252 [INFO] 📸 Motion detected, saved images/280.png
+2025-09-10 10:44:44,328 [INFO] 📸 Motion detected, saved images/281.png
+2025-09-10 10:44:44,332 [INFO] ✅ Email sent successfully with images/323.png
+2025-09-10 10:44:44,355 [INFO] 📸 Motion detected, saved images/282.png
+2025-09-10 10:44:44,381 [INFO] 📸 Motion detected, saved images/283.png
+2025-09-10 10:44:44,430 [INFO] 📸 Motion detected, saved images/284.png
+2025-09-10 10:44:44,457 [INFO] 📸 Motion detected, saved images/285.png
+2025-09-10 10:44:44,527 [INFO] 📸 Motion detected, saved images/286.png
+2025-09-10 10:44:44,558 [INFO] 📸 Motion detected, saved images/287.png
+2025-09-10 10:44:44,591 [INFO] 📸 Motion detected, saved images/288.png
+2025-09-10 10:44:44,665 [INFO] 📸 Motion detected, saved images/289.png
+2025-09-10 10:44:44,691 [INFO] 📸 Motion detected, saved images/290.png
+2025-09-10 10:44:44,719 [INFO] 📸 Motion detected, saved images/291.png
+2025-09-10 10:44:44,797 [INFO] 📸 Motion detected, saved images/292.png
+2025-09-10 10:44:44,823 [INFO] 📸 Motion detected, saved images/293.png
+2025-09-10 10:44:44,849 [INFO] 📸 Motion detected, saved images/294.png
+2025-09-10 10:44:44,930 [INFO] 📸 Motion detected, saved images/295.png
+2025-09-10 10:44:44,956 [INFO] 📸 Motion detected, saved images/296.png
+2025-09-10 10:44:44,982 [INFO] 📸 Motion detected, saved images/297.png
+2025-09-10 10:44:45,063 [INFO] 📸 Motion detected, saved images/298.png
+2025-09-10 10:44:45,090 [INFO] 📸 Motion detected, saved images/299.png
+2025-09-10 10:44:45,163 [INFO] 📸 Motion detected, saved images/300.png
+2025-09-10 10:44:45,189 [INFO] 📸 Motion detected, saved images/301.png
+2025-09-10 10:44:45,260 [INFO] 📸 Motion detected, saved images/302.png
+2025-09-10 10:44:45,287 [INFO] 📸 Motion detected, saved images/303.png
+2025-09-10 10:44:45,313 [INFO] 📸 Motion detected, saved images/304.png
+2025-09-10 10:44:45,362 [INFO] 📸 Motion detected, saved images/305.png
+2025-09-10 10:44:45,391 [INFO] 📸 Motion detected, saved images/306.png
+2025-09-10 10:44:45,420 [INFO] 📸 Motion detected, saved images/307.png
+2025-09-10 10:44:45,494 [INFO] 📸 Motion detected, saved images/308.png
+2025-09-10 10:44:45,521 [INFO] 📸 Motion detected, saved images/309.png
+2025-09-10 10:44:45,598 [INFO] 📸 Motion detected, saved images/310.png
+2025-09-10 10:44:45,625 [INFO] 📸 Motion detected, saved images/311.png
+2025-09-10 10:44:45,651 [INFO] 📸 Motion detected, saved images/312.png
+2025-09-10 10:44:45,729 [INFO] 📸 Motion detected, saved images/313.png
+2025-09-10 10:44:45,756 [INFO] 📸 Motion detected, saved images/314.png
+2025-09-10 10:44:45,782 [INFO] 📸 Motion detected, saved images/315.png
+2025-09-10 10:44:45,827 [INFO] 📸 Motion detected, saved images/316.png
+2025-09-10 10:44:45,855 [INFO] 📸 Motion detected, saved images/317.png
+2025-09-10 10:44:45,881 [INFO] 📸 Motion detected, saved images/318.png
+2025-09-10 10:44:45,927 [INFO] 📸 Motion detected, saved images/319.png
+2025-09-10 10:44:45,953 [INFO] 📸 Motion detected, saved images/320.png
+2025-09-10 10:44:45,981 [INFO] 📸 Motion detected, saved images/321.png
+2025-09-10 10:44:46,028 [INFO] 📸 Motion detected, saved images/322.png
+2025-09-10 10:44:46,054 [INFO] 📸 Motion detected, saved images/323.png
+2025-09-10 10:44:46,081 [INFO] 📸 Motion detected, saved images/324.png
+2025-09-10 10:44:46,127 [INFO] 📸 Motion detected, saved images/325.png
+2025-09-10 10:44:46,153 [INFO] 📸 Motion detected, saved images/326.png
+2025-09-10 10:44:46,179 [INFO] 📸 Motion detected, saved images/327.png
+2025-09-10 10:44:46,228 [INFO] 📸 Motion detected, saved images/328.png
+2025-09-10 10:44:46,254 [INFO] 📸 Motion detected, saved images/329.png
+2025-09-10 10:44:46,327 [INFO] 📸 Motion detected, saved images/330.png
+2025-09-10 10:44:46,354 [INFO] 📸 Motion detected, saved images/331.png
+2025-09-10 10:44:46,430 [INFO] 📸 Motion detected, saved images/332.png
+2025-09-10 10:44:46,457 [INFO] 📸 Motion detected, saved images/333.png
+2025-09-10 10:44:46,531 [INFO] 📸 Motion detected, saved images/334.png
+2025-09-10 10:44:46,557 [INFO] 📸 Motion detected, saved images/335.png
+2025-09-10 10:44:46,630 [INFO] 📸 Motion detected, saved images/336.png
+2025-09-10 10:44:46,658 [INFO] 📸 Motion detected, saved images/337.png
+2025-09-10 10:44:46,728 [INFO] 📸 Motion detected, saved images/338.png
+2025-09-10 10:44:46,755 [INFO] 📸 Motion detected, saved images/339.png
+2025-09-10 10:44:46,828 [INFO] 📸 Motion detected, saved images/340.png
+2025-09-10 10:44:46,854 [INFO] 📸 Motion detected, saved images/341.png
+2025-09-10 10:44:46,930 [INFO] 📸 Motion detected, saved images/342.png
+2025-09-10 10:44:46,957 [INFO] 📸 Motion detected, saved images/343.png
+2025-09-10 10:44:46,983 [INFO] 📸 Motion detected, saved images/344.png
+2025-09-10 10:44:47,063 [INFO] 📸 Motion detected, saved images/345.png
+2025-09-10 10:44:47,090 [INFO] 📸 Motion detected, saved images/346.png
+2025-09-10 10:44:47,162 [INFO] 📸 Motion detected, saved images/347.png
+2025-09-10 10:44:47,188 [INFO] 📸 Motion detected, saved images/348.png
+2025-09-10 10:44:47,215 [INFO] 📸 Motion detected, saved images/349.png
+2025-09-10 10:44:47,296 [INFO] 📸 Motion detected, saved images/350.png
+2025-09-10 10:44:47,323 [INFO] 📸 Motion detected, saved images/351.png
+2025-09-10 10:44:47,350 [INFO] 📸 Motion detected, saved images/352.png
+2025-09-10 10:44:47,430 [INFO] 📸 Motion detected, saved images/353.png
+2025-09-10 10:44:47,457 [INFO] 📸 Motion detected, saved images/354.png
+2025-09-10 10:44:47,483 [INFO] 📸 Motion detected, saved images/355.png
+2025-09-10 10:44:47,561 [INFO] 📸 Motion detected, saved images/356.png
+2025-09-10 10:44:47,589 [INFO] 📸 Motion detected, saved images/357.png
+2025-09-10 10:44:47,614 [INFO] 📸 Motion detected, saved images/358.png
+2025-09-10 10:44:47,698 [INFO] 📸 Motion detected, saved images/359.png
+2025-09-10 10:44:47,725 [INFO] 📸 Motion detected, saved images/360.png
+2025-09-10 10:44:47,794 [INFO] 📸 Motion detected, saved images/361.png
+2025-09-10 10:44:47,821 [INFO] 📸 Motion detected, saved images/362.png
+2025-09-10 10:44:47,897 [INFO] 📸 Motion detected, saved images/363.png
+2025-09-10 10:44:47,923 [INFO] 📸 Motion detected, saved images/364.png
+2025-09-10 10:44:47,993 [INFO] 📸 Motion detected, saved images/365.png
+2025-09-10 10:44:48,019 [INFO] 📸 Motion detected, saved images/366.png
+2025-09-10 10:44:48,096 [INFO] 📸 Motion detected, saved images/367.png
+2025-09-10 10:44:48,123 [INFO] 📸 Motion detected, saved images/368.png
+2025-09-10 10:44:48,195 [INFO] 📸 Motion detected, saved images/369.png
+2025-09-10 10:44:48,221 [INFO] 📸 Motion detected, saved images/370.png
+2025-09-10 10:44:48,295 [INFO] 📸 Motion detected, saved images/371.png
+2025-09-10 10:44:48,322 [INFO] 📸 Motion detected, saved images/372.png
+2025-09-10 10:44:48,397 [INFO] 📸 Motion detected, saved images/373.png
+2025-09-10 10:44:48,424 [INFO] 📸 Motion detected, saved images/374.png
+2025-09-10 10:44:48,491 [INFO] 📸 Motion detected, saved images/375.png
+2025-09-10 10:44:48,518 [INFO] 📸 Motion detected, saved images/376.png
+2025-09-10 10:44:48,596 [INFO] 📸 Motion detected, saved images/377.png
+2025-09-10 10:44:48,623 [INFO] 📸 Motion detected, saved images/378.png
+2025-09-10 10:44:48,694 [INFO] 📸 Motion detected, saved images/379.png
+2025-09-10 10:44:48,721 [INFO] 📸 Motion detected, saved images/380.png
+2025-09-10 10:44:48,795 [INFO] 📸 Motion detected, saved images/381.png
+2025-09-10 10:44:48,821 [INFO] 📸 Motion detected, saved images/382.png
+2025-09-10 10:44:48,895 [INFO] 📸 Motion detected, saved images/383.png
+2025-09-10 10:44:48,921 [INFO] 📸 Motion detected, saved images/384.png
+2025-09-10 10:44:48,995 [INFO] 📸 Motion detected, saved images/385.png
+2025-09-10 10:44:49,021 [INFO] 📸 Motion detected, saved images/386.png
+2025-09-10 10:44:49,097 [INFO] 📸 Motion detected, saved images/387.png
+2025-09-10 10:44:49,128 [INFO] 📸 Motion detected, saved images/388.png
+2025-09-10 10:44:49,196 [INFO] 📸 Motion detected, saved images/389.png
+2025-09-10 10:44:49,228 [INFO] 📸 Motion detected, saved images/390.png
+2025-09-10 10:44:49,255 [INFO] 📸 Motion detected, saved images/391.png
+2025-09-10 10:44:49,283 [INFO] 📸 Motion detected, saved images/392.png
+2025-09-10 10:44:49,361 [INFO] 📸 Motion detected, saved images/393.png
+2025-09-10 10:44:49,387 [INFO] 📸 Motion detected, saved images/394.png
+2025-09-10 10:44:49,461 [INFO] 📸 Motion detected, saved images/395.png
+2025-09-10 10:44:49,490 [INFO] 📸 Motion detected, saved images/396.png
+2025-09-10 10:44:49,570 [INFO] 📸 Motion detected, saved images/397.png
+2025-09-10 10:44:49,613 [INFO] 📸 Motion detected, saved images/398.png
+2025-09-10 10:44:49,702 [INFO] 📸 Motion detected, saved images/399.png
+2025-09-10 10:44:49,735 [INFO] 📸 Motion detected, saved images/400.png
+2025-09-10 10:44:49,767 [INFO] 📸 Motion detected, saved images/401.png
+2025-09-10 10:44:49,830 [INFO] 📸 Motion detected, saved images/402.png
+2025-09-10 10:44:49,860 [INFO] 📸 Motion detected, saved images/403.png
+2025-09-10 10:44:49,889 [INFO] 📸 Motion detected, saved images/404.png
+2025-09-10 10:44:49,957 [INFO] 📸 Motion detected, saved images/405.png
+2025-09-10 10:44:49,985 [INFO] 📸 Motion detected, saved images/406.png
+2025-09-10 10:44:50,013 [INFO] 📸 Motion detected, saved images/407.png
+2025-09-10 10:44:50,093 [INFO] 📸 Motion detected, saved images/408.png
+2025-09-10 10:44:50,121 [INFO] 📸 Motion detected, saved images/409.png
+2025-09-10 10:44:50,148 [INFO] 📸 Motion detected, saved images/410.png
+2025-09-10 10:44:50,228 [INFO] 📸 Motion detected, saved images/411.png
+2025-09-10 10:44:50,257 [INFO] 📸 Motion detected, saved images/412.png
+2025-09-10 10:44:50,286 [INFO] 📸 Motion detected, saved images/413.png
+2025-09-10 10:44:50,356 [INFO] 📸 Motion detected, saved images/414.png
+2025-09-10 10:44:50,383 [INFO] 📸 Motion detected, saved images/415.png
+2025-09-10 10:44:50,413 [INFO] 📸 Motion detected, saved images/416.png
+2025-09-10 10:44:50,503 [INFO] 📸 Motion detected, saved images/417.png
+2025-09-10 10:44:50,531 [INFO] 📸 Motion detected, saved images/418.png
+2025-09-10 10:44:50,592 [INFO] 📸 Motion detected, saved images/419.png
+2025-09-10 10:44:50,619 [INFO] 📸 Motion detected, saved images/420.png
+2025-09-10 10:44:50,694 [INFO] 📸 Motion detected, saved images/421.png
+2025-09-10 10:44:50,759 [INFO] 📸 Motion detected, saved images/422.png
+2025-09-10 10:44:50,827 [INFO] 📸 Motion detected, saved images/423.png
+2025-09-10 10:44:50,853 [INFO] 📸 Motion detected, saved images/424.png
+2025-09-10 10:44:50,929 [INFO] 📸 Motion detected, saved images/425.png
+2025-09-10 10:44:50,955 [INFO] 📸 Motion detected, saved images/426.png
+2025-09-10 10:44:51,027 [INFO] 📸 Motion detected, saved images/427.png
+2025-09-10 10:44:51,054 [INFO] 📸 Motion detected, saved images/428.png
+2025-09-10 10:44:51,126 [INFO] 📸 Motion detected, saved images/429.png
+2025-09-10 10:44:51,198 [INFO] 📸 Motion detected, saved images/430.png
+2025-09-10 10:44:51,225 [INFO] 📸 Motion detected, saved images/431.png
+2025-09-10 10:44:51,292 [INFO] 📸 Motion detected, saved images/432.png
+2025-09-10 10:44:51,325 [INFO] 📸 Motion detected, saved images/433.png
+2025-09-10 10:44:51,399 [INFO] 📸 Motion detected, saved images/434.png
+2025-09-10 10:44:51,429 [INFO] 📸 Motion detected, saved images/435.png
+2025-09-10 10:44:51,461 [INFO] 📸 Motion detected, saved images/436.png
+2025-09-10 10:44:51,528 [INFO] 📸 Motion detected, saved images/437.png
+2025-09-10 10:44:51,589 [INFO] 📸 Motion detected, saved images/438.png
+2025-09-10 10:44:51,616 [INFO] 📸 Motion detected, saved images/439.png
+2025-09-10 10:44:51,689 [INFO] 📸 Motion detected, saved images/440.png
+2025-09-10 10:44:51,716 [INFO] 📸 Motion detected, saved images/441.png
+2025-09-10 10:44:51,788 [INFO] 📸 Motion detected, saved images/442.png
+2025-09-10 10:44:51,814 [INFO] 📸 Motion detected, saved images/443.png
+2025-09-10 10:44:51,888 [INFO] 📸 Motion detected, saved images/444.png
+2025-09-10 10:44:51,916 [INFO] 📸 Motion detected, saved images/445.png
+2025-09-10 10:44:51,988 [INFO] 📸 Motion detected, saved images/446.png
+2025-09-10 10:44:52,013 [INFO] 📸 Motion detected, saved images/447.png
+2025-09-10 10:44:52,093 [INFO] 📸 Motion detected, saved images/448.png
+2025-09-10 10:44:52,119 [INFO] 📸 Motion detected, saved images/449.png
+2025-09-10 10:44:52,193 [INFO] 📸 Motion detected, saved images/450.png
+2025-09-10 10:44:52,219 [INFO] 📸 Motion detected, saved images/451.png
+2025-09-10 10:44:52,294 [INFO] 📸 Motion detected, saved images/452.png
+2025-09-10 10:44:52,320 [INFO] 📸 Motion detected, saved images/453.png
+2025-09-10 10:44:52,393 [INFO] 📸 Motion detected, saved images/454.png
+2025-09-10 10:44:52,419 [INFO] 📸 Motion detected, saved images/455.png
+2025-09-10 10:44:52,493 [INFO] 📸 Motion detected, saved images/456.png
+2025-09-10 10:44:52,521 [INFO] 📸 Motion detected, saved images/457.png
+2025-09-10 10:44:52,594 [INFO] 📸 Motion detected, saved images/458.png
+2025-09-10 10:44:52,647 [INFO] ✅ Email sent successfully with images/56.png
+2025-09-10 10:44:52,656 [INFO] 📸 Motion detected, saved images/459.png
+2025-09-10 10:44:52,724 [INFO] 📸 Motion detected, saved images/460.png
+2025-09-10 10:44:52,791 [INFO] 📸 Motion detected, saved images/461.png
+2025-09-10 10:44:52,858 [INFO] 📸 Motion detected, saved images/462.png
+2025-09-10 10:44:52,923 [INFO] 📸 Motion detected, saved images/463.png
+2025-09-10 10:44:52,990 [INFO] 📸 Motion detected, saved images/464.png
+2025-09-10 10:44:53,060 [INFO] 📸 Motion detected, saved images/465.png
+2025-09-10 10:44:53,126 [INFO] 📸 Motion detected, saved images/466.png
+2025-09-10 10:44:53,193 [INFO] 📸 Motion detected, saved images/467.png
+2025-09-10 10:44:53,257 [INFO] 📸 Motion detected, saved images/468.png
+2025-09-10 10:44:53,284 [INFO] 📸 Motion detected, saved images/469.png
+2025-09-10 10:44:53,370 [INFO] 📸 Motion detected, saved images/470.png
+2025-09-10 10:44:53,397 [INFO] 📸 Motion detected, saved images/471.png
+2025-09-10 10:44:53,459 [INFO] 📸 Motion detected, saved images/472.png
+2025-09-10 10:44:53,485 [INFO] 📸 Motion detected, saved images/473.png
+2025-09-10 10:44:53,559 [INFO] 📸 Motion detected, saved images/474.png
+2025-09-10 10:44:53,586 [INFO] 📸 Motion detected, saved images/475.png
+2025-09-10 10:44:53,613 [INFO] 📸 Motion detected, saved images/476.png
+2025-09-10 10:44:53,692 [INFO] 📸 Motion detected, saved images/477.png
+2025-09-10 10:44:53,719 [INFO] 📸 Motion detected, saved images/478.png
+2025-09-10 10:44:53,746 [INFO] 📸 Motion detected, saved images/479.png
+2025-09-10 10:44:53,828 [INFO] 📸 Motion detected, saved images/480.png
+2025-09-10 10:44:53,856 [INFO] 📸 Motion detected, saved images/481.png
+2025-09-10 10:44:53,883 [INFO] 📸 Motion detected, saved images/482.png
+2025-09-10 10:44:53,960 [INFO] 📸 Motion detected, saved images/483.png
+2025-09-10 10:44:53,988 [INFO] 📸 Motion detected, saved images/484.png
+2025-09-10 10:44:54,014 [INFO] 📸 Motion detected, saved images/485.png
+2025-09-10 10:44:54,094 [INFO] 📸 Motion detected, saved images/486.png
+2025-09-10 10:44:54,120 [INFO] 📸 Motion detected, saved images/487.png
+2025-09-10 10:44:54,147 [INFO] 📸 Motion detected, saved images/488.png
+2025-09-10 10:44:54,227 [INFO] 📸 Motion detected, saved images/489.png
+2025-09-10 10:44:54,254 [INFO] 📸 Motion detected, saved images/490.png
+2025-09-10 10:44:54,280 [INFO] 📸 Motion detected, saved images/491.png
+2025-09-10 10:44:54,359 [INFO] 📸 Motion detected, saved images/492.png
+2025-09-10 10:44:54,385 [INFO] 📸 Motion detected, saved images/493.png
+2025-09-10 10:44:54,459 [INFO] 📸 Motion detected, saved images/494.png
+2025-09-10 10:44:54,487 [INFO] 📸 Motion detected, saved images/495.png
+2025-09-10 10:44:54,513 [INFO] 📸 Motion detected, saved images/496.png
+2025-09-10 10:44:54,593 [INFO] 📸 Motion detected, saved images/497.png
+2025-09-10 10:44:54,620 [INFO] 📸 Motion detected, saved images/498.png
+2025-09-10 10:44:54,646 [INFO] 📸 Motion detected, saved images/499.png
+2025-09-10 10:44:54,728 [INFO] 📸 Motion detected, saved images/500.png
+2025-09-10 10:44:54,754 [INFO] 📸 Motion detected, saved images/501.png
+2025-09-10 10:44:54,826 [INFO] 📸 Motion detected, saved images/502.png
+2025-09-10 10:44:54,852 [INFO] 📸 Motion detected, saved images/503.png
+2025-09-10 10:44:54,927 [INFO] 📸 Motion detected, saved images/504.png
+2025-09-10 10:44:54,954 [INFO] 📸 Motion detected, saved images/505.png
+2025-09-10 10:44:55,025 [INFO] 📸 Motion detected, saved images/506.png
+2025-09-10 10:44:55,052 [INFO] 📸 Motion detected, saved images/507.png
+2025-09-10 10:44:55,126 [INFO] 📸 Motion detected, saved images/508.png
+2025-09-10 10:44:55,153 [INFO] 📸 Motion detected, saved images/509.png
+2025-09-10 10:44:55,226 [INFO] 📸 Motion detected, saved images/510.png
+2025-09-10 10:44:55,252 [INFO] 📸 Motion detected, saved images/511.png
+2025-09-10 10:44:55,323 [INFO] 📸 Motion detected, saved images/512.png
+2025-09-10 10:44:55,350 [INFO] 📸 Motion detected, saved images/513.png
+2025-09-10 10:44:55,424 [INFO] 📸 Motion detected, saved images/514.png
+2025-09-10 10:44:55,451 [INFO] 📸 Motion detected, saved images/515.png
+2025-09-10 10:44:55,523 [INFO] 📸 Motion detected, saved images/516.png
+2025-09-10 10:44:55,550 [INFO] 📸 Motion detected, saved images/517.png
+2025-09-10 10:44:55,624 [INFO] 📸 Motion detected, saved images/518.png
+2025-09-10 10:44:55,651 [INFO] 📸 Motion detected, saved images/519.png
+2025-09-10 10:44:55,677 [INFO] 📸 Motion detected, saved images/520.png
+2025-09-10 10:44:55,757 [INFO] 📸 Motion detected, saved images/521.png
+2025-09-10 10:44:55,784 [INFO] 📸 Motion detected, saved images/522.png
+2025-09-10 10:44:55,810 [INFO] 📸 Motion detected, saved images/523.png
+2025-09-10 10:44:55,894 [INFO] 📸 Motion detected, saved images/524.png
+2025-09-10 10:44:55,921 [INFO] 📸 Motion detected, saved images/525.png
+2025-09-10 10:44:55,990 [INFO] 📸 Motion detected, saved images/526.png
+2025-09-10 10:44:56,017 [INFO] 📸 Motion detected, saved images/527.png
+2025-09-10 10:44:56,043 [INFO] 📸 Motion detected, saved images/528.png
+2025-09-10 10:44:56,090 [INFO] 📸 Motion detected, saved images/529.png
+2025-09-10 10:44:56,117 [INFO] 📸 Motion detected, saved images/530.png
+2025-09-10 10:44:56,193 [INFO] 📸 Motion detected, saved images/531.png
+2025-09-10 10:44:56,219 [INFO] 📸 Motion detected, saved images/532.png
+2025-09-10 10:44:56,290 [INFO] 📸 Motion detected, saved images/533.png
+2025-09-10 10:44:56,317 [INFO] 📸 Motion detected, saved images/534.png
+2025-09-10 10:44:56,392 [INFO] 📸 Motion detected, saved images/535.png
+2025-09-10 10:44:56,419 [INFO] 📸 Motion detected, saved images/536.png
+2025-09-10 10:44:56,491 [INFO] 📸 Motion detected, saved images/537.png
+2025-09-10 10:44:56,518 [INFO] 📸 Motion detected, saved images/538.png
+2025-09-10 10:44:56,593 [INFO] 📸 Motion detected, saved images/539.png
+2025-09-10 10:44:56,621 [INFO] 📸 Motion detected, saved images/540.png
+2025-09-10 10:44:56,688 [INFO] 📸 Motion detected, saved images/541.png
+2025-09-10 10:44:56,758 [INFO] 📸 Motion detected, saved images/542.png
+2025-09-10 10:44:56,823 [INFO] 📸 Motion detected, saved images/543.png
+2025-09-10 10:44:56,888 [INFO] 📸 Motion detected, saved images/544.png
+2025-09-10 10:44:56,958 [INFO] 📸 Motion detected, saved images/545.png
+2025-09-10 10:44:57,025 [INFO] 📸 Motion detected, saved images/546.png
+2025-09-10 10:44:57,091 [INFO] 📸 Motion detected, saved images/547.png
+2025-09-10 10:44:57,157 [INFO] 📸 Motion detected, saved images/548.png
+2025-09-10 10:44:57,225 [INFO] 📸 Motion detected, saved images/549.png
+2025-09-10 10:44:57,292 [INFO] 📸 Motion detected, saved images/550.png
+2025-09-10 10:44:57,356 [INFO] 📸 Motion detected, saved images/551.png
+2025-09-10 10:44:57,425 [INFO] 📸 Motion detected, saved images/552.png
+2025-09-10 10:44:57,489 [INFO] 📸 Motion detected, saved images/553.png
+2025-09-10 10:44:57,558 [INFO] 📸 Motion detected, saved images/554.png
+2025-09-10 10:44:57,584 [INFO] 📸 Motion detected, saved images/555.png
+2025-09-10 10:44:57,659 [INFO] 📸 Motion detected, saved images/556.png
+2025-09-10 10:44:57,685 [INFO] 📸 Motion detected, saved images/557.png
+2025-09-10 10:44:57,759 [INFO] 📸 Motion detected, saved images/558.png
+2025-09-10 10:44:57,824 [INFO] 📸 Motion detected, saved images/559.png
+2025-09-10 10:44:57,850 [INFO] 📸 Motion detected, saved images/560.png
+2025-09-10 10:44:57,876 [INFO] 📸 Motion detected, saved images/561.png
+2025-09-10 10:44:57,959 [INFO] 📸 Motion detected, saved images/562.png
+2025-09-10 10:44:57,986 [INFO] 📸 Motion detected, saved images/563.png
+2025-09-10 10:44:58,058 [INFO] 📸 Motion detected, saved images/564.png
+2025-09-10 10:44:58,085 [INFO] 📸 Motion detected, saved images/565.png
+2025-09-10 10:44:58,156 [INFO] 📸 Motion detected, saved images/566.png
+2025-09-10 10:44:58,183 [INFO] 📸 Motion detected, saved images/567.png
+2025-09-10 10:44:58,257 [INFO] 📸 Motion detected, saved images/568.png
+2025-09-10 10:44:58,283 [INFO] 📸 Motion detected, saved images/569.png
+2025-09-10 10:44:58,309 [INFO] 📸 Motion detected, saved images/570.png
+2025-09-10 10:44:58,391 [INFO] 📸 Motion detected, saved images/571.png
+2025-09-10 10:44:58,417 [INFO] 📸 Motion detected, saved images/572.png
+2025-09-10 10:44:58,491 [INFO] 📸 Motion detected, saved images/573.png
+2025-09-10 10:44:58,517 [INFO] 📸 Motion detected, saved images/574.png
+2025-09-10 10:44:58,590 [INFO] 📸 Motion detected, saved images/575.png
+2025-09-10 10:44:58,616 [INFO] 📸 Motion detected, saved images/576.png
+2025-09-10 10:44:58,691 [INFO] 📸 Motion detected, saved images/577.png
+2025-09-10 10:44:58,717 [INFO] 📸 Motion detected, saved images/578.png
+2025-09-10 10:44:58,789 [INFO] 📸 Motion detected, saved images/579.png
+2025-09-10 10:44:58,815 [INFO] 📸 Motion detected, saved images/580.png
+2025-09-10 10:44:58,891 [INFO] 📸 Motion detected, saved images/581.png
+2025-09-10 10:44:58,917 [INFO] 📸 Motion detected, saved images/582.png
+2025-09-10 10:44:58,990 [INFO] 📸 Motion detected, saved images/583.png
+2025-09-10 10:44:59,016 [INFO] 📸 Motion detected, saved images/584.png
+2025-09-10 10:44:59,092 [INFO] 📸 Motion detected, saved images/585.png
+2025-09-10 10:44:59,158 [INFO] 📸 Motion detected, saved images/586.png
+2025-09-10 10:44:59,225 [INFO] 📸 Motion detected, saved images/587.png
+2025-09-10 10:44:59,289 [INFO] 📸 Motion detected, saved images/588.png
+2025-09-10 10:44:59,357 [INFO] 📸 Motion detected, saved images/589.png
+2025-09-10 10:44:59,422 [INFO] 📸 Motion detected, saved images/590.png
+2025-09-10 10:44:59,488 [INFO] 📸 Motion detected, saved images/591.png
+2025-09-10 10:44:59,555 [INFO] 📸 Motion detected, saved images/592.png
+2025-09-10 10:44:59,622 [INFO] 📸 Motion detected, saved images/593.png
+2025-09-10 10:44:59,688 [INFO] 📸 Motion detected, saved images/594.png
+2025-09-10 10:44:59,755 [INFO] 📸 Motion detected, saved images/595.png
+2025-09-10 10:44:59,781 [INFO] 📸 Motion detected, saved images/596.png
+2025-09-10 10:44:59,856 [INFO] 📸 Motion detected, saved images/597.png
+2025-09-10 10:44:59,883 [INFO] 📸 Motion detected, saved images/598.png
+2025-09-10 10:44:59,910 [INFO] 📸 Motion detected, saved images/599.png
+2025-09-10 10:45:00,000 [INFO] 📸 Motion detected, saved images/600.png
+2025-09-10 10:45:00,033 [INFO] 📸 Motion detected, saved images/601.png
+2025-09-10 10:45:00,062 [INFO] 📸 Motion detected, saved images/602.png
+2025-09-10 10:45:00,091 [INFO] 📸 Motion detected, saved images/603.png
+2025-09-10 10:45:00,155 [INFO] 📸 Motion detected, saved images/604.png
+2025-09-10 10:45:00,183 [INFO] 📸 Motion detected, saved images/605.png
+2025-09-10 10:45:00,210 [INFO] 📸 Motion detected, saved images/606.png
+2025-09-10 10:45:00,237 [INFO] 📸 Motion detected, saved images/607.png
+2025-09-10 10:45:00,289 [INFO] 📸 Motion detected, saved images/608.png
+2025-09-10 10:45:00,318 [INFO] 📸 Motion detected, saved images/609.png
+2025-09-10 10:45:00,392 [INFO] 📸 Motion detected, saved images/610.png
+2025-09-10 10:45:00,419 [INFO] 📸 Motion detected, saved images/611.png
+2025-09-10 10:45:00,490 [INFO] 📸 Motion detected, saved images/612.png
+2025-09-10 10:45:00,521 [INFO] 📸 Motion detected, saved images/613.png
+2025-09-10 10:45:00,550 [INFO] 📸 Motion detected, saved images/614.png
+2025-09-10 10:45:00,622 [INFO] 📸 Motion detected, saved images/615.png
+2025-09-10 10:45:00,648 [INFO] 📸 Motion detected, saved images/616.png
+2025-09-10 10:45:00,675 [INFO] 📸 Motion detected, saved images/617.png
+2025-09-10 10:45:00,759 [INFO] 📸 Motion detected, saved images/618.png
+2025-09-10 10:45:00,785 [INFO] 📸 Motion detected, saved images/619.png
+2025-09-10 10:45:00,812 [INFO] 📸 Motion detected, saved images/620.png
+2025-09-10 10:45:00,890 [INFO] 📸 Motion detected, saved images/621.png
+2025-09-10 10:45:00,917 [INFO] 📸 Motion detected, saved images/622.png
+2025-09-10 10:45:00,991 [INFO] 📸 Motion detected, saved images/623.png
+2025-09-10 10:45:01,018 [INFO] 📸 Motion detected, saved images/624.png
+2025-09-10 10:45:01,090 [INFO] 📸 Motion detected, saved images/625.png
+2025-09-10 10:45:01,117 [INFO] 📸 Motion detected, saved images/626.png
+2025-09-10 10:45:01,143 [INFO] 📸 Motion detected, saved images/627.png
+2025-09-10 10:45:01,225 [INFO] 📸 Motion detected, saved images/628.png
+2025-09-10 10:45:01,252 [INFO] 📸 Motion detected, saved images/629.png
+2025-09-10 10:45:01,278 [INFO] 📸 Motion detected, saved images/630.png
+2025-09-10 10:45:01,356 [INFO] 📸 Motion detected, saved images/631.png
+2025-09-10 10:45:01,384 [INFO] 📸 Motion detected, saved images/632.png
+2025-09-10 10:45:01,414 [INFO] 📸 Motion detected, saved images/633.png
+2025-09-10 10:45:01,494 [INFO] 📸 Motion detected, saved images/634.png
+2025-09-10 10:45:01,521 [INFO] 📸 Motion detected, saved images/635.png
+2025-09-10 10:45:01,587 [INFO] 📸 Motion detected, saved images/636.png
+2025-09-10 10:45:01,613 [INFO] 📸 Motion detected, saved images/637.png
+2025-09-10 10:45:01,640 [INFO] 📸 Motion detected, saved images/638.png
+2025-09-10 10:45:01,689 [INFO] 📸 Motion detected, saved images/639.png
+2025-09-10 10:45:01,718 [INFO] 📸 Motion detected, saved images/640.png
+2025-09-10 10:45:01,789 [INFO] 📸 Motion detected, saved images/641.png
+2025-09-10 10:45:01,816 [INFO] 📸 Motion detected, saved images/642.png
+2025-09-10 10:45:01,890 [INFO] 📸 Motion detected, saved images/643.png
+2025-09-10 10:45:01,917 [INFO] 📸 Motion detected, saved images/644.png
+2025-09-10 10:45:01,990 [INFO] 📸 Motion detected, saved images/645.png
+2025-09-10 10:45:02,016 [INFO] 📸 Motion detected, saved images/646.png
+2025-09-10 10:45:02,043 [INFO] 📸 Motion detected, saved images/647.png
+2025-09-10 10:45:02,125 [INFO] 📸 Motion detected, saved images/648.png
+2025-09-10 10:45:02,152 [INFO] 📸 Motion detected, saved images/649.png
+2025-09-10 10:45:02,223 [INFO] 📸 Motion detected, saved images/650.png
+2025-09-10 10:45:02,250 [INFO] 📸 Motion detected, saved images/651.png
+2025-09-10 10:45:02,323 [INFO] 📸 Motion detected, saved images/652.png
+2025-09-10 10:45:02,350 [INFO] 📸 Motion detected, saved images/653.png
+2025-09-10 10:45:02,421 [INFO] 📸 Motion detected, saved images/654.png
+2025-09-10 10:45:02,448 [INFO] 📸 Motion detected, saved images/655.png
+2025-09-10 10:45:02,475 [INFO] 📸 Motion detected, saved images/656.png
+2025-09-10 10:45:02,557 [INFO] 📸 Motion detected, saved images/657.png
+2025-09-10 10:45:02,584 [INFO] 📸 Motion detected, saved images/658.png
+2025-09-10 10:45:02,656 [INFO] 📸 Motion detected, saved images/659.png
+2025-09-10 10:45:02,683 [INFO] 📸 Motion detected, saved images/660.png
+2025-09-10 10:45:02,756 [INFO] 📸 Motion detected, saved images/661.png
+2025-09-10 10:45:02,783 [INFO] 📸 Motion detected, saved images/662.png
+2025-09-10 10:45:02,857 [INFO] 📸 Motion detected, saved images/663.png
+2025-09-10 10:45:02,884 [INFO] 📸 Motion detected, saved images/664.png
+2025-09-10 10:45:02,953 [INFO] 📸 Motion detected, saved images/665.png
+2025-09-10 10:45:02,980 [INFO] 📸 Motion detected, saved images/666.png
+2025-09-10 10:45:03,006 [INFO] 📸 Motion detected, saved images/667.png
+2025-09-10 10:45:03,055 [INFO] 📸 Motion detected, saved images/668.png
+2025-09-10 10:45:03,083 [INFO] 📸 Motion detected, saved images/669.png
+2025-09-10 10:45:03,110 [INFO] 📸 Motion detected, saved images/670.png
+2025-09-10 10:45:03,189 [INFO] 📸 Motion detected, saved images/671.png
+2025-09-10 10:45:03,216 [INFO] 📸 Motion detected, saved images/672.png
+2025-09-10 10:45:03,290 [INFO] 📸 Motion detected, saved images/673.png
+2025-09-10 10:45:03,317 [INFO] 📸 Motion detected, saved images/674.png
+2025-09-10 10:45:03,343 [INFO] 📸 Motion detected, saved images/675.png
+2025-09-10 10:45:03,423 [INFO] 📸 Motion detected, saved images/676.png
+2025-09-10 10:45:03,450 [INFO] 📸 Motion detected, saved images/677.png
+2025-09-10 10:45:03,476 [INFO] 📸 Motion detected, saved images/678.png
+2025-09-10 10:45:03,558 [INFO] 📸 Motion detected, saved images/679.png
+2025-09-10 10:45:03,585 [INFO] 📸 Motion detected, saved images/680.png
+2025-09-10 10:45:03,653 [INFO] 📸 Motion detected, saved images/681.png
+2025-09-10 10:45:03,680 [INFO] 📸 Motion detected, saved images/682.png
+2025-09-10 10:45:03,707 [INFO] 📸 Motion detected, saved images/683.png
+2025-09-10 10:45:03,752 [INFO] 📸 Motion detected, saved images/684.png
+2025-09-10 10:45:03,779 [INFO] 📸 Motion detected, saved images/685.png
+2025-09-10 10:45:03,856 [INFO] 📸 Motion detected, saved images/686.png
+2025-09-10 10:45:03,883 [INFO] 📸 Motion detected, saved images/687.png
+2025-09-10 10:45:03,953 [INFO] 📸 Motion detected, saved images/688.png
+2025-09-10 10:45:03,980 [INFO] 📸 Motion detected, saved images/689.png
+2025-09-10 10:45:04,056 [INFO] 📸 Motion detected, saved images/690.png
+2025-09-10 10:45:04,083 [INFO] 📸 Motion detected, saved images/691.png
+2025-09-10 10:45:04,153 [INFO] 📸 Motion detected, saved images/692.png
+2025-09-10 10:45:04,185 [INFO] 📸 Motion detected, saved images/693.png
+2025-09-10 10:45:04,260 [INFO] 📸 Motion detected, saved images/694.png
+2025-09-10 10:45:04,288 [INFO] 📸 Motion detected, saved images/695.png
+2025-09-10 10:45:04,352 [INFO] 📸 Motion detected, saved images/696.png
+2025-09-10 10:45:04,380 [INFO] 📸 Motion detected, saved images/697.png
+2025-09-10 10:45:04,456 [INFO] 📸 Motion detected, saved images/698.png
+2025-09-10 10:45:04,484 [INFO] 📸 Motion detected, saved images/699.png
+2025-09-10 10:45:04,512 [INFO] 📸 Motion detected, saved images/700.png
+2025-09-10 10:45:04,588 [INFO] 📸 Motion detected, saved images/701.png
+2025-09-10 10:45:04,617 [INFO] 📸 Motion detected, saved images/702.png
+2025-09-10 10:45:04,647 [INFO] 📸 Motion detected, saved images/703.png
+2025-09-10 10:45:04,725 [INFO] 📸 Motion detected, saved images/704.png
+2025-09-10 10:45:04,758 [INFO] 📸 Motion detected, saved images/705.png
+2025-09-10 10:45:04,823 [INFO] 📸 Motion detected, saved images/706.png
+2025-09-10 10:45:04,852 [INFO] 📸 Motion detected, saved images/707.png
+2025-09-10 10:45:04,917 [INFO] 📸 Motion detected, saved images/708.png
+2025-09-10 10:45:04,945 [INFO] 📸 Motion detected, saved images/709.png
+2025-09-10 10:45:05,023 [INFO] 📸 Motion detected, saved images/710.png
+2025-09-10 10:45:05,050 [INFO] 📸 Motion detected, saved images/711.png
+2025-09-10 10:45:05,117 [INFO] 📸 Motion detected, saved images/712.png
+2025-09-10 10:45:05,146 [INFO] 📸 Motion detected, saved images/713.png
+2025-09-10 10:45:05,223 [INFO] 📸 Motion detected, saved images/714.png
+2025-09-10 10:45:05,252 [INFO] 📸 Motion detected, saved images/715.png
+2025-09-10 10:45:05,322 [INFO] 📸 Motion detected, saved images/716.png
+2025-09-10 10:45:05,349 [INFO] 📸 Motion detected, saved images/717.png
+2025-09-10 10:45:05,377 [INFO] 📸 Motion detected, saved images/718.png
+2025-09-10 10:45:05,455 [INFO] 📸 Motion detected, saved images/719.png
+2025-09-10 10:45:05,482 [INFO] 📸 Motion detected, saved images/720.png
+2025-09-10 10:45:05,553 [INFO] 📸 Motion detected, saved images/721.png
+2025-09-10 10:45:05,581 [INFO] 📸 Motion detected, saved images/722.png
+2025-09-10 10:45:05,657 [INFO] 📸 Motion detected, saved images/723.png
+2025-09-10 10:45:05,684 [INFO] 📸 Motion detected, saved images/724.png
+2025-09-10 10:45:05,755 [INFO] 📸 Motion detected, saved images/725.png
+2025-09-10 10:45:05,782 [INFO] 📸 Motion detected, saved images/726.png
+2025-09-10 10:45:05,855 [INFO] 📸 Motion detected, saved images/727.png
+2025-09-10 10:45:05,883 [INFO] 📸 Motion detected, saved images/728.png
+2025-09-10 10:45:05,954 [INFO] 📸 Motion detected, saved images/729.png
+2025-09-10 10:45:05,982 [INFO] 📸 Motion detected, saved images/730.png
+2025-09-10 10:45:06,009 [INFO] 📸 Motion detected, saved images/731.png
+2025-09-10 10:45:06,090 [INFO] 📸 Motion detected, saved images/732.png
+2025-09-10 10:45:06,117 [INFO] 📸 Motion detected, saved images/733.png
+2025-09-10 10:45:06,188 [INFO] 📸 Motion detected, saved images/734.png
+2025-09-10 10:45:06,215 [INFO] 📸 Motion detected, saved images/735.png
+2025-09-10 10:45:06,286 [INFO] 📸 Motion detected, saved images/736.png
+2025-09-10 10:45:06,314 [INFO] 📸 Motion detected, saved images/737.png
+2025-09-10 10:45:06,389 [INFO] 📸 Motion detected, saved images/738.png
+2025-09-10 10:45:06,416 [INFO] 📸 Motion detected, saved images/739.png
+2025-09-10 10:45:06,442 [INFO] 📸 Motion detected, saved images/740.png
+2025-09-10 10:45:06,522 [INFO] 📸 Motion detected, saved images/741.png
+2025-09-10 10:45:06,549 [INFO] 📸 Motion detected, saved images/742.png
+2025-09-10 10:45:06,623 [INFO] 📸 Motion detected, saved images/743.png
+2025-09-10 10:45:06,650 [INFO] 📸 Motion detected, saved images/744.png
+2025-09-10 10:45:06,676 [INFO] 📸 Motion detected, saved images/745.png
+2025-09-10 10:45:06,755 [INFO] 📸 Motion detected, saved images/746.png
+2025-09-10 10:45:06,782 [INFO] 📸 Motion detected, saved images/747.png
+2025-09-10 10:45:06,854 [INFO] 📸 Motion detected, saved images/748.png
+2025-09-10 10:45:06,880 [INFO] 📸 Motion detected, saved images/749.png
+2025-09-10 10:45:06,954 [INFO] 📸 Motion detected, saved images/750.png
+2025-09-10 10:45:06,981 [INFO] 📸 Motion detected, saved images/751.png
+2025-09-10 10:45:07,055 [INFO] 📸 Motion detected, saved images/752.png
+2025-09-10 10:45:07,082 [INFO] 📸 Motion detected, saved images/753.png
+2025-09-10 10:45:07,154 [INFO] 📸 Motion detected, saved images/754.png
+2025-09-10 10:45:07,181 [INFO] 📸 Motion detected, saved images/755.png
+2025-09-10 10:45:07,255 [INFO] 📸 Motion detected, saved images/756.png
+2025-09-10 10:45:07,282 [INFO] 📸 Motion detected, saved images/757.png
+2025-09-10 10:45:07,355 [INFO] 📸 Motion detected, saved images/758.png
+2025-09-10 10:45:07,382 [INFO] 📸 Motion detected, saved images/759.png
+2025-09-10 10:45:07,454 [INFO] 📸 Motion detected, saved images/760.png
+2025-09-10 10:45:07,481 [INFO] 📸 Motion detected, saved images/761.png
+2025-09-10 10:45:07,555 [INFO] 📸 Motion detected, saved images/762.png
+2025-09-10 10:45:07,582 [INFO] 📸 Motion detected, saved images/763.png
+2025-09-10 10:45:07,654 [INFO] 📸 Motion detected, saved images/764.png
+2025-09-10 10:45:07,681 [INFO] 📸 Motion detected, saved images/765.png
+2025-09-10 10:45:07,755 [INFO] 📸 Motion detected, saved images/766.png
+2025-09-10 10:45:07,782 [INFO] 📸 Motion detected, saved images/767.png
+2025-09-10 10:45:07,852 [INFO] 📸 Motion detected, saved images/768.png
+2025-09-10 10:45:07,879 [INFO] 📸 Motion detected, saved images/769.png
+2025-09-10 10:45:07,954 [INFO] 📸 Motion detected, saved images/770.png
+2025-09-10 10:45:07,981 [INFO] 📸 Motion detected, saved images/771.png
+2025-09-10 10:45:08,053 [INFO] 📸 Motion detected, saved images/772.png
+2025-09-10 10:45:08,080 [INFO] 📸 Motion detected, saved images/773.png
+2025-09-10 10:45:08,154 [INFO] 📸 Motion detected, saved images/774.png
+2025-09-10 10:45:08,181 [INFO] 📸 Motion detected, saved images/775.png
+2025-09-10 10:45:08,252 [INFO] 📸 Motion detected, saved images/776.png
+2025-09-10 10:45:08,279 [INFO] 📸 Motion detected, saved images/777.png
+2025-09-10 10:45:08,352 [INFO] 📸 Motion detected, saved images/778.png
+2025-09-10 10:45:08,379 [INFO] 📸 Motion detected, saved images/779.png
+2025-09-10 10:45:08,452 [INFO] 📸 Motion detected, saved images/780.png
+2025-09-10 10:45:08,479 [INFO] 📸 Motion detected, saved images/781.png
+2025-09-10 10:45:08,553 [INFO] 📸 Motion detected, saved images/782.png
+2025-09-10 10:45:08,580 [INFO] 📸 Motion detected, saved images/783.png
+2025-09-10 10:45:08,652 [INFO] 📸 Motion detected, saved images/784.png
+2025-09-10 10:45:08,679 [INFO] 📸 Motion detected, saved images/785.png
+2025-09-10 10:45:08,754 [INFO] 📸 Motion detected, saved images/786.png
+2025-09-10 10:45:08,781 [INFO] 📸 Motion detected, saved images/787.png
+2025-09-10 10:45:08,808 [INFO] 📸 Motion detected, saved images/788.png
+2025-09-10 10:45:08,888 [INFO] 📸 Motion detected, saved images/789.png
+2025-09-10 10:45:08,915 [INFO] 📸 Motion detected, saved images/790.png
+2025-09-10 10:45:08,987 [INFO] 📸 Motion detected, saved images/791.png
+2025-09-10 10:45:09,014 [INFO] 📸 Motion detected, saved images/792.png
+2025-09-10 10:45:09,087 [INFO] 📸 Motion detected, saved images/793.png
+2025-09-10 10:45:09,114 [INFO] 📸 Motion detected, saved images/794.png
+2025-09-10 10:45:09,188 [INFO] 📸 Motion detected, saved images/795.png
+2025-09-10 10:45:09,214 [INFO] 📸 Motion detected, saved images/796.png
+2025-09-10 10:45:09,287 [INFO] 📸 Motion detected, saved images/797.png
+2025-09-10 10:45:09,314 [INFO] 📸 Motion detected, saved images/798.png
+2025-09-10 10:45:09,388 [INFO] 📸 Motion detected, saved images/799.png
+2025-09-10 10:45:09,416 [INFO] 📸 Motion detected, saved images/800.png
+2025-09-10 10:45:09,487 [INFO] 📸 Motion detected, saved images/801.png
+2025-09-10 10:45:09,514 [INFO] 📸 Motion detected, saved images/802.png
+2025-09-10 10:45:09,587 [INFO] 📸 Motion detected, saved images/803.png
+2025-09-10 10:45:09,614 [INFO] 📸 Motion detected, saved images/804.png
+2025-09-10 10:45:09,687 [INFO] 📸 Motion detected, saved images/805.png
+2025-09-10 10:45:09,714 [INFO] 📸 Motion detected, saved images/806.png
+2025-09-10 10:45:09,787 [INFO] 📸 Motion detected, saved images/807.png
+2025-09-10 10:45:09,813 [INFO] 📸 Motion detected, saved images/808.png
+2025-09-10 10:45:09,889 [INFO] 📸 Motion detected, saved images/809.png
+2025-09-10 10:45:09,916 [INFO] 📸 Motion detected, saved images/810.png
+2025-09-10 10:45:09,986 [INFO] 📸 Motion detected, saved images/811.png
+2025-09-10 10:45:10,013 [INFO] 📸 Motion detected, saved images/812.png
+2025-09-10 10:45:10,087 [INFO] 📸 Motion detected, saved images/813.png
+2025-09-10 10:45:10,115 [INFO] 📸 Motion detected, saved images/814.png
+2025-09-10 10:45:10,142 [INFO] 📸 Motion detected, saved images/815.png
+2025-09-10 10:45:10,220 [INFO] 📸 Motion detected, saved images/816.png
+2025-09-10 10:45:10,247 [INFO] 📸 Motion detected, saved images/817.png
+2025-09-10 10:45:10,276 [INFO] 📸 Motion detected, saved images/818.png
+2025-09-10 10:45:10,352 [INFO] 📸 Motion detected, saved images/819.png
+2025-09-10 10:45:10,379 [INFO] 📸 Motion detected, saved images/820.png
+2025-09-10 10:45:10,453 [INFO] 📸 Motion detected, saved images/821.png
+2025-09-10 10:45:10,480 [INFO] 📸 Motion detected, saved images/822.png
+2025-09-10 10:45:10,554 [INFO] 📸 Motion detected, saved images/823.png
+2025-09-10 10:45:10,581 [INFO] 📸 Motion detected, saved images/824.png
+2025-09-10 10:45:10,653 [INFO] 📸 Motion detected, saved images/825.png
+2025-09-10 10:45:10,680 [INFO] 📸 Motion detected, saved images/826.png
+2025-09-10 10:45:10,753 [INFO] 📸 Motion detected, saved images/827.png
+2025-09-10 10:45:10,780 [INFO] 📸 Motion detected, saved images/828.png
+2025-09-10 10:45:10,853 [INFO] 📸 Motion detected, saved images/829.png
+2025-09-10 10:45:10,880 [INFO] 📸 Motion detected, saved images/830.png
+2025-09-10 10:45:10,953 [INFO] 📸 Motion detected, saved images/831.png
+2025-09-10 10:45:10,980 [INFO] 📸 Motion detected, saved images/832.png
+2025-09-10 10:45:11,051 [INFO] 📸 Motion detected, saved images/833.png
+2025-09-10 10:45:11,078 [INFO] 📸 Motion detected, saved images/834.png
+2025-09-10 10:45:11,153 [INFO] 📸 Motion detected, saved images/835.png
+2025-09-10 10:45:11,180 [INFO] 📸 Motion detected, saved images/836.png
+2025-09-10 10:45:11,252 [INFO] 📸 Motion detected, saved images/837.png
+2025-09-10 10:45:11,279 [INFO] 📸 Motion detected, saved images/838.png
+2025-09-10 10:45:11,351 [INFO] 📸 Motion detected, saved images/839.png
+2025-09-10 10:45:11,381 [INFO] 📸 Motion detected, saved images/840.png
+2025-09-10 10:45:11,409 [INFO] 📸 Motion detected, saved images/841.png
+2025-09-10 10:45:11,485 [INFO] 📸 Motion detected, saved images/842.png
+2025-09-10 10:45:11,512 [INFO] 📸 Motion detected, saved images/843.png
+2025-09-10 10:45:11,586 [INFO] 📸 Motion detected, saved images/844.png
+2025-09-10 10:45:11,613 [INFO] 📸 Motion detected, saved images/845.png
+2025-09-10 10:45:11,639 [INFO] 📸 Motion detected, saved images/846.png
+2025-09-10 10:45:11,721 [INFO] 📸 Motion detected, saved images/847.png
+2025-09-10 10:45:11,748 [INFO] 📸 Motion detected, saved images/848.png
+2025-09-10 10:45:11,817 [INFO] 📸 Motion detected, saved images/849.png
+2025-09-10 10:45:11,844 [INFO] 📸 Motion detected, saved images/850.png
+2025-09-10 10:45:11,920 [INFO] 📸 Motion detected, saved images/851.png
+2025-09-10 10:45:11,947 [INFO] 📸 Motion detected, saved images/852.png
+2025-09-10 10:45:12,019 [INFO] 📸 Motion detected, saved images/853.png
+2025-09-10 10:45:12,046 [INFO] 📸 Motion detected, saved images/854.png
+2025-09-10 10:45:12,119 [INFO] 📸 Motion detected, saved images/855.png
+2025-09-10 10:45:12,146 [INFO] 📸 Motion detected, saved images/856.png
+2025-09-10 10:45:12,220 [INFO] 📸 Motion detected, saved images/857.png
+2025-09-10 10:45:12,248 [INFO] 📸 Motion detected, saved images/858.png
+2025-09-10 10:45:12,322 [INFO] 📸 Motion detected, saved images/859.png
+2025-09-10 10:45:12,350 [INFO] 📸 Motion detected, saved images/860.png
+2025-09-10 10:45:12,420 [INFO] 📸 Motion detected, saved images/861.png
+2025-09-10 10:45:12,446 [INFO] 📸 Motion detected, saved images/862.png
+2025-09-10 10:45:12,519 [INFO] 📸 Motion detected, saved images/863.png
+2025-09-10 10:45:12,546 [INFO] 📸 Motion detected, saved images/864.png
+2025-09-10 10:45:12,573 [INFO] 📸 Motion detected, saved images/865.png
+2025-09-10 10:45:12,654 [INFO] 📸 Motion detected, saved images/866.png
+2025-09-10 10:45:12,681 [INFO] 📸 Motion detected, saved images/867.png
+2025-09-10 10:45:12,751 [INFO] 📸 Motion detected, saved images/868.png
+2025-09-10 10:45:12,778 [INFO] 📸 Motion detected, saved images/869.png
+2025-09-10 10:45:12,853 [INFO] 📸 Motion detected, saved images/870.png
+2025-09-10 10:45:12,880 [INFO] 📸 Motion detected, saved images/871.png
+2025-09-10 10:45:12,952 [INFO] 📸 Motion detected, saved images/872.png
+2025-09-10 10:45:12,979 [INFO] 📸 Motion detected, saved images/873.png
+2025-09-10 10:45:13,052 [INFO] 📸 Motion detected, saved images/874.png
+2025-09-10 10:45:13,080 [INFO] 📸 Motion detected, saved images/875.png
+2025-09-10 10:45:13,150 [INFO] 📸 Motion detected, saved images/876.png
+2025-09-10 10:45:13,177 [INFO] 📸 Motion detected, saved images/877.png
+2025-09-10 10:45:13,253 [INFO] 📸 Motion detected, saved images/878.png
+2025-09-10 10:45:13,280 [INFO] 📸 Motion detected, saved images/879.png
+2025-09-10 10:45:13,353 [INFO] 📸 Motion detected, saved images/880.png
+2025-09-10 10:45:13,380 [INFO] 📸 Motion detected, saved images/881.png
+2025-09-10 10:45:13,452 [INFO] 📸 Motion detected, saved images/882.png
+2025-09-10 10:45:13,479 [INFO] 📸 Motion detected, saved images/883.png
+2025-09-10 10:45:13,554 [INFO] 📸 Motion detected, saved images/884.png
+2025-09-10 10:45:13,581 [INFO] 📸 Motion detected, saved images/885.png
+2025-09-10 10:45:13,652 [INFO] 📸 Motion detected, saved images/886.png
+2025-09-10 10:45:13,679 [INFO] 📸 Motion detected, saved images/887.png
+2025-09-10 10:45:13,752 [INFO] 📸 Motion detected, saved images/888.png
+2025-09-10 10:45:13,779 [INFO] 📸 Motion detected, saved images/889.png
+2025-09-10 10:45:13,853 [INFO] 📸 Motion detected, saved images/890.png
+2025-09-10 10:45:13,880 [INFO] 📸 Motion detected, saved images/891.png
+2025-09-10 10:45:13,952 [INFO] 📸 Motion detected, saved images/892.png
+2025-09-10 10:45:13,979 [INFO] 📸 Motion detected, saved images/893.png
+2025-09-10 10:45:14,005 [INFO] 📸 Motion detected, saved images/894.png
+2025-09-10 10:45:14,087 [INFO] 📸 Motion detected, saved images/895.png
+2025-09-10 10:45:14,114 [INFO] 📸 Motion detected, saved images/896.png
+2025-09-10 10:45:14,185 [INFO] 📸 Motion detected, saved images/897.png
+2025-09-10 10:45:14,212 [INFO] 📸 Motion detected, saved images/898.png
+2025-09-10 10:45:14,239 [INFO] 📸 Motion detected, saved images/899.png
+2025-09-10 10:45:14,320 [INFO] 📸 Motion detected, saved images/900.png
+2025-09-10 10:45:14,347 [INFO] 📸 Motion detected, saved images/901.png
+2025-09-10 10:45:14,418 [INFO] 📸 Motion detected, saved images/902.png
+2025-09-10 10:45:14,445 [INFO] 📸 Motion detected, saved images/903.png
+2025-09-10 10:45:14,471 [INFO] 📸 Motion detected, saved images/904.png
+2025-09-10 10:45:14,553 [INFO] 📸 Motion detected, saved images/905.png
+2025-09-10 10:45:14,580 [INFO] 📸 Motion detected, saved images/906.png
+2025-09-10 10:45:14,652 [INFO] 📸 Motion detected, saved images/907.png
+2025-09-10 10:45:14,679 [INFO] 📸 Motion detected, saved images/908.png
+2025-09-10 10:45:14,752 [INFO] 📸 Motion detected, saved images/909.png
+2025-09-10 10:45:14,780 [INFO] 📸 Motion detected, saved images/910.png
+2025-09-10 10:45:14,852 [INFO] 📸 Motion detected, saved images/911.png
+2025-09-10 10:45:14,879 [INFO] 📸 Motion detected, saved images/912.png
+2025-09-10 10:45:14,950 [INFO] 📸 Motion detected, saved images/913.png
+2025-09-10 10:45:14,979 [INFO] 📸 Motion detected, saved images/914.png
+2025-09-10 10:45:15,006 [INFO] 📸 Motion detected, saved images/915.png
+2025-09-10 10:45:15,085 [INFO] 📸 Motion detected, saved images/916.png
+2025-09-10 10:45:15,112 [INFO] 📸 Motion detected, saved images/917.png
+2025-09-10 10:45:15,184 [INFO] 📸 Motion detected, saved images/918.png
+2025-09-10 10:45:15,211 [INFO] 📸 Motion detected, saved images/919.png
+2025-09-10 10:45:15,285 [INFO] 📸 Motion detected, saved images/920.png
+2025-09-10 10:45:15,312 [INFO] 📸 Motion detected, saved images/921.png
+2025-09-10 10:45:15,384 [INFO] 📸 Motion detected, saved images/922.png
+2025-09-10 10:45:15,412 [INFO] 📸 Motion detected, saved images/923.png
+2025-09-10 10:45:15,486 [INFO] 📸 Motion detected, saved images/924.png
+2025-09-10 10:45:15,513 [INFO] 📸 Motion detected, saved images/925.png
+2025-09-10 10:45:15,543 [INFO] 📸 Motion detected, saved images/926.png
+2025-09-10 10:45:15,618 [INFO] 📸 Motion detected, saved images/927.png
+2025-09-10 10:45:15,645 [INFO] 📸 Motion detected, saved images/928.png
+2025-09-10 10:45:15,672 [INFO] 📸 Motion detected, saved images/929.png
+2025-09-10 10:45:15,751 [INFO] 📸 Motion detected, saved images/930.png
+2025-09-10 10:45:15,778 [INFO] 📸 Motion detected, saved images/931.png
+2025-09-10 10:45:15,805 [INFO] 📸 Motion detected, saved images/932.png
+2025-09-10 10:45:15,885 [INFO] 📸 Motion detected, saved images/933.png
+2025-09-10 10:45:15,913 [INFO] 📸 Motion detected, saved images/934.png
+2025-09-10 10:45:15,941 [INFO] 📸 Motion detected, saved images/935.png
+2025-09-10 10:45:16,018 [INFO] 📸 Motion detected, saved images/936.png
+2025-09-10 10:45:16,045 [INFO] 📸 Motion detected, saved images/937.png
+2025-09-10 10:45:16,072 [INFO] 📸 Motion detected, saved images/938.png
+2025-09-10 10:45:16,099 [INFO] 📸 Motion detected, saved images/939.png
+2025-09-10 10:45:16,126 [INFO] 📸 Motion detected, saved images/940.png
+2025-09-10 10:45:16,183 [INFO] 📸 Motion detected, saved images/941.png
+2025-09-10 10:45:16,209 [INFO] 📸 Motion detected, saved images/942.png
+2025-09-10 10:45:16,283 [INFO] 📸 Motion detected, saved images/943.png
+2025-09-10 10:45:16,310 [INFO] 📸 Motion detected, saved images/944.png
+2025-09-10 10:45:16,385 [INFO] 📸 Motion detected, saved images/945.png
+2025-09-10 10:45:16,411 [INFO] 📸 Motion detected, saved images/946.png
+2025-09-10 10:45:16,481 [INFO] 📸 Motion detected, saved images/947.png
+2025-09-10 10:45:16,507 [INFO] 📸 Motion detected, saved images/948.png
+2025-09-10 10:45:16,580 [INFO] 📸 Motion detected, saved images/949.png
+2025-09-10 10:45:16,607 [INFO] 📸 Motion detected, saved images/950.png
+2025-09-10 10:45:16,683 [INFO] 📸 Motion detected, saved images/951.png
+2025-09-10 10:45:16,709 [INFO] 📸 Motion detected, saved images/952.png
+2025-09-10 10:45:16,782 [INFO] 📸 Motion detected, saved images/953.png
+2025-09-10 10:45:16,811 [INFO] 📸 Motion detected, saved images/954.png
+2025-09-10 10:45:16,880 [INFO] 📸 Motion detected, saved images/955.png
+2025-09-10 10:45:16,906 [INFO] 📸 Motion detected, saved images/956.png
+2025-09-10 10:45:16,984 [INFO] 📸 Motion detected, saved images/957.png
+2025-09-10 10:45:17,010 [INFO] 📸 Motion detected, saved images/958.png
+2025-09-10 10:45:17,082 [INFO] 📸 Motion detected, saved images/959.png
+2025-09-10 10:45:17,150 [INFO] 📸 Motion detected, saved images/960.png
+2025-09-10 10:45:17,180 [INFO] 📸 Motion detected, saved images/961.png
+2025-09-10 10:45:17,251 [INFO] 📸 Motion detected, saved images/962.png
+2025-09-10 10:45:17,318 [INFO] 📸 Motion detected, saved images/963.png
+2025-09-10 10:45:17,400 [INFO] 📸 Motion detected, saved images/964.png
+2025-09-10 10:45:17,450 [INFO] 📸 Motion detected, saved images/965.png
+2025-09-10 10:45:17,517 [INFO] 📸 Motion detected, saved images/966.png
+2025-09-10 10:45:17,585 [INFO] 📸 Motion detected, saved images/967.png
+2025-09-10 10:45:17,650 [INFO] 📸 Motion detected, saved images/968.png
+2025-09-10 10:45:17,717 [INFO] 📸 Motion detected, saved images/969.png
+2025-09-10 10:45:17,784 [INFO] 📸 Motion detected, saved images/970.png
+2025-09-10 10:45:17,850 [INFO] 📸 Motion detected, saved images/971.png
+2025-09-10 10:45:17,916 [INFO] 📸 Motion detected, saved images/972.png
+2025-09-10 10:45:17,984 [INFO] 📸 Motion detected, saved images/973.png
+2025-09-10 10:45:18,011 [INFO] 📸 Motion detected, saved images/974.png
+2025-09-10 10:45:18,083 [INFO] 📸 Motion detected, saved images/975.png
+2025-09-10 10:45:18,110 [INFO] 📸 Motion detected, saved images/976.png
+2025-09-10 10:45:18,137 [INFO] 📸 Motion detected, saved images/977.png
+2025-09-10 10:45:18,218 [INFO] 📸 Motion detected, saved images/978.png
+2025-09-10 10:45:18,245 [INFO] 📸 Motion detected, saved images/979.png
+2025-09-10 10:45:18,272 [INFO] 📸 Motion detected, saved images/980.png
+2025-09-10 10:45:18,351 [INFO] 📸 Motion detected, saved images/981.png
+2025-09-10 10:45:18,378 [INFO] 📸 Motion detected, saved images/982.png
+2025-09-10 10:45:18,450 [INFO] 📸 Motion detected, saved images/983.png
+2025-09-10 10:45:18,477 [INFO] 📸 Motion detected, saved images/984.png
+2025-09-10 10:45:18,550 [INFO] 📸 Motion detected, saved images/985.png
+2025-09-10 10:45:18,577 [INFO] 📸 Motion detected, saved images/986.png
+2025-09-10 10:45:18,604 [INFO] 📸 Motion detected, saved images/987.png
+2025-09-10 10:45:18,684 [INFO] 📸 Motion detected, saved images/988.png
+2025-09-10 10:45:18,712 [INFO] 📸 Motion detected, saved images/989.png
+2025-09-10 10:45:18,739 [INFO] 📸 Motion detected, saved images/990.png
+2025-09-10 10:45:18,815 [INFO] 📸 Motion detected, saved images/991.png
+2025-09-10 10:45:18,842 [INFO] 📸 Motion detected, saved images/992.png
+2025-09-10 10:45:18,914 [INFO] 📸 Motion detected, saved images/993.png
+2025-09-10 10:45:18,941 [INFO] 📸 Motion detected, saved images/994.png
+2025-09-10 10:45:19,013 [INFO] 📸 Motion detected, saved images/995.png
+2025-09-10 10:45:19,040 [INFO] 📸 Motion detected, saved images/996.png
+2025-09-10 10:45:19,067 [INFO] 📸 Motion detected, saved images/997.png
+2025-09-10 10:45:19,115 [INFO] 📸 Motion detected, saved images/998.png
+2025-09-10 10:45:19,141 [INFO] 📸 Motion detected, saved images/999.png
+2025-09-10 10:45:19,170 [INFO] 📸 Motion detected, saved images/1000.png
+2025-09-10 10:45:19,251 [INFO] 📸 Motion detected, saved images/1001.png
+2025-09-10 10:45:19,288 [INFO] 📸 Motion detected, saved images/1002.png
+2025-09-10 10:45:19,320 [INFO] 📸 Motion detected, saved images/1003.png
+2025-09-10 10:45:19,387 [INFO] 📸 Motion detected, saved images/1004.png
+2025-09-10 10:45:19,420 [INFO] 📸 Motion detected, saved images/1005.png
+2025-09-10 10:45:19,451 [INFO] 📸 Motion detected, saved images/1006.png
+2025-09-10 10:45:19,510 [INFO] 📸 Motion detected, saved images/1007.png
+2025-09-10 10:45:19,537 [INFO] 📸 Motion detected, saved images/1008.png
+2025-09-10 10:45:19,621 [INFO] 📸 Motion detected, saved images/1009.png
+2025-09-10 10:45:19,649 [INFO] 📸 Motion detected, saved images/1010.png
+2025-09-10 10:45:19,719 [INFO] 📸 Motion detected, saved images/1011.png
+2025-09-10 10:45:19,751 [INFO] 📸 Motion detected, saved images/1012.png
+2025-09-10 10:45:19,782 [INFO] 📸 Motion detected, saved images/1013.png
+2025-09-10 10:45:19,852 [INFO] 📸 Motion detected, saved images/1014.png
+2025-09-10 10:45:19,884 [INFO] 📸 Motion detected, saved images/1015.png
+2025-09-10 10:45:19,914 [INFO] 📸 Motion detected, saved images/1016.png
+2025-09-10 10:45:19,978 [INFO] 📸 Motion detected, saved images/1017.png
+2025-09-10 10:45:20,005 [INFO] 📸 Motion detected, saved images/1018.png
+2025-09-10 10:45:20,032 [INFO] 📸 Motion detected, saved images/1019.png
+2025-09-10 10:45:20,081 [INFO] 📸 Motion detected, saved images/1020.png
+2025-09-10 10:45:20,109 [INFO] 📸 Motion detected, saved images/1021.png
+2025-09-10 10:45:20,183 [INFO] 📸 Motion detected, saved images/1022.png
+2025-09-10 10:45:20,210 [INFO] 📸 Motion detected, saved images/1023.png
+2025-09-10 10:45:20,278 [INFO] 📸 Motion detected, saved images/1024.png
+2025-09-10 10:45:20,306 [INFO] 📸 Motion detected, saved images/1025.png
+2025-09-10 10:45:20,382 [INFO] 📸 Motion detected, saved images/1026.png
+2025-09-10 10:45:20,411 [INFO] 📸 Motion detected, saved images/1027.png
+2025-09-10 10:45:20,489 [INFO] 📸 Motion detected, saved images/1028.png
+2025-09-10 10:45:20,518 [INFO] 📸 Motion detected, saved images/1029.png
+2025-09-10 10:45:20,583 [INFO] 📸 Motion detected, saved images/1030.png
+2025-09-10 10:45:20,610 [INFO] 📸 Motion detected, saved images/1031.png
+2025-09-10 10:45:20,682 [INFO] 📸 Motion detected, saved images/1032.png
+2025-09-10 10:45:20,710 [INFO] 📸 Motion detected, saved images/1033.png
+2025-09-10 10:45:20,736 [INFO] 📸 Motion detected, saved images/1034.png
+2025-09-10 10:45:20,817 [INFO] 📸 Motion detected, saved images/1035.png
+2025-09-10 10:45:20,879 [INFO] 📸 Motion detected, saved images/1036.png
+2025-09-10 10:45:20,947 [INFO] 📸 Motion detected, saved images/1037.png
+2025-09-10 10:45:21,013 [INFO] 📸 Motion detected, saved images/1038.png
+2025-09-10 10:45:21,086 [INFO] 📸 Motion detected, saved images/1039.png
+2025-09-10 10:45:21,148 [INFO] 📸 Motion detected, saved images/1040.png
+2025-09-10 10:45:21,213 [INFO] 📸 Motion detected, saved images/1041.png
+2025-09-10 10:45:21,282 [INFO] 📸 Motion detected, saved images/1042.png
+2025-09-10 10:45:21,309 [INFO] 📸 Motion detected, saved images/1043.png
+2025-09-10 10:45:21,385 [INFO] 📸 Motion detected, saved images/1044.png
+2025-09-10 10:45:21,447 [INFO] 📸 Motion detected, saved images/1045.png
+2025-09-10 10:45:21,514 [INFO] 📸 Motion detected, saved images/1046.png
+2025-09-10 10:45:21,583 [INFO] 📸 Motion detected, saved images/1047.png
+2025-09-10 10:45:21,648 [INFO] 📸 Motion detected, saved images/1048.png
+2025-09-10 10:45:21,718 [INFO] 📸 Motion detected, saved images/1049.png
+2025-09-10 10:45:21,783 [INFO] 📸 Motion detected, saved images/1050.png
+2025-09-10 10:45:21,848 [INFO] 📸 Motion detected, saved images/1051.png
+2025-09-10 10:45:21,913 [INFO] 📸 Motion detected, saved images/1052.png
+2025-09-10 10:45:21,985 [INFO] 📸 Motion detected, saved images/1053.png
+2025-09-10 10:45:22,046 [INFO] 📸 Motion detected, saved images/1054.png
+2025-09-10 10:45:22,115 [INFO] 📸 Motion detected, saved images/1055.png
+2025-09-10 10:45:22,181 [INFO] 📸 Motion detected, saved images/1056.png
+2025-09-10 10:45:22,249 [INFO] 📸 Motion detected, saved images/1057.png
+2025-09-10 10:45:22,331 [INFO] 📸 Motion detected, saved images/1058.png
+2025-09-10 10:45:22,397 [INFO] 📸 Motion detected, saved images/1059.png
+2025-09-10 10:45:22,445 [INFO] 📸 Motion detected, saved images/1060.png
+2025-09-10 10:45:22,514 [INFO] 📸 Motion detected, saved images/1061.png
+2025-09-10 10:45:22,581 [INFO] 📸 Motion detected, saved images/1062.png
+2025-09-10 10:45:22,648 [INFO] 📸 Motion detected, saved images/1063.png
+2025-09-10 10:45:22,715 [INFO] 📸 Motion detected, saved images/1064.png
+2025-09-10 10:45:22,780 [INFO] 📸 Motion detected, saved images/1065.png
+2025-09-10 10:45:22,848 [INFO] 📸 Motion detected, saved images/1066.png
+2025-09-10 10:45:22,915 [INFO] 📸 Motion detected, saved images/1067.png
+2025-09-10 10:45:22,981 [INFO] 📸 Motion detected, saved images/1068.png
+2025-09-10 10:45:23,047 [INFO] 📸 Motion detected, saved images/1069.png
+2025-09-10 10:45:23,115 [INFO] 📸 Motion detected, saved images/1070.png
+2025-09-10 10:45:23,182 [INFO] 📸 Motion detected, saved images/1071.png
+2025-09-10 10:45:23,248 [INFO] 📸 Motion detected, saved images/1072.png
+2025-09-10 10:45:23,313 [INFO] 📸 Motion detected, saved images/1073.png
+2025-09-10 10:45:23,379 [INFO] 📸 Motion detected, saved images/1074.png
+2025-09-10 10:45:23,449 [INFO] 📸 Motion detected, saved images/1075.png
+2025-09-10 10:45:23,512 [INFO] 📸 Motion detected, saved images/1076.png
+2025-09-10 10:45:23,578 [INFO] 📸 Motion detected, saved images/1077.png
+2025-09-10 10:45:23,646 [INFO] 📸 Motion detected, saved images/1078.png
+2025-09-10 10:45:23,712 [INFO] 📸 Motion detected, saved images/1079.png
+2025-09-10 10:45:23,778 [INFO] 📸 Motion detected, saved images/1080.png
+2025-09-10 10:45:23,847 [INFO] 📸 Motion detected, saved images/1081.png
+2025-09-10 10:45:23,911 [INFO] 📸 Motion detected, saved images/1082.png
+2025-09-10 10:45:23,978 [INFO] 📸 Motion detected, saved images/1083.png
+2025-09-10 10:45:24,044 [INFO] 📸 Motion detected, saved images/1084.png
+2025-09-10 10:45:24,114 [INFO] 📸 Motion detected, saved images/1085.png
+2025-09-10 10:45:24,176 [INFO] 📸 Motion detected, saved images/1086.png
+2025-09-10 10:45:24,245 [INFO] 📸 Motion detected, saved images/1087.png
+2025-09-10 10:45:24,326 [INFO] 📸 Motion detected, saved images/1088.png
+2025-09-10 10:45:24,378 [INFO] 📸 Motion detected, saved images/1089.png
+2025-09-10 10:45:24,446 [INFO] 📸 Motion detected, saved images/1090.png
+2025-09-10 10:45:24,512 [INFO] 📸 Motion detected, saved images/1091.png
+2025-09-10 10:45:24,580 [INFO] 📸 Motion detected, saved images/1092.png
+2025-09-10 10:45:24,644 [INFO] 📸 Motion detected, saved images/1093.png
+2025-09-10 10:45:24,711 [INFO] 📸 Motion detected, saved images/1094.png
+2025-09-10 10:45:24,778 [INFO] 📸 Motion detected, saved images/1095.png
+2025-09-10 10:45:24,813 [INFO] 📧 Triggering email with images/256.png
+2025-09-10 10:45:24,890 [INFO] 🗑️ Cleaned up images folder
+2025-09-10 10:45:25,081 [INFO] 📸 Motion detected, saved images/1096.png
+2025-09-10 10:45:25,145 [INFO] 📸 Motion detected, saved images/1097.png
+2025-09-10 10:45:25,214 [INFO] 📸 Motion detected, saved images/1098.png
+2025-09-10 10:45:25,280 [INFO] 📸 Motion detected, saved images/1099.png
+2025-09-10 10:45:25,345 [INFO] 📸 Motion detected, saved images/1100.png
+2025-09-10 10:45:25,411 [INFO] 📸 Motion detected, saved images/1101.png
+2025-09-10 10:45:25,480 [INFO] 📸 Motion detected, saved images/1102.png
+2025-09-10 10:45:25,546 [INFO] 📸 Motion detected, saved images/1103.png
+2025-09-10 10:45:25,612 [INFO] 📸 Motion detected, saved images/1104.png
+2025-09-10 10:45:25,677 [INFO] 📸 Motion detected, saved images/1105.png
+2025-09-10 10:45:25,746 [INFO] 📸 Motion detected, saved images/1106.png
+2025-09-10 10:45:25,813 [INFO] 📸 Motion detected, saved images/1107.png
+2025-09-10 10:45:25,877 [INFO] 📸 Motion detected, saved images/1108.png
+2025-09-10 10:45:25,947 [INFO] 📸 Motion detected, saved images/1109.png
+2025-09-10 10:45:26,013 [INFO] 📸 Motion detected, saved images/1110.png
+2025-09-10 10:45:26,077 [INFO] 📸 Motion detected, saved images/1111.png
+2025-09-10 10:45:26,146 [INFO] 📸 Motion detected, saved images/1112.png
+2025-09-10 10:45:26,211 [INFO] 📸 Motion detected, saved images/1113.png
+2025-09-10 10:45:26,278 [INFO] 📸 Motion detected, saved images/1114.png
+2025-09-10 10:45:26,345 [INFO] 📸 Motion detected, saved images/1115.png
+2025-09-10 10:45:26,414 [INFO] 📸 Motion detected, saved images/1116.png
+2025-09-10 10:45:26,479 [INFO] 📸 Motion detected, saved images/1117.png
+2025-09-10 10:45:26,546 [INFO] 📸 Motion detected, saved images/1118.png
+2025-09-10 10:45:26,612 [INFO] 📸 Motion detected, saved images/1119.png
+2025-09-10 10:45:26,650 [INFO] 📧 Triggering email with images/1110.png
+2025-09-10 10:45:26,661 [INFO] 🗑️ Cleaned up images folder
+2025-09-10 10:45:27,090 [INFO] 📸 Motion detected, saved images/1120.png
+2025-09-10 10:45:27,145 [INFO] 📸 Motion detected, saved images/1121.png
+2025-09-10 10:45:27,211 [INFO] 📸 Motion detected, saved images/1122.png
+2025-09-10 10:45:27,236 [INFO] 📸 Motion detected, saved images/1123.png
+2025-09-10 10:45:27,311 [INFO] 📸 Motion detected, saved images/1124.png
+2025-09-10 10:45:27,337 [INFO] 📸 Motion detected, saved images/1125.png
+2025-09-10 10:45:27,411 [INFO] 📸 Motion detected, saved images/1126.png
+2025-09-10 10:45:27,436 [INFO] 📸 Motion detected, saved images/1127.png
+2025-09-10 10:45:27,536 [INFO] 📸 Motion detected, saved images/1128.png
+2025-09-10 10:45:27,562 [INFO] 📸 Motion detected, saved images/1129.png
+2025-09-10 10:45:27,611 [INFO] 📸 Motion detected, saved images/1130.png
+2025-09-10 10:45:27,637 [INFO] 📸 Motion detected, saved images/1131.png
+2025-09-10 10:45:27,712 [INFO] 📸 Motion detected, saved images/1132.png
+2025-09-10 10:45:27,739 [INFO] 📸 Motion detected, saved images/1133.png
+2025-09-10 10:45:27,765 [INFO] 📸 Motion detected, saved images/1134.png
+2025-09-10 10:45:27,810 [INFO] 📸 Motion detected, saved images/1135.png
+2025-09-10 10:45:27,878 [INFO] 📸 Motion detected, saved images/1136.png
+2025-09-10 10:45:27,946 [INFO] 📸 Motion detected, saved images/1137.png
+2025-09-10 10:45:27,972 [INFO] 📸 Motion detected, saved images/1138.png
+2025-09-10 10:45:28,044 [INFO] 📸 Motion detected, saved images/1139.png
+2025-09-10 10:45:28,071 [INFO] 📸 Motion detected, saved images/1140.png
+2025-09-10 10:45:28,146 [INFO] 📸 Motion detected, saved images/1141.png
+2025-09-10 10:45:28,172 [INFO] 📸 Motion detected, saved images/1142.png
+2025-09-10 10:45:28,246 [INFO] 📸 Motion detected, saved images/1143.png
+2025-09-10 10:45:28,274 [INFO] 📸 Motion detected, saved images/1144.png
+2025-09-10 10:45:28,303 [INFO] 📸 Motion detected, saved images/1145.png
+2025-09-10 10:45:28,376 [INFO] 📸 Motion detected, saved images/1146.png
+2025-09-10 10:45:28,403 [INFO] 📸 Motion detected, saved images/1147.png
+2025-09-10 10:45:28,479 [INFO] 📸 Motion detected, saved images/1148.png
+2025-09-10 10:45:28,506 [INFO] 📸 Motion detected, saved images/1149.png
+2025-09-10 10:45:28,577 [INFO] 📸 Motion detected, saved images/1150.png
+2025-09-10 10:45:28,605 [INFO] 📸 Motion detected, saved images/1151.png
+2025-09-10 10:45:28,631 [INFO] 📸 Motion detected, saved images/1152.png
+2025-09-10 10:45:28,657 [INFO] 📸 Motion detected, saved images/1153.png
+2025-09-10 10:45:28,710 [INFO] 📸 Motion detected, saved images/1154.png
+2025-09-10 10:45:28,736 [INFO] 📸 Motion detected, saved images/1155.png
+2025-09-10 10:45:28,762 [INFO] 📸 Motion detected, saved images/1156.png
+2025-09-10 10:45:28,844 [INFO] 📸 Motion detected, saved images/1157.png
+2025-09-10 10:45:28,873 [INFO] 📸 Motion detected, saved images/1158.png
+2025-09-10 10:45:28,900 [INFO] 📸 Motion detected, saved images/1159.png
+2025-09-10 10:45:28,927 [INFO] 📸 Motion detected, saved images/1160.png
+2025-09-10 10:45:28,974 [INFO] 📸 Motion detected, saved images/1161.png
+2025-09-10 10:45:29,001 [INFO] 📸 Motion detected, saved images/1162.png
+2025-09-10 10:45:29,028 [INFO] 📸 Motion detected, saved images/1163.png
+2025-09-10 10:45:29,055 [INFO] 📸 Motion detected, saved images/1164.png
+2025-09-10 10:45:29,082 [INFO] 📸 Motion detected, saved images/1165.png
+2025-09-10 10:45:29,141 [INFO] 📸 Motion detected, saved images/1166.png
+2025-09-10 10:45:29,170 [INFO] 📸 Motion detected, saved images/1167.png
+2025-09-10 10:45:29,231 [INFO] 📸 Motion detected, saved images/1168.png
+2025-09-10 10:45:29,260 [INFO] 📸 Motion detected, saved images/1169.png
+2025-09-10 10:45:29,287 [INFO] 📸 Motion detected, saved images/1170.png
+2025-09-10 10:45:29,339 [INFO] 📸 Motion detected, saved images/1171.png
+2025-09-10 10:45:29,366 [INFO] 📸 Motion detected, saved images/1172.png
+2025-09-10 10:45:29,392 [INFO] 📸 Motion detected, saved images/1173.png
+2025-09-10 10:45:29,420 [INFO] 📸 Motion detected, saved images/1174.png
+2025-09-10 10:45:29,448 [INFO] 📸 Motion detected, saved images/1175.png
+2025-09-10 10:45:29,505 [INFO] 📸 Motion detected, saved images/1176.png
+2025-09-10 10:45:29,534 [INFO] 📸 Motion detected, saved images/1177.png
+2025-09-10 10:45:29,609 [INFO] 📸 Motion detected, saved images/1178.png
+2025-09-10 10:45:29,636 [INFO] 📸 Motion detected, saved images/1179.png
+2025-09-10 10:45:29,709 [INFO] 📸 Motion detected, saved images/1180.png
+2025-09-10 10:45:29,777 [INFO] 📸 Motion detected, saved images/1181.png
+2025-09-10 10:45:29,844 [INFO] 📸 Motion detected, saved images/1182.png
+2025-09-10 10:45:29,911 [INFO] 📸 Motion detected, saved images/1183.png
+2025-09-10 10:45:29,977 [INFO] 📸 Motion detected, saved images/1184.png
+2025-09-10 10:45:30,072 [INFO] 📸 Motion detected, saved images/1185.png
+2025-09-10 10:45:30,176 [INFO] 📸 Motion detected, saved images/1186.png
+2025-09-10 10:45:30,243 [INFO] 📸 Motion detected, saved images/1187.png
+2025-09-10 10:45:30,308 [INFO] 📸 Motion detected, saved images/1188.png
+2025-09-10 10:45:30,338 [INFO] 📸 Motion detected, saved images/1189.png
+2025-09-10 10:45:30,409 [INFO] 📸 Motion detected, saved images/1190.png
+2025-09-10 10:45:30,437 [INFO] 📸 Motion detected, saved images/1191.png
+2025-09-10 10:45:30,510 [INFO] 📸 Motion detected, saved images/1192.png
+2025-09-10 10:45:30,577 [INFO] 📸 Motion detected, saved images/1193.png
+2025-09-10 10:45:30,644 [INFO] 📸 Motion detected, saved images/1194.png
+2025-09-10 10:45:30,671 [INFO] 📸 Motion detected, saved images/1195.png
+2025-09-10 10:45:30,743 [INFO] 📸 Motion detected, saved images/1196.png
+2025-09-10 10:45:30,812 [INFO] 📸 Motion detected, saved images/1197.png
+2025-09-10 10:45:30,877 [INFO] 📸 Motion detected, saved images/1198.png
+2025-09-10 10:45:30,946 [INFO] 📸 Motion detected, saved images/1199.png
+2025-09-10 10:45:31,009 [INFO] 📸 Motion detected, saved images/1200.png
+2025-09-10 10:45:31,075 [INFO] 📸 Motion detected, saved images/1201.png
+2025-09-10 10:45:31,142 [INFO] 📸 Motion detected, saved images/1202.png
+2025-09-10 10:45:31,209 [INFO] 📸 Motion detected, saved images/1203.png
+2025-09-10 10:45:31,275 [INFO] 📸 Motion detected, saved images/1204.png
+2025-09-10 10:45:31,343 [INFO] 📸 Motion detected, saved images/1205.png
+2025-09-10 10:45:31,411 [INFO] 📸 Motion detected, saved images/1206.png
+2025-09-10 10:45:31,475 [INFO] 📸 Motion detected, saved images/1207.png
+2025-09-10 10:45:31,543 [INFO] 📸 Motion detected, saved images/1208.png
+2025-09-10 10:45:31,610 [INFO] 📸 Motion detected, saved images/1209.png
+2025-09-10 10:45:31,676 [INFO] 📸 Motion detected, saved images/1210.png
+2025-09-10 10:45:31,744 [INFO] 📸 Motion detected, saved images/1211.png
+2025-09-10 10:45:31,810 [INFO] 📸 Motion detected, saved images/1212.png
+2025-09-10 10:45:31,873 [INFO] 📸 Motion detected, saved images/1213.png
+2025-09-10 10:45:31,947 [INFO] 📸 Motion detected, saved images/1214.png
+2025-09-10 10:45:32,029 [INFO] 📸 Motion detected, saved images/1215.png
+2025-09-10 10:45:32,109 [INFO] 📸 Motion detected, saved images/1216.png
+2025-09-10 10:45:32,175 [INFO] 📸 Motion detected, saved images/1217.png
+2025-09-10 10:45:32,243 [INFO] 📸 Motion detected, saved images/1218.png
+2025-09-10 10:45:32,309 [INFO] 📸 Motion detected, saved images/1219.png
+2025-09-10 10:45:32,376 [INFO] 📸 Motion detected, saved images/1220.png
+2025-09-10 10:45:32,443 [INFO] 📸 Motion detected, saved images/1221.png
+2025-09-10 10:45:32,509 [INFO] 📸 Motion detected, saved images/1222.png
+2025-09-10 10:45:32,574 [INFO] 📸 Motion detected, saved images/1223.png
+2025-09-10 10:45:32,641 [INFO] 📸 Motion detected, saved images/1224.png
+2025-09-10 10:45:32,708 [INFO] 📸 Motion detected, saved images/1225.png
+2025-09-10 10:45:32,773 [INFO] 📸 Motion detected, saved images/1226.png
+2025-09-10 10:45:32,840 [INFO] 📸 Motion detected, saved images/1227.png
+2025-09-10 10:45:32,908 [INFO] 📸 Motion detected, saved images/1228.png
+2025-09-10 10:45:32,975 [INFO] 📸 Motion detected, saved images/1229.png
+2025-09-10 10:45:33,041 [INFO] 📸 Motion detected, saved images/1230.png
+2025-09-10 10:45:33,108 [INFO] 📸 Motion detected, saved images/1231.png
+2025-09-10 10:45:33,177 [INFO] 📸 Motion detected, saved images/1232.png
+2025-09-10 10:45:33,243 [INFO] 📸 Motion detected, saved images/1233.png
+2025-09-10 10:45:33,307 [INFO] 📸 Motion detected, saved images/1234.png
+2025-09-10 10:45:33,375 [INFO] 📸 Motion detected, saved images/1235.png
+2025-09-10 10:45:33,442 [INFO] 📸 Motion detected, saved images/1236.png
+2025-09-10 10:45:33,510 [INFO] 📸 Motion detected, saved images/1237.png
+2025-09-10 10:45:33,576 [INFO] 📸 Motion detected, saved images/1238.png
+2025-09-10 10:45:33,644 [INFO] 📸 Motion detected, saved images/1239.png
+2025-09-10 10:45:33,708 [INFO] 📸 Motion detected, saved images/1240.png
+2025-09-10 10:45:33,776 [INFO] 📸 Motion detected, saved images/1241.png
+2025-09-10 10:45:33,841 [INFO] 📸 Motion detected, saved images/1242.png
+2025-09-10 10:45:33,908 [INFO] 📸 Motion detected, saved images/1243.png
+2025-09-10 10:45:33,975 [INFO] 📸 Motion detected, saved images/1244.png
+2025-09-10 10:45:34,041 [INFO] 📸 Motion detected, saved images/1245.png
+2025-09-10 10:45:34,109 [INFO] 📸 Motion detected, saved images/1246.png
+2025-09-10 10:45:34,174 [INFO] 📸 Motion detected, saved images/1247.png
+2025-09-10 10:45:34,240 [INFO] 📸 Motion detected, saved images/1248.png
+2025-09-10 10:45:34,310 [INFO] 📸 Motion detected, saved images/1249.png
+2025-09-10 10:45:34,391 [INFO] 📸 Motion detected, saved images/1250.png
+2025-09-10 10:45:34,448 [INFO] 📸 Motion detected, saved images/1251.png
+2025-09-10 10:45:34,506 [INFO] 📸 Motion detected, saved images/1252.png
+2025-09-10 10:45:34,575 [INFO] 📸 Motion detected, saved images/1253.png
+2025-09-10 10:45:34,640 [INFO] 📸 Motion detected, saved images/1254.png
+2025-09-10 10:45:34,708 [INFO] 📸 Motion detected, saved images/1255.png
+2025-09-10 10:45:34,780 [INFO] 📸 Motion detected, saved images/1256.png
+2025-09-10 10:45:34,848 [INFO] 📸 Motion detected, saved images/1257.png
+2025-09-10 10:45:34,928 [INFO] 📸 Motion detected, saved images/1258.png
+2025-09-10 10:45:35,015 [INFO] 📸 Motion detected, saved images/1259.png
+2025-09-10 10:45:35,077 [INFO] 📸 Motion detected, saved images/1260.png
+2025-09-10 10:45:35,148 [INFO] 📸 Motion detected, saved images/1261.png
+2025-09-10 10:45:35,229 [INFO] 📸 Motion detected, saved images/1262.png
+2025-09-10 10:45:35,320 [INFO] 📸 Motion detected, saved images/1263.png
+2025-09-10 10:45:35,383 [INFO] 📸 Motion detected, saved images/1264.png
+2025-09-10 10:45:35,438 [INFO] 📸 Motion detected, saved images/1265.png
+2025-09-10 10:45:35,507 [INFO] 📸 Motion detected, saved images/1266.png
+2025-09-10 10:45:35,534 [INFO] 📸 Motion detected, saved images/1267.png
+2025-09-10 10:45:35,607 [INFO] 📸 Motion detected, saved images/1268.png
+2025-09-10 10:45:35,635 [INFO] 📸 Motion detected, saved images/1269.png
+2025-09-10 10:45:35,707 [INFO] 📸 Motion detected, saved images/1270.png
+2025-09-10 10:45:35,736 [INFO] 📸 Motion detected, saved images/1271.png
+2025-09-10 10:45:35,807 [INFO] 📸 Motion detected, saved images/1272.png
+2025-09-10 10:45:35,834 [INFO] 📸 Motion detected, saved images/1273.png
+2025-09-10 10:45:35,908 [INFO] 📸 Motion detected, saved images/1274.png
+2025-09-10 10:45:35,935 [INFO] 📸 Motion detected, saved images/1275.png
+2025-09-10 10:45:36,011 [INFO] 📸 Motion detected, saved images/1276.png
+2025-09-10 10:45:36,039 [INFO] 📸 Motion detected, saved images/1277.png
+2025-09-10 10:45:36,106 [INFO] 📸 Motion detected, saved images/1278.png
+2025-09-10 10:45:36,135 [INFO] 📸 Motion detected, saved images/1279.png
+2025-09-10 10:45:36,210 [INFO] 📸 Motion detected, saved images/1280.png
+2025-09-10 10:45:36,239 [INFO] 📸 Motion detected, saved images/1281.png
+2025-09-10 10:45:36,308 [INFO] 📸 Motion detected, saved images/1282.png
+2025-09-10 10:45:36,335 [INFO] 📸 Motion detected, saved images/1283.png
+2025-09-10 10:45:36,407 [INFO] 📸 Motion detected, saved images/1284.png
+2025-09-10 10:45:36,434 [INFO] 📸 Motion detected, saved images/1285.png
+2025-09-10 10:45:36,507 [INFO] 📸 Motion detected, saved images/1286.png
+2025-09-10 10:45:36,534 [INFO] 📸 Motion detected, saved images/1287.png
+2025-09-10 10:45:36,606 [INFO] 📸 Motion detected, saved images/1288.png
+2025-09-10 10:45:36,636 [INFO] 📸 Motion detected, saved images/1289.png
+2025-09-10 10:45:36,707 [INFO] 📸 Motion detected, saved images/1290.png
+2025-09-10 10:45:36,734 [INFO] 📸 Motion detected, saved images/1291.png
+2025-09-10 10:45:36,807 [INFO] 📸 Motion detected, saved images/1292.png
+2025-09-10 10:45:36,834 [INFO] 📸 Motion detected, saved images/1293.png
+2025-09-10 10:45:36,908 [INFO] 📸 Motion detected, saved images/1294.png
+2025-09-10 10:45:36,936 [INFO] 📸 Motion detected, saved images/1295.png
+2025-09-10 10:45:37,006 [INFO] 📸 Motion detected, saved images/1296.png
+2025-09-10 10:45:37,034 [INFO] 📸 Motion detected, saved images/1297.png
+2025-09-10 10:45:37,107 [INFO] 📸 Motion detected, saved images/1298.png
+2025-09-10 10:45:37,134 [INFO] 📸 Motion detected, saved images/1299.png
+2025-09-10 10:45:37,206 [INFO] 📸 Motion detected, saved images/1300.png
+2025-09-10 10:45:37,233 [INFO] 📸 Motion detected, saved images/1301.png
+2025-09-10 10:45:37,307 [INFO] 📸 Motion detected, saved images/1302.png
+2025-09-10 10:45:37,334 [INFO] 📸 Motion detected, saved images/1303.png
+2025-09-10 10:45:37,410 [INFO] 📸 Motion detected, saved images/1304.png
+2025-09-10 10:45:37,437 [INFO] 📸 Motion detected, saved images/1305.png
+2025-09-10 10:45:37,506 [INFO] 📸 Motion detected, saved images/1306.png
+2025-09-10 10:45:37,533 [INFO] 📸 Motion detected, saved images/1307.png
+2025-09-10 10:45:37,608 [INFO] 📸 Motion detected, saved images/1308.png
+2025-09-10 10:45:37,635 [INFO] 📸 Motion detected, saved images/1309.png
+2025-09-10 10:45:37,706 [INFO] 📸 Motion detected, saved images/1310.png
+2025-09-10 10:45:37,732 [INFO] 📸 Motion detected, saved images/1311.png
+2025-09-10 10:45:37,806 [INFO] 📸 Motion detected, saved images/1312.png
+2025-09-10 10:45:37,833 [INFO] 📸 Motion detected, saved images/1313.png
+2025-09-10 10:45:37,906 [INFO] 📸 Motion detected, saved images/1314.png
+2025-09-10 10:45:37,933 [INFO] 📸 Motion detected, saved images/1315.png
+2025-09-10 10:45:38,007 [INFO] 📸 Motion detected, saved images/1316.png
+2025-09-10 10:45:38,034 [INFO] 📸 Motion detected, saved images/1317.png
+2025-09-10 10:45:38,106 [INFO] 📸 Motion detected, saved images/1318.png
+2025-09-10 10:45:38,133 [INFO] 📸 Motion detected, saved images/1319.png
+2025-09-10 10:45:38,207 [INFO] 📸 Motion detected, saved images/1320.png
+2025-09-10 10:45:38,234 [INFO] 📸 Motion detected, saved images/1321.png
+2025-09-10 10:45:38,308 [INFO] 📸 Motion detected, saved images/1322.png
+2025-09-10 10:45:38,335 [INFO] 📸 Motion detected, saved images/1323.png
+2025-09-10 10:45:38,407 [INFO] 📸 Motion detected, saved images/1324.png
+2025-09-10 10:45:38,433 [INFO] 📸 Motion detected, saved images/1325.png
+2025-09-10 10:45:38,506 [INFO] 📸 Motion detected, saved images/1326.png
+2025-09-10 10:45:38,533 [INFO] 📸 Motion detected, saved images/1327.png
+2025-09-10 10:45:38,606 [INFO] 📸 Motion detected, saved images/1328.png
+2025-09-10 10:45:38,633 [INFO] 📸 Motion detected, saved images/1329.png
+2025-09-10 10:45:38,706 [INFO] 📸 Motion detected, saved images/1330.png
+2025-09-10 10:45:38,734 [INFO] 📸 Motion detected, saved images/1331.png
+2025-09-10 10:45:38,807 [INFO] 📸 Motion detected, saved images/1332.png
+2025-09-10 10:45:38,833 [INFO] 📸 Motion detected, saved images/1333.png
+2025-09-10 10:45:38,906 [INFO] 📸 Motion detected, saved images/1334.png
+2025-09-10 10:45:38,933 [INFO] 📸 Motion detected, saved images/1335.png
+2025-09-10 10:45:39,008 [INFO] 📸 Motion detected, saved images/1336.png
+2025-09-10 10:45:39,040 [INFO] 📸 Motion detected, saved images/1337.png
+2025-09-10 10:45:39,111 [INFO] 📸 Motion detected, saved images/1338.png
+2025-09-10 10:45:39,139 [INFO] 📸 Motion detected, saved images/1339.png
+2025-09-10 10:45:39,209 [INFO] 📸 Motion detected, saved images/1340.png
+2025-09-10 10:45:39,236 [INFO] 📸 Motion detected, saved images/1341.png
+2025-09-10 10:45:39,307 [INFO] 📸 Motion detected, saved images/1342.png
+2025-09-10 10:45:39,334 [INFO] 📸 Motion detected, saved images/1343.png
+2025-09-10 10:45:39,407 [INFO] 📸 Motion detected, saved images/1344.png
+2025-09-10 10:45:39,434 [INFO] 📸 Motion detected, saved images/1345.png
+2025-09-10 10:45:39,508 [INFO] 📸 Motion detected, saved images/1346.png
+2025-09-10 10:45:39,535 [INFO] 📸 Motion detected, saved images/1347.png
+2025-09-10 10:45:39,606 [INFO] 📸 Motion detected, saved images/1348.png
+2025-09-10 10:45:39,632 [INFO] 📸 Motion detected, saved images/1349.png
+2025-09-10 10:45:39,711 [INFO] 📸 Motion detected, saved images/1350.png
+2025-09-10 10:45:39,739 [INFO] 📸 Motion detected, saved images/1351.png
+2025-09-10 10:45:39,807 [INFO] 📸 Motion detected, saved images/1352.png
+2025-09-10 10:45:39,834 [INFO] 📸 Motion detected, saved images/1353.png
+2025-09-10 10:45:39,908 [INFO] 📸 Motion detected, saved images/1354.png
+2025-09-10 10:45:39,935 [INFO] 📸 Motion detected, saved images/1355.png
+2025-09-10 10:45:40,007 [INFO] 📸 Motion detected, saved images/1356.png
+2025-09-10 10:45:40,035 [INFO] 📸 Motion detected, saved images/1357.png
+2025-09-10 10:45:40,107 [INFO] 📸 Motion detected, saved images/1358.png
+2025-09-10 10:45:40,135 [INFO] 📸 Motion detected, saved images/1359.png
+2025-09-10 10:45:40,207 [INFO] 📸 Motion detected, saved images/1360.png
+2025-09-10 10:45:40,238 [INFO] 📸 Motion detected, saved images/1361.png
+2025-09-10 10:45:40,308 [INFO] 📸 Motion detected, saved images/1362.png
+2025-09-10 10:45:40,335 [INFO] 📸 Motion detected, saved images/1363.png
+2025-09-10 10:45:40,405 [INFO] 📸 Motion detected, saved images/1364.png
+2025-09-10 10:45:40,433 [INFO] 📸 Motion detected, saved images/1365.png
+2025-09-10 10:45:40,505 [INFO] 📸 Motion detected, saved images/1366.png
+2025-09-10 10:45:40,532 [INFO] 📸 Motion detected, saved images/1367.png
+2025-09-10 10:45:40,611 [INFO] 📸 Motion detected, saved images/1368.png
+2025-09-10 10:45:40,675 [INFO] 📸 Motion detected, saved images/1369.png
+2025-09-10 10:45:40,739 [INFO] 📸 Motion detected, saved images/1370.png
+2025-09-10 10:45:40,807 [INFO] 📸 Motion detected, saved images/1371.png
+2025-09-10 10:45:40,872 [INFO] 📸 Motion detected, saved images/1372.png
+2025-09-10 10:45:40,938 [INFO] 📸 Motion detected, saved images/1373.png
+2025-09-10 10:45:41,003 [INFO] 📸 Motion detected, saved images/1374.png
+2025-09-10 10:45:41,072 [INFO] 📸 Motion detected, saved images/1375.png
+2025-09-10 10:45:41,140 [INFO] 📸 Motion detected, saved images/1376.png
+2025-09-10 10:45:41,204 [INFO] 📸 Motion detected, saved images/1377.png
+2025-09-10 10:45:41,272 [INFO] 📸 Motion detected, saved images/1378.png
+2025-09-10 10:45:41,338 [INFO] 📸 Motion detected, saved images/1379.png
+2025-09-10 10:45:41,404 [INFO] 📸 Motion detected, saved images/1380.png
+2025-09-10 10:45:41,471 [INFO] 📸 Motion detected, saved images/1381.png
+2025-09-10 10:45:41,537 [INFO] 📸 Motion detected, saved images/1382.png
+2025-09-10 10:45:41,604 [INFO] 📸 Motion detected, saved images/1383.png
+2025-09-10 10:45:41,671 [INFO] 📸 Motion detected, saved images/1384.png
+2025-09-10 10:45:41,738 [INFO] 📸 Motion detected, saved images/1385.png
+2025-09-10 10:45:41,806 [INFO] 📸 Motion detected, saved images/1386.png
+2025-09-10 10:45:41,872 [INFO] 📸 Motion detected, saved images/1387.png
+2025-09-10 10:45:41,938 [INFO] 📸 Motion detected, saved images/1388.png
+2025-09-10 10:45:42,004 [INFO] 📸 Motion detected, saved images/1389.png
+2025-09-10 10:45:42,079 [INFO] 📸 Motion detected, saved images/1390.png
+2025-09-10 10:45:42,138 [INFO] 📸 Motion detected, saved images/1391.png
+2025-09-10 10:45:42,205 [INFO] 📸 Motion detected, saved images/1392.png
+2025-09-10 10:45:42,271 [INFO] 📸 Motion detected, saved images/1393.png
+2025-09-10 10:45:42,338 [INFO] 📸 Motion detected, saved images/1394.png
+2025-09-10 10:45:42,404 [INFO] 📸 Motion detected, saved images/1395.png
+2025-09-10 10:45:42,458 [INFO] ✅ Email sent successfully with images/256.png
+2025-09-10 10:45:42,470 [INFO] 📸 Motion detected, saved images/1396.png
+2025-09-10 10:45:42,540 [INFO] 📸 Motion detected, saved images/1397.png
+2025-09-10 10:45:42,604 [INFO] 📸 Motion detected, saved images/1398.png
+2025-09-10 10:45:42,672 [INFO] 📸 Motion detected, saved images/1399.png
+2025-09-10 10:45:42,737 [INFO] 📸 Motion detected, saved images/1400.png
+2025-09-10 10:45:42,803 [INFO] 📸 Motion detected, saved images/1401.png
+2025-09-10 10:45:42,871 [INFO] 📸 Motion detected, saved images/1402.png
+2025-09-10 10:45:42,938 [INFO] 📸 Motion detected, saved images/1403.png
+2025-09-10 10:45:43,007 [INFO] 📸 Motion detected, saved images/1404.png
+2025-09-10 10:45:43,079 [INFO] 📸 Motion detected, saved images/1405.png
+2025-09-10 10:45:43,138 [INFO] 📸 Motion detected, saved images/1406.png
+2025-09-10 10:45:43,215 [INFO] 📸 Motion detected, saved images/1407.png
+2025-09-10 10:45:43,271 [INFO] 📸 Motion detected, saved images/1408.png
+2025-09-10 10:45:43,339 [INFO] 📸 Motion detected, saved images/1409.png
+2025-09-10 10:45:43,407 [INFO] 📸 Motion detected, saved images/1410.png
+2025-09-10 10:45:43,473 [INFO] 📸 Motion detected, saved images/1411.png
+2025-09-10 10:45:43,538 [INFO] 📸 Motion detected, saved images/1412.png
+2025-09-10 10:45:43,604 [INFO] 📸 Motion detected, saved images/1413.png
+2025-09-10 10:45:43,673 [INFO] 📸 Motion detected, saved images/1414.png
+2025-09-10 10:45:43,738 [INFO] 📸 Motion detected, saved images/1415.png
+2025-09-10 10:45:43,805 [INFO] 📸 Motion detected, saved images/1416.png
+2025-09-10 10:45:43,871 [INFO] 📸 Motion detected, saved images/1417.png
+2025-09-10 10:45:43,938 [INFO] 📸 Motion detected, saved images/1418.png
+2025-09-10 10:45:44,004 [INFO] 📸 Motion detected, saved images/1419.png
+2025-09-10 10:45:44,073 [INFO] 📸 Motion detected, saved images/1420.png
+2025-09-10 10:45:44,140 [INFO] 📸 Motion detected, saved images/1421.png
+2025-09-10 10:45:44,205 [INFO] 📸 Motion detected, saved images/1422.png
+2025-09-10 10:45:44,270 [INFO] 📸 Motion detected, saved images/1423.png
+2025-09-10 10:45:44,337 [INFO] 📸 Motion detected, saved images/1424.png
+2025-09-10 10:45:44,407 [INFO] 📸 Motion detected, saved images/1425.png
+2025-09-10 10:45:44,471 [INFO] 📸 Motion detected, saved images/1426.png
+2025-09-10 10:45:44,535 [INFO] 📸 Motion detected, saved images/1427.png
+2025-09-10 10:45:44,606 [INFO] 📸 Motion detected, saved images/1428.png
+2025-09-10 10:45:44,672 [INFO] 📸 Motion detected, saved images/1429.png
+2025-09-10 10:45:44,740 [INFO] 📸 Motion detected, saved images/1430.png
+2025-09-10 10:45:44,803 [INFO] 📸 Motion detected, saved images/1431.png
+2025-09-10 10:45:44,873 [INFO] 📸 Motion detected, saved images/1432.png
+2025-09-10 10:45:44,900 [INFO] 📸 Motion detected, saved images/1433.png
+2025-09-10 10:45:44,970 [INFO] 📸 Motion detected, saved images/1434.png
+2025-09-10 10:45:44,997 [INFO] 📸 Motion detected, saved images/1435.png
+2025-09-10 10:45:45,072 [INFO] 📸 Motion detected, saved images/1436.png
+2025-09-10 10:45:45,099 [INFO] 📸 Motion detected, saved images/1437.png
+2025-09-10 10:45:45,171 [INFO] 📸 Motion detected, saved images/1438.png
+2025-09-10 10:45:45,197 [INFO] 📸 Motion detected, saved images/1439.png
+2025-09-10 10:45:45,270 [INFO] 📸 Motion detected, saved images/1440.png
+2025-09-10 10:45:45,297 [INFO] 📸 Motion detected, saved images/1441.png
+2025-09-10 10:45:45,369 [INFO] 📸 Motion detected, saved images/1442.png
+2025-09-10 10:45:45,396 [INFO] 📸 Motion detected, saved images/1443.png
+2025-09-10 10:45:45,473 [INFO] 📸 Motion detected, saved images/1444.png
+2025-09-10 10:45:45,500 [INFO] 📸 Motion detected, saved images/1445.png
+2025-09-10 10:45:45,571 [INFO] 📸 Motion detected, saved images/1446.png
+2025-09-10 10:45:45,597 [INFO] 📸 Motion detected, saved images/1447.png
+2025-09-10 10:45:45,673 [INFO] 📸 Motion detected, saved images/1448.png
+2025-09-10 10:45:45,700 [INFO] 📸 Motion detected, saved images/1449.png
+2025-09-10 10:45:45,770 [INFO] 📸 Motion detected, saved images/1450.png
+2025-09-10 10:45:45,797 [INFO] 📸 Motion detected, saved images/1451.png
+2025-09-10 10:45:45,869 [INFO] 📸 Motion detected, saved images/1452.png
+2025-09-10 10:45:45,896 [INFO] 📸 Motion detected, saved images/1453.png
+2025-09-10 10:45:45,969 [INFO] 📸 Motion detected, saved images/1454.png
+2025-09-10 10:45:45,997 [INFO] 📸 Motion detected, saved images/1455.png
+2025-09-10 10:45:46,069 [INFO] 📸 Motion detected, saved images/1456.png
+2025-09-10 10:45:46,096 [INFO] 📸 Motion detected, saved images/1457.png
+2025-09-10 10:45:46,169 [INFO] 📸 Motion detected, saved images/1458.png
+2025-09-10 10:45:46,196 [INFO] 📸 Motion detected, saved images/1459.png
+2025-09-10 10:45:46,271 [INFO] 📸 Motion detected, saved images/1460.png
+2025-09-10 10:45:46,300 [INFO] 📸 Motion detected, saved images/1461.png
+2025-09-10 10:45:46,371 [INFO] 📸 Motion detected, saved images/1462.png
+2025-09-10 10:45:46,400 [INFO] 📸 Motion detected, saved images/1463.png
+2025-09-10 10:45:46,473 [INFO] 📸 Motion detected, saved images/1464.png
+2025-09-10 10:45:46,538 [INFO] 📸 Motion detected, saved images/1465.png
+2025-09-10 10:45:46,605 [INFO] 📸 Motion detected, saved images/1466.png
+2025-09-10 10:45:46,669 [INFO] 📸 Motion detected, saved images/1467.png
+2025-09-10 10:45:46,737 [INFO] 📸 Motion detected, saved images/1468.png
+2025-09-10 10:45:46,802 [INFO] 📸 Motion detected, saved images/1469.png
+2025-09-10 10:45:46,818 [INFO] ✅ Email sent successfully with images/1110.png
+2025-09-10 10:45:46,869 [INFO] 📸 Motion detected, saved images/1470.png
+2025-09-10 10:45:46,937 [INFO] 📸 Motion detected, saved images/1471.png
+2025-09-10 10:45:47,002 [INFO] 📸 Motion detected, saved images/1472.png
+2025-09-10 10:45:47,074 [INFO] 📸 Motion detected, saved images/1473.png
+2025-09-10 10:45:47,138 [INFO] 📸 Motion detected, saved images/1474.png
+2025-09-10 10:45:47,205 [INFO] 📸 Motion detected, saved images/1475.png
+2025-09-10 10:45:47,269 [INFO] 📸 Motion detected, saved images/1476.png
+2025-09-10 10:45:47,335 [INFO] 📸 Motion detected, saved images/1477.png
+2025-09-10 10:45:47,403 [INFO] 📸 Motion detected, saved images/1478.png
+2025-09-10 10:45:47,468 [INFO] 📸 Motion detected, saved images/1479.png
+2025-09-10 10:45:47,535 [INFO] 📸 Motion detected, saved images/1480.png
+2025-09-10 10:45:47,602 [INFO] 📸 Motion detected, saved images/1481.png
+2025-09-10 10:45:47,671 [INFO] 📸 Motion detected, saved images/1482.png
+2025-09-10 10:45:47,736 [INFO] 📸 Motion detected, saved images/1483.png
+2025-09-10 10:45:47,803 [INFO] 📸 Motion detected, saved images/1484.png
+2025-09-10 10:45:47,869 [INFO] 📸 Motion detected, saved images/1485.png
+2025-09-10 10:45:47,935 [INFO] 📸 Motion detected, saved images/1486.png
+2025-09-10 10:45:48,005 [INFO] 📸 Motion detected, saved images/1487.png
+2025-09-10 10:45:48,070 [INFO] 📸 Motion detected, saved images/1488.png
+2025-09-10 10:45:48,135 [INFO] 📸 Motion detected, saved images/1489.png
+2025-09-10 10:45:48,202 [INFO] 📸 Motion detected, saved images/1490.png
+2025-09-10 10:45:48,270 [INFO] 📸 Motion detected, saved images/1491.png
+2025-09-10 10:45:48,337 [INFO] 📸 Motion detected, saved images/1492.png
+2025-09-10 10:45:48,409 [INFO] 📸 Motion detected, saved images/1493.png
+2025-09-10 10:45:48,466 [INFO] 📸 Motion detected, saved images/1494.png
+2025-09-10 10:45:48,537 [INFO] 📸 Motion detected, saved images/1495.png
+2025-09-10 10:45:48,606 [INFO] 📸 Motion detected, saved images/1496.png
+2025-09-10 10:45:48,671 [INFO] 📸 Motion detected, saved images/1497.png
+2025-09-10 10:45:48,735 [INFO] 📸 Motion detected, saved images/1498.png
+2025-09-10 10:45:48,804 [INFO] 📸 Motion detected, saved images/1499.png
+2025-09-10 10:45:48,868 [INFO] 📸 Motion detected, saved images/1500.png
+2025-09-10 10:45:48,936 [INFO] 📸 Motion detected, saved images/1501.png
+2025-09-10 10:45:49,003 [INFO] 📸 Motion detected, saved images/1502.png
+2025-09-10 10:45:49,069 [INFO] 📸 Motion detected, saved images/1503.png
+2025-09-10 10:45:49,136 [INFO] 📸 Motion detected, saved images/1504.png
+2025-09-10 10:45:49,201 [INFO] 📸 Motion detected, saved images/1505.png
+2025-09-10 10:45:49,270 [INFO] 📸 Motion detected, saved images/1506.png
+2025-09-10 10:45:49,335 [INFO] 📸 Motion detected, saved images/1507.png
+2025-09-10 10:45:49,406 [INFO] 📸 Motion detected, saved images/1508.png
+2025-09-10 10:45:49,467 [INFO] 📸 Motion detected, saved images/1509.png
+2025-09-10 10:45:49,537 [INFO] 📸 Motion detected, saved images/1510.png
+2025-09-10 10:45:49,605 [INFO] 📸 Motion detected, saved images/1511.png
+2025-09-10 10:45:49,669 [INFO] 📸 Motion detected, saved images/1512.png
+2025-09-10 10:45:49,740 [INFO] 📸 Motion detected, saved images/1513.png
+2025-09-10 10:45:49,803 [INFO] 📸 Motion detected, saved images/1514.png
+2025-09-10 10:45:49,874 [INFO] 📸 Motion detected, saved images/1515.png
+2025-09-10 10:45:49,937 [INFO] 📸 Motion detected, saved images/1516.png
+2025-09-10 10:45:50,001 [INFO] 📸 Motion detected, saved images/1517.png
+2025-09-10 10:45:50,069 [INFO] 📸 Motion detected, saved images/1518.png
+2025-09-10 10:45:50,154 [INFO] 📸 Motion detected, saved images/1519.png
+2025-09-10 10:45:50,221 [INFO] 📸 Motion detected, saved images/1520.png
+2025-09-10 10:45:50,298 [INFO] 📸 Motion detected, saved images/1521.png
+2025-09-10 10:45:50,368 [INFO] 📸 Motion detected, saved images/1522.png
+2025-09-10 10:45:50,398 [INFO] 📸 Motion detected, saved images/1523.png
+2025-09-10 10:45:50,474 [INFO] 📸 Motion detected, saved images/1524.png
+2025-09-10 10:45:50,502 [INFO] 📸 Motion detected, saved images/1525.png
+2025-09-10 10:45:50,568 [INFO] 📸 Motion detected, saved images/1526.png
+2025-09-10 10:45:50,595 [INFO] 📸 Motion detected, saved images/1527.png
+2025-09-10 10:45:50,668 [INFO] 📸 Motion detected, saved images/1528.png
+2025-09-10 10:45:50,695 [INFO] 📸 Motion detected, saved images/1529.png
+2025-09-10 10:45:50,769 [INFO] 📸 Motion detected, saved images/1530.png
+2025-09-10 10:45:50,796 [INFO] 📸 Motion detected, saved images/1531.png
+2025-09-10 10:45:50,870 [INFO] 📸 Motion detected, saved images/1532.png
+2025-09-10 10:45:50,897 [INFO] 📸 Motion detected, saved images/1533.png
+2025-09-10 10:45:50,968 [INFO] 📸 Motion detected, saved images/1534.png
+2025-09-10 10:45:50,995 [INFO] 📸 Motion detected, saved images/1535.png
+2025-09-10 10:45:51,069 [INFO] 📸 Motion detected, saved images/1536.png
+2025-09-10 10:45:51,096 [INFO] 📸 Motion detected, saved images/1537.png
+2025-09-10 10:45:51,169 [INFO] 📸 Motion detected, saved images/1538.png
+2025-09-10 10:45:51,196 [INFO] 📸 Motion detected, saved images/1539.png
+2025-09-10 10:45:51,270 [INFO] 📸 Motion detected, saved images/1540.png
+2025-09-10 10:45:51,297 [INFO] 📸 Motion detected, saved images/1541.png
+2025-09-10 10:45:51,369 [INFO] 📸 Motion detected, saved images/1542.png
+2025-09-10 10:45:51,396 [INFO] 📸 Motion detected, saved images/1543.png
+2025-09-10 10:45:51,477 [INFO] 📸 Motion detected, saved images/1544.png
+2025-09-10 10:45:51,507 [INFO] 📸 Motion detected, saved images/1545.png
+2025-09-10 10:45:51,566 [INFO] 📸 Motion detected, saved images/1546.png
+2025-09-10 10:45:51,595 [INFO] 📸 Motion detected, saved images/1547.png
+2025-09-10 10:45:51,669 [INFO] 📸 Motion detected, saved images/1548.png
+2025-09-10 10:45:51,696 [INFO] 📸 Motion detected, saved images/1549.png
+2025-09-10 10:45:51,769 [INFO] 📸 Motion detected, saved images/1550.png
+2025-09-10 10:45:51,796 [INFO] 📸 Motion detected, saved images/1551.png
+2025-09-10 10:45:51,867 [INFO] 📸 Motion detected, saved images/1552.png
+2025-09-10 10:45:51,895 [INFO] 📸 Motion detected, saved images/1553.png
+2025-09-10 10:45:51,968 [INFO] 📸 Motion detected, saved images/1554.png
+2025-09-10 10:45:52,001 [INFO] 📸 Motion detected, saved images/1555.png
+2025-09-10 10:45:52,070 [INFO] 📸 Motion detected, saved images/1556.png
+2025-09-10 10:45:52,099 [INFO] 📸 Motion detected, saved images/1557.png
+2025-09-10 10:45:52,164 [INFO] 📸 Motion detected, saved images/1558.png
+2025-09-10 10:45:52,193 [INFO] 📸 Motion detected, saved images/1559.png
+2025-09-10 10:45:52,263 [INFO] 📸 Motion detected, saved images/1560.png
+2025-09-10 10:45:52,292 [INFO] 📸 Motion detected, saved images/1561.png
+2025-09-10 10:45:52,366 [INFO] 📸 Motion detected, saved images/1562.png
+2025-09-10 10:45:52,396 [INFO] 📸 Motion detected, saved images/1563.png
+2025-09-10 10:45:52,468 [INFO] 📸 Motion detected, saved images/1564.png
+2025-09-10 10:45:52,496 [INFO] 📸 Motion detected, saved images/1565.png
+2025-09-10 10:45:52,570 [INFO] 📸 Motion detected, saved images/1566.png
+2025-09-10 10:45:52,597 [INFO] 📸 Motion detected, saved images/1567.png
+2025-09-10 10:45:52,669 [INFO] 📸 Motion detected, saved images/1568.png
+2025-09-10 10:45:52,698 [INFO] 📸 Motion detected, saved images/1569.png
+2025-09-10 10:45:52,768 [INFO] 📸 Motion detected, saved images/1570.png
+2025-09-10 10:45:52,798 [INFO] 📸 Motion detected, saved images/1571.png
+2025-09-10 10:45:52,866 [INFO] 📸 Motion detected, saved images/1572.png
+2025-09-10 10:45:52,896 [INFO] 📸 Motion detected, saved images/1573.png
+2025-09-10 10:45:52,964 [INFO] 📸 Motion detected, saved images/1574.png
+2025-09-10 10:45:52,993 [INFO] 📸 Motion detected, saved images/1575.png
+2025-09-10 10:45:53,069 [INFO] 📸 Motion detected, saved images/1576.png
+2025-09-10 10:45:53,097 [INFO] 📸 Motion detected, saved images/1577.png
+2025-09-10 10:45:53,167 [INFO] 📸 Motion detected, saved images/1578.png
+2025-09-10 10:45:53,194 [INFO] 📸 Motion detected, saved images/1579.png
+2025-09-10 10:45:53,269 [INFO] 📸 Motion detected, saved images/1580.png
+2025-09-10 10:45:53,296 [INFO] 📸 Motion detected, saved images/1581.png
+2025-09-10 10:45:53,371 [INFO] 📸 Motion detected, saved images/1582.png
+2025-09-10 10:45:53,402 [INFO] 📸 Motion detected, saved images/1583.png
+2025-09-10 10:45:53,434 [INFO] 📸 Motion detected, saved images/1584.png
+2025-09-10 10:45:53,502 [INFO] 📸 Motion detected, saved images/1585.png
+2025-09-10 10:45:53,530 [INFO] 📸 Motion detected, saved images/1586.png
+2025-09-10 10:45:53,604 [INFO] 📸 Motion detected, saved images/1587.png
+2025-09-10 10:45:53,631 [INFO] 📸 Motion detected, saved images/1588.png
+2025-09-10 10:45:53,701 [INFO] 📸 Motion detected, saved images/1589.png
+2025-09-10 10:45:53,728 [INFO] 📸 Motion detected, saved images/1590.png
+2025-09-10 10:45:53,800 [INFO] 📸 Motion detected, saved images/1591.png
+2025-09-10 10:45:53,827 [INFO] 📸 Motion detected, saved images/1592.png
+2025-09-10 10:45:53,900 [INFO] 📸 Motion detected, saved images/1593.png
+2025-09-10 10:45:53,934 [INFO] 📸 Motion detected, saved images/1594.png
+2025-09-10 10:45:53,999 [INFO] 📸 Motion detected, saved images/1595.png
+2025-09-10 10:45:54,033 [INFO] 📸 Motion detected, saved images/1596.png
+2025-09-10 10:45:54,098 [INFO] 📸 Motion detected, saved images/1597.png
+2025-09-10 10:45:54,169 [INFO] 📸 Motion detected, saved images/1598.png
+2025-09-10 10:45:54,233 [INFO] 📸 Motion detected, saved images/1599.png
+2025-09-10 10:45:54,302 [INFO] 📸 Motion detected, saved images/1600.png
+2025-09-10 10:45:54,366 [INFO] 📸 Motion detected, saved images/1601.png
+2025-09-10 10:45:54,434 [INFO] 📸 Motion detected, saved images/1602.png
+2025-09-10 10:45:54,499 [INFO] 📸 Motion detected, saved images/1603.png
+2025-09-10 10:45:54,566 [INFO] 📸 Motion detected, saved images/1604.png
+2025-09-10 10:45:54,636 [INFO] 📸 Motion detected, saved images/1605.png
+2025-09-10 10:45:54,700 [INFO] 📸 Motion detected, saved images/1606.png
+2025-09-10 10:45:54,768 [INFO] 📸 Motion detected, saved images/1607.png
+2025-09-10 10:45:54,832 [INFO] 📸 Motion detected, saved images/1608.png
+2025-09-10 10:45:54,900 [INFO] 📸 Motion detected, saved images/1609.png
+2025-09-10 10:45:54,966 [INFO] 📸 Motion detected, saved images/1610.png
+2025-09-10 10:45:55,033 [INFO] 📸 Motion detected, saved images/1611.png
+2025-09-10 10:45:55,101 [INFO] 📸 Motion detected, saved images/1612.png
+2025-09-10 10:45:55,165 [INFO] 📸 Motion detected, saved images/1613.png
+2025-09-10 10:45:55,233 [INFO] 📸 Motion detected, saved images/1614.png
+2025-09-10 10:45:55,300 [INFO] 📸 Motion detected, saved images/1615.png
+2025-09-10 10:45:55,371 [INFO] 📸 Motion detected, saved images/1616.png
+2025-09-10 10:45:55,433 [INFO] 📸 Motion detected, saved images/1617.png
+2025-09-10 10:45:55,498 [INFO] 📸 Motion detected, saved images/1618.png
+2025-09-10 10:45:55,573 [INFO] 📸 Motion detected, saved images/1619.png
+2025-09-10 10:45:55,631 [INFO] 📸 Motion detected, saved images/1620.png
+2025-09-10 10:45:55,699 [INFO] 📸 Motion detected, saved images/1621.png
+2025-09-10 10:45:55,765 [INFO] 📸 Motion detected, saved images/1622.png
+2025-09-10 10:45:55,833 [INFO] 📸 Motion detected, saved images/1623.png
+2025-09-10 10:45:55,898 [INFO] 📸 Motion detected, saved images/1624.png
+2025-09-10 10:45:55,966 [INFO] 📸 Motion detected, saved images/1625.png
+2025-09-10 10:45:56,033 [INFO] 📸 Motion detected, saved images/1626.png
+2025-09-10 10:45:56,099 [INFO] 📸 Motion detected, saved images/1627.png
+2025-09-10 10:45:56,165 [INFO] 📸 Motion detected, saved images/1628.png
+2025-09-10 10:45:56,232 [INFO] 📸 Motion detected, saved images/1629.png
+2025-09-10 10:45:56,300 [INFO] 📸 Motion detected, saved images/1630.png
+2025-09-10 10:45:56,367 [INFO] 📸 Motion detected, saved images/1631.png
+2025-09-10 10:45:56,432 [INFO] 📸 Motion detected, saved images/1632.png
+2025-09-10 10:45:56,512 [INFO] 📸 Motion detected, saved images/1633.png
+2025-09-10 10:45:56,564 [INFO] 📸 Motion detected, saved images/1634.png
+2025-09-10 10:45:56,631 [INFO] 📸 Motion detected, saved images/1635.png
+2025-09-10 10:45:56,699 [INFO] 📸 Motion detected, saved images/1636.png
+2025-09-10 10:45:56,768 [INFO] 📸 Motion detected, saved images/1637.png
+2025-09-10 10:45:56,832 [INFO] 📸 Motion detected, saved images/1638.png
+2025-09-10 10:45:56,900 [INFO] 📸 Motion detected, saved images/1639.png
+2025-09-10 10:45:56,967 [INFO] 📸 Motion detected, saved images/1640.png
+2025-09-10 10:45:57,032 [INFO] 📸 Motion detected, saved images/1641.png
+2025-09-10 10:45:57,098 [INFO] 📸 Motion detected, saved images/1642.png
+2025-09-10 10:45:57,165 [INFO] 📸 Motion detected, saved images/1643.png
+2025-09-10 10:45:57,232 [INFO] 📸 Motion detected, saved images/1644.png
+2025-09-10 10:45:57,300 [INFO] 📸 Motion detected, saved images/1645.png
+2025-09-10 10:45:57,367 [INFO] 📸 Motion detected, saved images/1646.png
+2025-09-10 10:45:57,431 [INFO] 📸 Motion detected, saved images/1647.png
+2025-09-10 10:45:57,496 [INFO] 📸 Motion detected, saved images/1648.png
+2025-09-10 10:45:57,561 [INFO] 📸 Motion detected, saved images/1649.png
+2025-09-10 10:45:57,653 [INFO] 📸 Motion detected, saved images/1650.png
+2025-09-10 10:45:57,733 [INFO] 📸 Motion detected, saved images/1651.png
+2025-09-10 10:45:57,800 [INFO] 📸 Motion detected, saved images/1652.png
+2025-09-10 10:45:57,828 [INFO] 📸 Motion detected, saved images/1653.png
+2025-09-10 10:45:57,900 [INFO] 📸 Motion detected, saved images/1654.png
+2025-09-10 10:45:57,928 [INFO] 📸 Motion detected, saved images/1655.png
+2025-09-10 10:45:57,998 [INFO] 📸 Motion detected, saved images/1656.png
+2025-09-10 10:45:58,025 [INFO] 📸 Motion detected, saved images/1657.png
+2025-09-10 10:45:58,099 [INFO] 📸 Motion detected, saved images/1658.png
+2025-09-10 10:45:58,126 [INFO] 📸 Motion detected, saved images/1659.png
+2025-09-10 10:45:58,198 [INFO] 📸 Motion detected, saved images/1660.png
+2025-09-10 10:45:58,225 [INFO] 📸 Motion detected, saved images/1661.png
+2025-09-10 10:45:58,299 [INFO] 📸 Motion detected, saved images/1662.png
+2025-09-10 10:45:58,327 [INFO] 📸 Motion detected, saved images/1663.png
+2025-09-10 10:45:58,399 [INFO] 📸 Motion detected, saved images/1664.png
+2025-09-10 10:45:58,426 [INFO] 📸 Motion detected, saved images/1665.png
+2025-09-10 10:45:58,498 [INFO] 📸 Motion detected, saved images/1666.png
+2025-09-10 10:45:58,526 [INFO] 📸 Motion detected, saved images/1667.png
+2025-09-10 10:45:58,603 [INFO] 📸 Motion detected, saved images/1668.png
+2025-09-10 10:45:58,632 [INFO] 📸 Motion detected, saved images/1669.png
+2025-09-10 10:45:58,701 [INFO] 📸 Motion detected, saved images/1670.png
+2025-09-10 10:45:58,729 [INFO] 📸 Motion detected, saved images/1671.png
+2025-09-10 10:45:58,798 [INFO] 📸 Motion detected, saved images/1672.png
+2025-09-10 10:45:58,826 [INFO] 📸 Motion detected, saved images/1673.png
+2025-09-10 10:45:58,897 [INFO] 📸 Motion detected, saved images/1674.png
+2025-09-10 10:45:58,924 [INFO] 📸 Motion detected, saved images/1675.png
+2025-09-10 10:45:58,998 [INFO] 📸 Motion detected, saved images/1676.png
+2025-09-10 10:45:59,025 [INFO] 📸 Motion detected, saved images/1677.png
+2025-09-10 10:45:59,099 [INFO] 📸 Motion detected, saved images/1678.png
+2025-09-10 10:45:59,126 [INFO] 📸 Motion detected, saved images/1679.png
+2025-09-10 10:45:59,198 [INFO] 📸 Motion detected, saved images/1680.png
+2025-09-10 10:45:59,225 [INFO] 📸 Motion detected, saved images/1681.png
+2025-09-10 10:45:59,299 [INFO] 📸 Motion detected, saved images/1682.png
+2025-09-10 10:45:59,328 [INFO] 📸 Motion detected, saved images/1683.png
+2025-09-10 10:45:59,399 [INFO] 📸 Motion detected, saved images/1684.png
+2025-09-10 10:45:59,426 [INFO] 📸 Motion detected, saved images/1685.png
+2025-09-10 10:45:59,498 [INFO] 📸 Motion detected, saved images/1686.png
+2025-09-10 10:45:59,525 [INFO] 📸 Motion detected, saved images/1687.png
+2025-09-10 10:45:59,600 [INFO] 📸 Motion detected, saved images/1688.png
+2025-09-10 10:45:59,628 [INFO] 📸 Motion detected, saved images/1689.png
+2025-09-10 10:45:59,701 [INFO] 📸 Motion detected, saved images/1690.png
+2025-09-10 10:45:59,730 [INFO] 📸 Motion detected, saved images/1691.png
+2025-09-10 10:45:59,798 [INFO] 📸 Motion detected, saved images/1692.png
+2025-09-10 10:45:59,864 [INFO] 📸 Motion detected, saved images/1693.png
+2025-09-10 10:45:59,931 [INFO] 📸 Motion detected, saved images/1694.png
+2025-09-10 10:46:00,000 [INFO] 📸 Motion detected, saved images/1695.png
+2025-09-10 10:46:00,064 [INFO] 📸 Motion detected, saved images/1696.png
+2025-09-10 10:46:00,164 [INFO] 📸 Motion detected, saved images/1697.png
+2025-09-10 10:46:00,242 [INFO] 📸 Motion detected, saved images/1698.png
+2025-09-10 10:46:00,301 [INFO] 📸 Motion detected, saved images/1699.png
+2025-09-10 10:46:00,364 [INFO] 📸 Motion detected, saved images/1700.png
+2025-09-10 10:46:00,432 [INFO] 📸 Motion detected, saved images/1701.png
+2025-09-10 10:46:00,498 [INFO] 📸 Motion detected, saved images/1702.png
+2025-09-10 10:46:00,564 [INFO] 📸 Motion detected, saved images/1703.png
+2025-09-10 10:46:00,630 [INFO] 📸 Motion detected, saved images/1704.png
+2025-09-10 10:46:00,697 [INFO] 📸 Motion detected, saved images/1705.png
+2025-09-10 10:46:00,764 [INFO] 📸 Motion detected, saved images/1706.png
+2025-09-10 10:46:00,844 [INFO] 📸 Motion detected, saved images/1707.png
+2025-09-10 10:46:00,933 [INFO] 📸 Motion detected, saved images/1708.png
+2025-09-10 10:46:00,996 [INFO] 📸 Motion detected, saved images/1709.png
