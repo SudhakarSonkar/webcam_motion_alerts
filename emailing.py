@@ -13,7 +13,7 @@ logging.basicConfig(
 )
 
 SENDER = RECEIVER = "sudhakar.sonkar07@gmail.com"
-PASSWORD = "password"
+PASSWORD = "app-password"
 def send_email(image_path):
     try:
         email_message = EmailMessage()
